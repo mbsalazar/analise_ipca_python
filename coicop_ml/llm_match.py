@@ -3,6 +3,7 @@ NÃO TESTADO contra a API (sem chave no ambiente de desenvolvimento).
 Uso:
   export ANTHROPIC_API_KEY=...
   python llm_match.py eval  [N]                 # mede acurácia no Brasil (exemplos do próprio Brasil, excluindo o item testado)
+  python llm_match.py evalchile [N]             # exemplos do Brasil -> testa no Chile (gabarito: chile_produtos_rotulados.csv)
   python llm_match.py run cesta_chile.csv       # CSV com colunas: codigo,item,subitem  -> chile_compat.csv
 """
 import sys, json, random, pandas as pd, anthropic
@@ -33,6 +34,15 @@ if sys.argv[1] == "eval":
     for r in test.itertuples():   # 1 por chamada para excluir o item testado dos exemplos
         p = classify(test.loc[[r.Index]], exclude_item=r.item_cod)[0]; ok += p["coicop"] == r.coicop
     print(f"acurácia nível 3: {ok/n:.2%} (n={n})")
+elif sys.argv[1] == "evalchile":
+    n = int(sys.argv[2]) if len(sys.argv) > 2 else 60
+    cl = pd.read_csv("chile_produtos_rotulados.csv"); cl = cl[cl.nivel_gabarito == 3]   # só gabarito no nível de classe
+    test = cl.sample(n, random_state=1).reset_index(drop=True); ok = ok_div = 0
+    for i in range(0, n, 20):
+        b = test.iloc[i:i + 20]
+        for p in classify(b):
+            g = test.coicop[i + p["i"]]; ok += p["coicop"] == g; ok_div += p["coicop"][:2] == g[:2]
+    print(f"Brasil->Chile | classe: {ok/n:.2%} | divisão: {ok_div/n:.2%} (n={n})")
 else:
     df = pd.read_csv(sys.argv[2]); res = []
     for s in range(0, len(df), 25):
