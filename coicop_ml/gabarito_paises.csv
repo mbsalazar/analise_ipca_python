@@ -1,0 +1,628 @@
+pais,codigo,item,subitem,coicop
+Brasil,1101002,"Cereais, leguminosas e oleaginosas",Arroz,01.1.1
+Brasil,1101051,"Cereais, leguminosas e oleaginosas",Feijão - mulatinho,01.1.1
+Brasil,1101052,"Cereais, leguminosas e oleaginosas",Feijão - preto,01.1.1
+Brasil,1101053,"Cereais, leguminosas e oleaginosas",Feijão - macáçar (fradinho),01.1.1
+Brasil,1101073,"Cereais, leguminosas e oleaginosas",Feijão - carioca (rajado),01.1.1
+Brasil,1101079,"Cereais, leguminosas e oleaginosas",Milho (em grão),01.1.1
+Brasil,1102001,"Farinhas, féculas e massas",Farinha de arroz,01.1.1
+Brasil,1102006,"Farinhas, féculas e massas",Macarrão,01.1.1
+Brasil,1102008,"Farinhas, féculas e massas",Fubá de milho,01.1.1
+Brasil,1102010,"Farinhas, féculas e massas",Flocos de milho,01.1.1
+Brasil,1102012,"Farinhas, féculas e massas",Farinha de trigo,01.1.1
+Brasil,1102023,"Farinhas, féculas e massas",Farinha de mandioca,01.1.1
+Brasil,1102029,"Farinhas, féculas e massas",Massa semipreparada,01.1.1
+Brasil,1102061,"Farinhas, féculas e massas",Macarrão instantâneo,01.1.1
+Brasil,1103002,"Tubérculos, raízes e legumes",Batata-doce,01.1.7
+Brasil,1103003,"Tubérculos, raízes e legumes",Batata-inglesa,01.1.7
+Brasil,1103004,"Tubérculos, raízes e legumes",Inhame,01.1.7
+Brasil,1103005,"Tubérculos, raízes e legumes",Mandioca (aipim),01.1.7
+Brasil,1103020,"Tubérculos, raízes e legumes",Abobrinha,01.1.7
+Brasil,1103025,"Tubérculos, raízes e legumes",Pepino,01.1.7
+Brasil,1103026,"Tubérculos, raízes e legumes",Pimentão,01.1.7
+Brasil,1103028,"Tubérculos, raízes e legumes",Tomate,01.1.7
+Brasil,1103043,"Tubérculos, raízes e legumes",Cebola,01.1.7
+Brasil,1103044,"Tubérculos, raízes e legumes",Cenoura,01.1.7
+Brasil,1104003,Açúcares e derivados,Açúcar refinado,01.1.8
+Brasil,1104004,Açúcares e derivados,Açúcar cristal,01.1.8
+Brasil,1104018,Açúcares e derivados,Balas,01.1.8
+Brasil,1104023,Açúcares e derivados,Chocolate em barra e bombom,01.1.8
+Brasil,1104032,Açúcares e derivados,Sorvete,01.1.8
+Brasil,1104052,Açúcares e derivados,Chocolate e achocolatado em pó,01.1.8
+Brasil,1104060,Açúcares e derivados,Doce de frutas em pasta,01.1.8
+Brasil,1104067,Açúcares e derivados,Açúcar demerara,01.1.8
+Brasil,1105001,Hortaliças e verduras,Alface,01.1.7
+Brasil,1105004,Hortaliças e verduras,Coentro,01.1.7
+Brasil,1105005,Hortaliças e verduras,Couve,01.1.7
+Brasil,1105006,Hortaliças e verduras,Couve-flor,01.1.7
+Brasil,1105010,Hortaliças e verduras,Repolho,01.1.7
+Brasil,1105012,Hortaliças e verduras,Cheiro-verde,01.1.7
+Brasil,1105019,Hortaliças e verduras,Brócolis,01.1.7
+Brasil,1106001,Frutas,Banana-da-terra,01.1.6
+Brasil,1106003,Frutas,Abacaxi,01.1.6
+Brasil,1106004,Frutas,Abacate,01.1.6
+Brasil,1106005,Frutas,Banana - d'água,01.1.6
+Brasil,1106006,Frutas,Banana - maçã,01.1.6
+Brasil,1106008,Frutas,Banana - prata,01.1.6
+Brasil,1106011,Frutas,Laranja - baía,01.1.6
+Brasil,1106012,Frutas,Laranja - lima,01.1.6
+Brasil,1106015,Frutas,Limão,01.1.6
+Brasil,1106017,Frutas,Maçã,01.1.6
+Brasil,1106018,Frutas,Mamão,01.1.6
+Brasil,1106019,Frutas,Manga,01.1.6
+Brasil,1106020,Frutas,Maracujá,01.1.6
+Brasil,1106021,Frutas,Melancia,01.1.6
+Brasil,1106022,Frutas,Melão,01.1.6
+Brasil,1106023,Frutas,Pera,01.1.6
+Brasil,1106027,Frutas,Tangerina,01.1.6
+Brasil,1106028,Frutas,Uva,01.1.6
+Brasil,1106039,Frutas,Laranja - pera,01.1.6
+Brasil,1106051,Frutas,Morango,01.1.6
+Brasil,1106084,Frutas,Goiaba,01.1.6
+Brasil,1107009,Carnes,Fígado,01.1.2
+Brasil,1107018,Carnes,Carne de porco,01.1.2
+Brasil,1107031,Carnes,Carne de carneiro,01.1.2
+Brasil,1107081,Carnes,Cupim,01.1.2
+Brasil,1107084,Carnes,Contrafilé,01.1.2
+Brasil,1107085,Carnes,Filé-mignon,01.1.2
+Brasil,1107087,Carnes,Chã de dentro,01.1.2
+Brasil,1107088,Carnes,Alcatra,01.1.2
+Brasil,1107089,Carnes,Patinho,01.1.2
+Brasil,1107090,Carnes,Lagarto redondo,01.1.2
+Brasil,1107091,Carnes,Lagarto comum,01.1.2
+Brasil,1107093,Carnes,Músculo,01.1.2
+Brasil,1107094,Carnes,Pá,01.1.2
+Brasil,1107095,Carnes,Acém,01.1.2
+Brasil,1107096,Carnes,Peito,01.1.2
+Brasil,1107097,Carnes,Capa de filé,01.1.2
+Brasil,1107099,Carnes,Costela,01.1.2
+Brasil,1107208,Carnes,Picanha,01.1.2
+Brasil,1108002,Pescados,Peixe - anchova,01.1.3
+Brasil,1108004,Pescados,Peixe - corvina,01.1.3
+Brasil,1108011,Pescados,Peixe - tainha,01.1.3
+Brasil,1108012,Pescados,Peixe - sardinha,01.1.3
+Brasil,1108013,Pescados,Camarão,01.1.3
+Brasil,1108019,Pescados,Peixe - cavala,01.1.3
+Brasil,1108029,Pescados,Peixe - cação,01.1.3
+Brasil,1108031,Pescados,Peixe - merluza,01.1.3
+Brasil,1108032,Pescados,Peixe - serra,01.1.3
+Brasil,1108038,Pescados,Peixe - pescada,01.1.3
+Brasil,1108045,Pescados,Caranguejo,01.1.3
+Brasil,1108049,Pescados,Peixe - castanha,01.1.3
+Brasil,1108052,Pescados,Peixe - palombeta,01.1.3
+Brasil,1108072,Pescados,Peixe - curimatã,01.1.3
+Brasil,1108075,Pescados,Peixe - salmão,01.1.3
+Brasil,1108080,Pescados,Peixe - tilápia,01.1.3
+Brasil,1108087,Pescados,Peixe - tambaqui,01.1.3
+Brasil,1108088,Pescados,Peixe - dourada,01.1.3
+Brasil,1108092,Pescados,Peixe - filhote,01.1.3
+Brasil,1108096,Pescados,Peixe - peroá,01.1.3
+Brasil,1108112,Pescados,Peixe - pintado,01.1.3
+Brasil,1108125,Pescados,Peixe - aruanã,01.1.3
+Brasil,1109002,Carnes e peixes industrializados,Presunto,01.1.2
+Brasil,1109007,Carnes e peixes industrializados,Salsicha,01.1.2
+Brasil,1109008,Carnes e peixes industrializados,Linguiça,01.1.2
+Brasil,1109010,Carnes e peixes industrializados,Mortadela,01.1.2
+Brasil,1109012,Carnes e peixes industrializados,Salame,01.1.2
+Brasil,1109023,Carnes e peixes industrializados,Bacalhau,01.1.2
+Brasil,1109056,Carnes e peixes industrializados,Carne-seca e de sol,01.1.2
+Brasil,1109058,Carnes e peixes industrializados,Carne de porco salgada e defumada,01.1.2
+Brasil,1110009,Aves e ovos,Frango inteiro,01.1.4
+Brasil,1110010,Aves e ovos,Frango em pedaços,01.1.4
+Brasil,1110044,Aves e ovos,Ovo de galinha,01.1.4
+Brasil,1111004,Leites e derivados,Leite longa vida,01.1.4
+Brasil,1111008,Leites e derivados,Leite condensado,01.1.4
+Brasil,1111009,Leites e derivados,Leite em pó,01.1.4
+Brasil,1111011,Leites e derivados,Queijo,01.1.4
+Brasil,1111019,Leites e derivados,Iogurte e bebidas lácteas,01.1.4
+Brasil,1111021,Leites e derivados,Requeijão,01.1.4
+Brasil,1111031,Leites e derivados,Manteiga,01.1.4
+Brasil,1111038,Leites e derivados,Leite fermentado,01.1.4
+Brasil,1112003,Panificados,Biscoito,01.1.1
+Brasil,1112015,Panificados,Pão francês,01.1.1
+Brasil,1112017,Panificados,Pão doce,01.1.1
+Brasil,1112018,Panificados,Pão de forma,01.1.1
+Brasil,1112019,Panificados,Bolo,01.1.1
+Brasil,1112025,Panificados,Pão de queijo,01.1.1
+Brasil,1113013,Óleos e gorduras,Óleo de soja,01.1.5
+Brasil,1113014,Óleos e gorduras,Azeite de oliva,01.1.5
+Brasil,1113040,Óleos e gorduras,Margarina,01.1.5
+Brasil,1114001,Bebidas e infusões,Suco de frutas,01.2.2
+Brasil,1114003,Bebidas e infusões,Polpa de fruta (congelada),01.2.2
+Brasil,1114004,Bebidas e infusões,Açaí (emulsão),01.2.2
+Brasil,1114022,Bebidas e infusões,Café moído,01.2.1
+Brasil,1114023,Bebidas e infusões,Café solúvel,01.2.1
+Brasil,1114083,Bebidas e infusões,Refrigerante e água mineral,01.2.2
+Brasil,1114084,Bebidas e infusões,Cerveja,02.1.3
+Brasil,1114085,Bebidas e infusões,Outras bebidas alcoólicas,02.1.1
+Brasil,1114087,Bebidas e infusões,Vinho,02.1.2
+Brasil,1114090,Bebidas e infusões,Suco em pó,01.2.2
+Brasil,1114091,Bebidas e infusões,Chá mate (erva mate),01.2.1
+Brasil,1115013,Enlatados e conservas,Alimento infantil,01.1.9
+Brasil,1115016,Enlatados e conservas,Palmito em conserva,01.1.7
+Brasil,1115017,Enlatados e conservas,Pepino em conserva,01.1.7
+Brasil,1115039,Enlatados e conservas,Sardinha em conserva,01.1.3
+Brasil,1115050,Enlatados e conservas,Salsicha em conserva,01.1.2
+Brasil,1115056,Enlatados e conservas,Sopa desidratada,01.1.9
+Brasil,1115057,Enlatados e conservas,Azeitona,01.1.7
+Brasil,1115058,Enlatados e conservas,Milho-verde em conserva,01.1.7
+Brasil,1115075,Enlatados e conservas,Atum em conserva,01.1.3
+Brasil,1116001,Sal e condimentos,Leite de coco,01.1.9
+Brasil,1116005,Sal e condimentos,Atomatado,01.1.9
+Brasil,1116010,Sal e condimentos,Alho,01.1.9
+Brasil,1116013,Sal e condimentos,Sal,01.1.9
+Brasil,1116022,Sal e condimentos,Colorau,01.1.9
+Brasil,1116023,Sal e condimentos,Caldo de tucupi,01.1.9
+Brasil,1116026,Sal e condimentos,Fermento,01.1.9
+Brasil,1116033,Sal e condimentos,Maionese,01.1.9
+Brasil,1116041,Sal e condimentos,Vinagre,01.1.9
+Brasil,1116048,Sal e condimentos,Caldo concentrado,01.1.9
+Brasil,1116071,Sal e condimentos,Tempero misto,01.1.9
+Brasil,1201001,Alimentação fora do domicílio,Refeição,11.1.1
+Brasil,1201003,Alimentação fora do domicílio,Lanche,11.1.1
+Brasil,1201007,Alimentação fora do domicílio,Refrigerante e água mineral,11.1.1
+Brasil,1201009,Alimentação fora do domicílio,Cafezinho,11.1.1
+Brasil,1201048,Alimentação fora do domicílio,Cerveja,11.1.1
+Brasil,1201051,Alimentação fora do domicílio,Outras bebidas alcoólicas,11.1.1
+Brasil,1201052,Alimentação fora do domicílio,Vinho,11.1.1
+Brasil,1201061,Alimentação fora do domicílio,Doces,11.1.1
+Brasil,1201088,Alimentação fora do domicílio,Sorvete,11.1.1
+Brasil,2101001,Aluguel e taxas,Aluguel residencial,04.1.1
+Brasil,2101002,Aluguel e taxas,Condomínio,04.4.4
+Brasil,2101004,Aluguel e taxas,Taxa de água e esgoto,04.4.1
+Brasil,2101012,Aluguel e taxas,Mudança,07.3.6
+Brasil,2103005,Reparos,Ferragens,04.3.1
+Brasil,2103008,Reparos,Material de eletricidade,04.3.1
+Brasil,2103012,Reparos,Vidro,04.3.1
+Brasil,2103014,Reparos,Tinta,04.3.1
+Brasil,2103032,Reparos,Revestimento de piso e parede,04.3.1
+Brasil,2103038,Reparos,Madeira e taco,04.3.1
+Brasil,2103039,Reparos,Cimento,04.3.1
+Brasil,2103040,Reparos,Tijolo,04.3.1
+Brasil,2103041,Reparos,Material hidráulico,04.3.1
+Brasil,2103042,Reparos,Mão de obra,04.3.2
+Brasil,2103048,Reparos,Areia,04.3.1
+Brasil,2103049,Reparos,Pedras,04.3.1
+Brasil,2103055,Reparos,Telha,04.3.1
+Brasil,2104003,Artigos de limpeza,Saco para lixo,05.6.1
+Brasil,2104005,Artigos de limpeza,Água sanitária,05.6.1
+Brasil,2104008,Artigos de limpeza,Detergente,05.6.1
+Brasil,2104009,Artigos de limpeza,Sabão em pó,05.6.1
+Brasil,2104012,Artigos de limpeza,Desinfetante,05.6.1
+Brasil,2104015,Artigos de limpeza,Sabão em barra,05.6.1
+Brasil,2104016,Artigos de limpeza,Esponja de limpeza,05.6.1
+Brasil,2104019,Artigos de limpeza,Sabão líquido,05.6.1
+Brasil,2104020,Artigos de limpeza,Limpador multiuso,05.6.1
+Brasil,2104041,Artigos de limpeza,Papel toalha,05.6.1
+Brasil,2104085,Artigos de limpeza,Amaciante e alvejante,05.6.1
+Brasil,2201003,Combustíveis (domésticos),Carvão vegetal,04.5.4
+Brasil,2201004,Combustíveis (domésticos),Gás de botijão,04.5.2
+Brasil,2201005,Combustíveis (domésticos),Gás encanado,04.5.2
+Brasil,2202003,Energia elétrica residencial,Energia elétrica residencial,04.5.1
+Brasil,3101002,Mobiliário,Móvel para sala,05.1.1
+Brasil,3101003,Mobiliário,Móvel para quarto,05.1.1
+Brasil,3101015,Mobiliário,Móvel para copa e cozinha,05.1.1
+Brasil,3101016,Mobiliário,Móvel infantil,05.1.1
+Brasil,3101017,Mobiliário,Colchão,05.1.1
+Brasil,3102001,Utensílios e enfeites,Artigos de iluminação,05.1.1
+Brasil,3102005,Utensílios e enfeites,Tapete,05.1.2
+Brasil,3102006,Utensílios e enfeites,Cortina,05.2.0
+Brasil,3102007,Utensílios e enfeites,Utensílios de metal,05.4.0
+Brasil,3102009,Utensílios e enfeites,Utensílios de vidro e louça,05.4.0
+Brasil,3102010,Utensílios e enfeites,Utensílios de plástico,05.4.0
+Brasil,3102035,Utensílios e enfeites,Flores naturais,09.3.3
+Brasil,3102337,Utensílios e enfeites,Utensílios para bebê,12.3.2
+Brasil,3103001,"Cama, mesa e banho",Roupa de cama,05.2.0
+Brasil,3103003,"Cama, mesa e banho",Roupa de banho,05.2.0
+Brasil,3201001,Eletrodomésticos e equipamentos,Refrigerador,05.3.1
+Brasil,3201002,Eletrodomésticos e equipamentos,Ar-condicionado,05.3.1
+Brasil,3201006,Eletrodomésticos e equipamentos,Máquina de lavar roupa,05.3.1
+Brasil,3201013,Eletrodomésticos e equipamentos,Ventilador,05.3.1
+Brasil,3201021,Eletrodomésticos e equipamentos,Fogão,05.3.1
+Brasil,3201050,Eletrodomésticos e equipamentos,Chuveiro elétrico,05.3.1
+Brasil,3202001,"Tv, som e informática",Televisor,09.1.1
+Brasil,3202003,"Tv, som e informática",Aparelho de som,09.1.1
+Brasil,3202008,"Tv, som e informática",Videogame (console),09.1.1
+Brasil,3202028,"Tv, som e informática",Computador pessoal,09.1.3
+Brasil,3301002,Consertos e manutenção,Conserto de refrigerador,05.3.3
+Brasil,3301006,Consertos e manutenção,Conserto de televisor,05.3.3
+Brasil,3301015,Consertos e manutenção,Conserto de máquina de lavar roupa,05.3.3
+Brasil,3301022,Consertos e manutenção,Reforma de estofado,05.1.3
+Brasil,3301088,Consertos e manutenção,Conserto de aparelho celular,08.2.0
+Brasil,3301130,Consertos e manutenção,Conserto de bicicleta,07.2.3
+Brasil,4101002,Roupa masculina,Calça comprida masculina,03.1.2
+Brasil,4101005,Roupa masculina,Agasalho masculino,03.1.2
+Brasil,4101006,Roupa masculina,Bermuda/short masculino,03.1.2
+Brasil,4101008,Roupa masculina,Cueca,03.1.2
+Brasil,4101009,Roupa masculina,Camisa/camiseta masculina,03.1.2
+Brasil,4102002,Roupa feminina,Calça comprida feminina,03.1.2
+Brasil,4102003,Roupa feminina,Agasalho feminino,03.1.2
+Brasil,4102004,Roupa feminina,Saia,03.1.2
+Brasil,4102005,Roupa feminina,Vestido,03.1.2
+Brasil,4102008,Roupa feminina,Blusa,03.1.2
+Brasil,4102010,Roupa feminina,Lingerie,03.1.2
+Brasil,4102013,Roupa feminina,Bermuda/short feminino,03.1.2
+Brasil,4103001,Roupa infantil,Uniforme escolar,03.1.2
+Brasil,4103002,Roupa infantil,Calça comprida infantil,03.1.2
+Brasil,4103005,Roupa infantil,Agasalho infantil,03.1.2
+Brasil,4103007,Roupa infantil,Vestido infantil,03.1.2
+Brasil,4103008,Roupa infantil,Bermuda/short infantil,03.1.2
+Brasil,4103011,Roupa infantil,Camisa/camiseta infantil,03.1.2
+Brasil,4103031,Roupa infantil,Conjunto infantil,03.1.2
+Brasil,4201002,Calçados e acessórios,Sapato masculino,03.2.1
+Brasil,4201003,Calçados e acessórios,Sapato feminino,03.2.1
+Brasil,4201004,Calçados e acessórios,Sapato infantil,03.2.1
+Brasil,4201015,Calçados e acessórios,Bolsa,12.3.2
+Brasil,4201040,Calçados e acessórios,Mochila,12.3.2
+Brasil,4201063,Calçados e acessórios,Tênis,03.2.1
+Brasil,4201098,Calçados e acessórios,Sandália/chinelo,03.2.1
+Brasil,4301001,Joias e bijuterias,Bijuteria,12.3.1
+Brasil,4301002,Joias e bijuterias,Joia,12.3.1
+Brasil,4301004,Joias e bijuterias,Relógio de pulso,12.3.1
+Brasil,4401001,Tecidos e armarinho,Tecido,03.1.1
+Brasil,4401002,Tecidos e armarinho,Artigos de armarinho,03.1.3
+Brasil,5101001,Transporte público,Ônibus urbano,07.3.2
+Brasil,5101002,Transporte público,Táxi,07.3.2
+Brasil,5101004,Transporte público,Trem,07.3.1
+Brasil,5101006,Transporte público,Ônibus intermunicipal,07.3.2
+Brasil,5101007,Transporte público,Ônibus interestadual,07.3.2
+Brasil,5101010,Transporte público,Passagem aérea,07.3.3
+Brasil,5101011,Transporte público,Metrô,07.3.1
+Brasil,5101026,Transporte público,Transporte escolar,07.3.2
+Brasil,5101051,Transporte público,Transporte por aplicativo,07.3.2
+Brasil,5101053,Transporte público,Integração transporte público,07.3.5
+Brasil,5102001,Veículo próprio,Automóvel novo,07.1.1
+Brasil,5102004,Veículo próprio,Emplacamento e licença,07.2.4
+Brasil,5102005,Veículo próprio,Seguro voluntário de veículo,12.5.4
+Brasil,5102006,Veículo próprio,Multa,07.2.4
+Brasil,5102007,Veículo próprio,Óleo lubrificante,07.2.2
+Brasil,5102009,Veículo próprio,Acessórios e peças,07.2.1
+Brasil,5102010,Veículo próprio,Pneu,07.2.1
+Brasil,5102011,Veículo próprio,Conserto de automóvel,07.2.3
+Brasil,5102013,Veículo próprio,Estacionamento,07.2.4
+Brasil,5102015,Veículo próprio,Pedágio,07.2.4
+Brasil,5102020,Veículo próprio,Automóvel usado,07.1.1
+Brasil,5102037,Veículo próprio,Pintura de veículo,07.2.3
+Brasil,5102051,Veículo próprio,Aluguel de veículo,07.2.4
+Brasil,5102053,Veículo próprio,Motocicleta,07.1.2
+Brasil,5104001,Combustíveis (veículos),Gasolina,07.2.2
+Brasil,5104002,Combustíveis (veículos),Etanol,07.2.2
+Brasil,5104003,Combustíveis (veículos),Óleo diesel,07.2.2
+Brasil,5104005,Combustíveis (veículos),Gás veicular,07.2.2
+Brasil,6101001,Produtos farmacêuticos,Anti-infeccioso e antibiótico,06.1.1
+Brasil,6101002,Produtos farmacêuticos,Analgésico e antitérmico,06.1.1
+Brasil,6101003,Produtos farmacêuticos,Anti-inflamatório e antirreumático,06.1.1
+Brasil,6101004,Produtos farmacêuticos,Antigripal e antitussígeno,06.1.1
+Brasil,6101006,Produtos farmacêuticos,Dermatológico,06.1.1
+Brasil,6101007,Produtos farmacêuticos,Antialérgico e broncodilatador,06.1.1
+Brasil,6101009,Produtos farmacêuticos,Gastroprotetor,06.1.1
+Brasil,6101010,Produtos farmacêuticos,Vitamina e fortificante,06.1.1
+Brasil,6101011,Produtos farmacêuticos,Hormonal,06.1.1
+Brasil,6101013,Produtos farmacêuticos,Psicotrópico e anorexígeno,06.1.1
+Brasil,6101014,Produtos farmacêuticos,Hipotensor e hipocolesterolêmico,06.1.1
+Brasil,6101051,Produtos farmacêuticos,Oftalmológico,06.1.1
+Brasil,6101064,Produtos farmacêuticos,Antidiabético,06.1.1
+Brasil,6101148,Produtos farmacêuticos,Neurológico,06.1.1
+Brasil,6102012,Produtos óticos,Óculos de grau,06.1.2
+Brasil,6201002,Serviços médicos e dentários,Médico,06.2.1
+Brasil,6201003,Serviços médicos e dentários,Dentista,06.2.2
+Brasil,6201005,Serviços médicos e dentários,Aparelho ortodôntico,06.2.2
+Brasil,6201007,Serviços médicos e dentários,Fisioterapeuta,06.2.1
+Brasil,6201010,Serviços médicos e dentários,Psicólogo,06.2.1
+Brasil,6202003,Serviços laboratoriais e hospitalares,Exame de laboratório,06.3.0
+Brasil,6202004,Serviços laboratoriais e hospitalares,Hospitalização e cirurgia,06.3.0
+Brasil,6202006,Serviços laboratoriais e hospitalares,Exame de imagem,06.3.0
+Brasil,6203001,Plano de saúde,Plano de saúde,12.5.3
+Brasil,6301001,Higiene pessoal,Produto para cabelo,12.1.2
+Brasil,6301002,Higiene pessoal,Fralda descartável,12.1.2
+Brasil,6301004,Higiene pessoal,Produto para barba,12.1.2
+Brasil,6301006,Higiene pessoal,Produto para pele,12.1.2
+Brasil,6301007,Higiene pessoal,Produto para higiene bucal,12.1.2
+Brasil,6301010,Higiene pessoal,Produto para unha,12.1.2
+Brasil,6301011,Higiene pessoal,Perfume,12.1.2
+Brasil,6301014,Higiene pessoal,Desodorante,12.1.2
+Brasil,6301015,Higiene pessoal,Absorvente higiênico,12.1.2
+Brasil,6301016,Higiene pessoal,Sabonete,12.1.2
+Brasil,6301017,Higiene pessoal,Papel higiênico,12.1.2
+Brasil,6301020,Higiene pessoal,Artigos de maquiagem,12.1.2
+Brasil,7101001,Serviços pessoais,Costureira,12.1.1
+Brasil,7101005,Serviços pessoais,Manicure,12.1.1
+Brasil,7101010,Serviços pessoais,Empregado doméstico,05.6.2
+Brasil,7101011,Serviços pessoais,Cabeleireiro e barbeiro,12.1.1
+Brasil,7101014,Serviços pessoais,Depilação,12.1.1
+Brasil,7101034,Serviços pessoais,Cartório,12.7.0
+Brasil,7101036,Serviços pessoais,Despachante,12.7.0
+Brasil,7101076,Serviços pessoais,Serviço bancário,12.6.2
+Brasil,7101090,Serviços pessoais,Conselho de classe,12.7.0
+Brasil,7101144,Serviços pessoais,Sobrancelha,12.1.1
+Brasil,7201006,Recreação,Clube,09.4.1
+Brasil,7201010,Recreação,Instrumento musical,09.2.1
+Brasil,7201015,Recreação,Tratamento de animais (clínica),09.3.4/5
+Brasil,7201019,Recreação,Bicicleta,07.1.2
+Brasil,7201020,Recreação,Alimento para animais,09.3.4/5
+Brasil,7201023,Recreação,Brinquedo,09.3.1
+Brasil,7201054,Recreação,Casa noturna,09.4.2
+Brasil,7201063,Recreação,Jogos de azar,09.3.1
+Brasil,7201067,Recreação,Material de caça e pesca,09.3.2
+Brasil,7201090,Recreação,Hospedagem,11.2.0
+Brasil,7201095,Recreação,Pacote turístico,09.6.0
+Brasil,7201256,Recreação,Serviço de higiene para animais,09.3.4/5
+Brasil,7201266,Recreação,"Cinema, teatro e concertos",09.4.2
+Brasil,7202041,Fumo,Cigarro,02.2.0
+Brasil,8101001,Cursos regulares,Creche,12.4.0
+Brasil,8101002,Cursos regulares,Pré-escola,10.1.0
+Brasil,8101003,Cursos regulares,Ensino fundamental,10.1.0
+Brasil,8101004,Cursos regulares,Ensino médio,10.1.0
+Brasil,8101005,Cursos regulares,Ensino superior,10.1.0
+Brasil,8101006,Cursos regulares,Pós-graduação,10.1.0
+Brasil,8101008,Cursos regulares,Educação de jovens e adultos,10.1.0
+Brasil,8101045,Cursos regulares,Curso técnico,10.1.0
+Brasil,8102001,Leitura,Jornal diário,09.5.2
+Brasil,8102004,Leitura,Revista,09.5.2
+Brasil,8102007,Leitura,Livro didático,09.5.1
+Brasil,8102008,Leitura,Livro não didático,09.5.1
+Brasil,8103001,Papelaria,Caderno,09.5.3
+Brasil,8103014,Papelaria,Artigos de papelaria,09.5.3
+Brasil,8104001,Cursos diversos,Curso preparatório,10.1.0
+Brasil,8104003,Cursos diversos,Curso de idioma,10.1.0
+Brasil,8104004,Cursos diversos,Curso de informática,10.1.0
+Brasil,8104005,Cursos diversos,Autoescola,07.2.4
+Brasil,8104006,Cursos diversos,Atividades físicas,09.4.1
+Brasil,9101001,Comunicação,Correio,08.1.0
+Brasil,9101002,Comunicação,Plano de telefonia fixa,08.2.0
+Brasil,9101008,Comunicação,Plano de telefonia móvel,08.2.0
+Brasil,9101010,Comunicação,Tv por assinatura,09.4.2
+Brasil,9101018,Comunicação,Acesso à internet,08.2.0
+Brasil,9101019,Comunicação,Aparelho telefônico,08.2.0
+Brasil,9101115,Comunicação,Serviços de streaming,09.4.2
+Brasil,9101116,Comunicação,"Combo de telefonia, internet e tv por assinatura",08.2.0
+Chile,11111,ARROZ,ARROZ,01.1.1
+Chile,11121,HARINA DE CEREALES,HARINA DE TRIGO,01.1.1
+Chile,11122,HARINA DE CEREALES,HARINA DE OTROS CEREALES,01.1.1
+Chile,11131,PAN Y PRODUCTOS DE PANADERÍA,PAN,01.1.1
+Chile,11132,PAN Y PRODUCTOS DE PANADERÍA,PRODUCTOS DE REPOSTERÍA,01.1.1
+Chile,11133,PAN Y PRODUCTOS DE PANADERÍA,GALLETAS,01.1.1
+Chile,11134,PAN Y PRODUCTOS DE PANADERÍA,MASAS SALADAS PREPARADAS,01.1.1
+Chile,11141,CEREALES PARA EL DESAYUNO,CEREALES PARA EL DESAYUNO,01.1.1
+Chile,11151,PASTAS,PASTAS,01.1.1
+Chile,11161,SNACKS,SNACKS,01.1.1
+Chile,11211,"CARNE FRESCA, REFRIGERADA O CONGELADA",CARNE DE VACUNO,01.1.2
+Chile,11212,"CARNE FRESCA, REFRIGERADA O CONGELADA",CARNE DE POLLO,01.1.2
+Chile,11213,"CARNE FRESCA, REFRIGERADA O CONGELADA",CARNE DE CERDO,01.1.2
+Chile,11214,"CARNE FRESCA, REFRIGERADA O CONGELADA",CARNE DE PAVO,01.1.2
+Chile,11221,CARNES PROCESADAS,CECINAS,01.1.2
+Chile,11222,CARNES PROCESADAS,HAMBURGUESAS,01.1.2
+Chile,11223,CARNES PROCESADAS,CARNES APANADAS,01.1.2
+Chile,11311,PESCADOS FRESCOS O REFRIGERADOS,PESCADOS FRESCOS O REFRIGERADOS,01.1.3
+Chile,11321,PESCADOS EN CONSERVA,PESCADOS EN CONSERVA,01.1.3
+Chile,11331,MARISCOS FRESCOS O REFRIGERADOS,MARISCOS FRESCOS O REFRIGERADOS,01.1.3
+Chile,11341,MARISCOS EN CONSERVA,MARISCOS EN CONSERVA,01.1.3
+Chile,11411,LECHE LÍQUIDA,LECHE LÍQUIDA,01.1.4
+Chile,11421,OTRAS LECHES Y CREMAS,LECHE EN POLVO,01.1.4
+Chile,11422,OTRAS LECHES Y CREMAS,CREMAS Y LECHES CONSERVADAS,01.1.4
+Chile,11431,BEBIDAS VEGETALES,BEBIDAS VEGETALES,01.1.4
+Chile,11441,QUESOS,QUESOS,01.1.4
+Chile,11451,YOGURES Y PRODUCTOS SIMILARES,YOGURES Y PRODUCTOS SIMILARES,01.1.4
+Chile,11461,POSTRES LÁCTEOS,POSTRES LÁCTEOS,01.1.4
+Chile,11471,HUEVOS,HUEVOS,01.1.4
+Chile,11511,ACEITES VEGETALES,ACEITE VEGETAL Y DE MARAVILLA,01.1.5
+Chile,11512,ACEITES VEGETALES,ACEITE DE OLIVA,01.1.5
+Chile,11521,MANTEQUILLA,MANTEQUILLA,01.1.5
+Chile,11531,MARGARINA,MARGARINA,01.1.5
+Chile,11611,FRUTAS FRESCAS,PALTAS,01.1.6
+Chile,11612,FRUTAS FRESCAS,FRUTAS DE ESTACIÓN,01.1.6
+Chile,11613,FRUTAS FRESCAS,PLÁTANOS,01.1.6
+Chile,11614,FRUTAS FRESCAS,LIMONES,01.1.6
+Chile,11615,FRUTAS FRESCAS,NARANJAS,01.1.6
+Chile,11616,FRUTAS FRESCAS,MANZANAS,01.1.6
+Chile,11617,FRUTAS FRESCAS,PERAS,01.1.6
+Chile,11621,FRUTOS SECOS,FRUTOS SECOS,01.1.6
+Chile,11631,FRUTAS PRESERVADAS,FRUTAS PRESERVADAS,01.1.6
+Chile,11711,HORTALIZAS Y LEGUMINOSAS,VERDURAS DE ESTACIÓN,01.1.7
+Chile,11712,HORTALIZAS Y LEGUMINOSAS,TOMATES,01.1.7
+Chile,11713,HORTALIZAS Y LEGUMINOSAS,LECHUGAS,01.1.7
+Chile,11714,HORTALIZAS Y LEGUMINOSAS,CEBOLLAS Y CEBOLLINES,01.1.7
+Chile,11715,HORTALIZAS Y LEGUMINOSAS,ZAPALLOS,01.1.7
+Chile,11716,HORTALIZAS Y LEGUMINOSAS,ZANAHORIAS,01.1.7
+Chile,11717,HORTALIZAS Y LEGUMINOSAS,PIMIENTOS MORRONES,01.1.7
+Chile,11718,HORTALIZAS Y LEGUMINOSAS,ZAPALLOS ITALIANOS,01.1.7
+Chile,11721,PAPAS,PAPAS,01.1.7
+Chile,11731,LEGUMBRES SECAS,LEGUMBRES SECAS,01.1.7
+Chile,11741,VERDURAS CONGELADAS,VERDURAS CONGELADAS,01.1.7
+Chile,11751,OTRAS PREPARACIONES DE VEGETALES,PAPAS FRITAS,01.1.7
+Chile,11752,OTRAS PREPARACIONES DE VEGETALES,VERDURAS ENCURTIDAS,01.1.7
+Chile,11753,OTRAS PREPARACIONES DE VEGETALES,PAPAS CONGELADAS Y DESHIDRATADAS,01.1.7
+Chile,11754,OTRAS PREPARACIONES DE VEGETALES,HORTALIZAS EN CONSERVA,01.1.7
+Chile,11755,OTRAS PREPARACIONES DE VEGETALES,SUSTITUTOS VEGETALES DE CARNE,01.1.7
+Chile,11811,AZÚCAR,AZÚCAR,01.1.8
+Chile,11821,ENDULZANTES,ENDULZANTES,01.1.8
+Chile,11831,MERMELADAS Y POSTRES NO LÁCTEOS,MERMELADAS,01.1.8
+Chile,11832,MERMELADAS Y POSTRES NO LÁCTEOS,POSTRES NO LÁCTEOS,01.1.8
+Chile,11841,CHOCOLATES,CHOCOLATES,01.1.8
+Chile,11851,HELADOS,HELADOS,01.1.8
+Chile,11861,CARAMELOS Y GOMAS DE MASCAR,CARAMELOS Y GOMAS DE MASCAR,01.1.8
+Chile,11911,PLATOS PREPARADOS ADQUIRIDOS EN TIENDAS Y SUPERMERCADOS,PLATOS PREPARADOS ADQUIRIDOS EN TIENDAS Y SUPERMERCADOS,01.1.9
+Chile,11921,ALIMENTOS PARA BEBÉ,ALIMENTOS PARA BEBÉ,01.1.9
+Chile,11931,"ADEREZOS, SALSAS DE TOMATE Y SAL",ADEREZOS,01.1.9
+Chile,11932,"ADEREZOS, SALSAS DE TOMATE Y SAL",SALSAS DE TOMATE,01.1.9
+Chile,11933,"ADEREZOS, SALSAS DE TOMATE Y SAL",SAL,01.1.9
+Chile,11941,ALIÑOS,ALIÑOS,01.1.9
+Chile,11951,OTROS PRODUCTOS ALIMENTICIOS,SUPLEMENTOS ALIMENTICIOS Y NUTRICIONALES,01.1.9
+Chile,11952,OTROS PRODUCTOS ALIMENTICIOS,SOPAS Y CREMAS,01.1.9
+Chile,11953,OTROS PRODUCTOS ALIMENTICIOS,MANJAR Y DULCES UNTABLES,01.1.9
+Chile,12211,CAFÉ Y SUCEDÁNEOS,CAFÉ Y SUCEDÁNEOS,01.2.1
+Chile,12311,TÉ,TÉ,01.2.1
+Chile,12411,AGUA EMBOTELLADA,AGUA EMBOTELLADA,01.2.2
+Chile,12511,BEBIDAS GASEOSAS,BEBIDAS GASEOSAS,01.2.2
+Chile,21111,DESTILADOS,OTROS DESTILADOS,02.1.1
+Chile,21112,DESTILADOS,PISCOS,02.1.1
+Chile,21211,VINOS,VINOS,02.1.2
+Chile,21311,CERVEZAS,CERVEZAS,02.1.3
+Chile,21411,CÓCTELES Y LICORES,CÓCTELES Y LICORES,02.1.1
+Chile,22111,CIGARRILLOS,CIGARRILLOS,02.2.0
+Chile,31211,ACCESORIOS DE VESTIR,ACCESORIOS DE VESTIR,03.1.2
+Chile,31311,SERVICIOS DE LIMPIEZA Y REPARACIÓN DE VESTUARIO,SERVICIOS DE LIMPIEZA Y REPARACIÓN DE VESTUARIO,03.1.4
+Chile,32111,CALZADO PARA HOMBRES,ZAPATILLAS PARA HOMBRE,03.2.1
+Chile,32112,CALZADO PARA HOMBRES,ZAPATOS PARA HOMBRE,03.2.1
+Chile,32121,CALZADO PARA MUJERES,ZAPATILLAS PARA MUJER,03.2.1
+Chile,32122,CALZADO PARA MUJERES,CALZADO DE ESTACIÓN PARA MUJER,03.2.1
+Chile,32123,CALZADO PARA MUJERES,ZAPATOS PARA MUJER,03.2.1
+Chile,32131,CALZADO INFANTIL,ZAPATILLAS INFANTILES,03.2.1
+Chile,32132,CALZADO INFANTIL,CALZADO DE ESTACIÓN INFANTIL,03.2.1
+Chile,41111,ARRIENDO,ARRIENDO,04.1.1
+Chile,42111,MATERIALES PARA EL MANTENIMIENTO DE LA VIVIENDA,MATERIALES PARA LA REPARACIÓN DE LA VIVIENDA,04.3.1
+Chile,42112,MATERIALES PARA EL MANTENIMIENTO DE LA VIVIENDA,PINTURAS Y BARNICES,04.3.1
+Chile,42113,MATERIALES PARA EL MANTENIMIENTO DE LA VIVIENDA,GRIFERIA Y ACCESORIOS,04.3.1
+Chile,42114,MATERIALES PARA EL MANTENIMIENTO DE LA VIVIENDA,SELLANTES Y PEGAMENTOS,04.3.1
+Chile,42211,SERVICIOS PARA EL MANTENIMIENTO DE LA VIVIENDA,SERVICIOS PARA EL MANTENIMIENTO DE LA VIVIENDA,04.3.2
+Chile,42212,SERVICIOS PARA EL MANTENIMIENTO DE LA VIVIENDA,SERVICIOS DE ALARMA PARA LA VIVIENDA,04.3.2
+Chile,43111,SUMINISTRO DE AGUA,SUMINISTRO DE AGUA,04.4.1
+Chile,43211,SERVICIO DE RETIRO DE BASURA,SERVICIO DE RETIRO DE BASURA,04.4.2
+Chile,43311,GASTOS COMUNES,GASTOS COMUNES,04.4.4
+Chile,44111,SUMINISTRO DE ELECTRICIDAD,SUMINISTRO DE ELECTRICIDAD,04.5.1
+Chile,44211,GAS POR RED,GAS POR RED,04.5.2
+Chile,44221,GAS LICUADO,GAS LICUADO,04.5.2
+Chile,44311,PARAFINA,PARAFINA,04.5.4
+Chile,44411,OTROS COMBUSTIBLES DE USO DOMÉSTICO,OTROS COMBUSTIBLES DE USO DOMÉSTICO,04.5.3
+Chile,51111,MUEBLES PARA EL HOGAR,CAMAS,05.1.1
+Chile,51112,MUEBLES PARA EL HOGAR,MUEBLES PARA LIVING,05.1.1
+Chile,51113,MUEBLES PARA EL HOGAR,MUEBLES PARA COCINA,05.1.1
+Chile,51114,MUEBLES PARA EL HOGAR,MUEBLES PARA COMEDOR,05.1.1
+Chile,51115,MUEBLES PARA EL HOGAR,COLCHONES,05.1.1
+Chile,51116,MUEBLES PARA EL HOGAR,MUEBLES PARA ESCRITORIO,05.1.1
+Chile,51121,MUEBLES PARA JARDÍN Y EXTERIORES,MUEBLES PARA JARDÍN Y EXTERIORES,05.1.1
+Chile,51131,ARTÍCULOS ORNAMENTALES,ARTÍCULOS ORNAMENTALES,05.1.1
+Chile,51211,REPARACIÓN DE MUEBLES,REPARACIÓN DE MUEBLES,05.1.3
+Chile,52111,TEXTILES PARA LIVING Y COMEDOR,TEXTILES PARA LIVING Y COMEDOR,05.2.0
+Chile,52121,TEXTILES PARA CAMA,TEXTILES PARA CAMA,05.2.0
+Chile,52131,TEXTILES PARA BAÑO Y COCINA,TEXTILES PARA BAÑO Y COCINA,05.2.0
+Chile,53111,LÍNEA BLANCA,REFRIGERADORES,05.3.1
+Chile,53112,LÍNEA BLANCA,COCINAS,05.3.1
+Chile,53113,LÍNEA BLANCA,HORNOS ELÉCTRICOS Y MICROONDAS,05.3.1
+Chile,53121,LAVADORAS,LAVADORAS,05.3.1
+Chile,53131,ARTÍCULOS PARA CALEFACCIÓN DEL HOGAR Y CALEFÓN,ARTÍCULOS PARA CALEFACCIÓN DEL HOGAR,05.3.1
+Chile,53132,ARTÍCULOS PARA CALEFACCIÓN DEL HOGAR Y CALEFÓN,CALEFÓN,05.3.1
+Chile,53141,ASPIRADORAS,ASPIRADORAS,05.3.1
+Chile,53151,OTROS ARTEFACTOS GRANDES PARA EL HOGAR,OTROS ARTEFACTOS GRANDES PARA EL HOGAR,05.3.1
+Chile,53211,ELECTRODOMÉSTICOS PEQUEÑOS DE COCINA,ELECTRODOMÉSTICOS PEQUEÑOS DE COCINA,05.3.1
+Chile,53311,REPARACIÓN DE ARTEFACTOS PARA EL HOGAR,REPARACIÓN DE ARTEFACTOS PARA EL HOGAR,05.3.3
+Chile,54111,VAJILLA,VAJILLA,05.4.0
+Chile,54121,UTENSILIOS DE COCINA,UTENSILIOS DE COCINA,05.4.0
+Chile,55111,HERRAMIENTAS ELÉCTRICAS Y ACCESORIOS,HERRAMIENTAS ELÉCTRICAS Y ACCESORIOS,05.5.1
+Chile,55211,HERRAMIENTAS MANUALES Y ACCESORIOS,HERRAMIENTAS MANUALES Y ACCESORIOS,05.5.1
+Chile,55221,PEQUEÑOS ACCESORIOS ELÉCTRICOS,PEQUEÑOS ACCESORIOS ELÉCTRICOS,05.5.1
+Chile,56111,PRODUCTOS DE LIMPIEZA PARA EL HOGAR,DETERGENTES Y SUAVIZANTES PARA ROPA,05.6.1
+Chile,56112,PRODUCTOS DE LIMPIEZA PARA EL HOGAR,DESINFECTANTES,05.6.1
+Chile,56113,PRODUCTOS DE LIMPIEZA PARA EL HOGAR,ARTÍCULOS DE LIMPIEZA,05.6.1
+Chile,56114,PRODUCTOS DE LIMPIEZA PARA EL HOGAR,LIMPIADORES MULTIUSO,05.6.1
+Chile,56115,PRODUCTOS DE LIMPIEZA PARA EL HOGAR,LAVALOZAS,05.6.1
+Chile,56121,OTROS BIENES NO DURABLES PARA EL HOGAR,SERVILLETAS Y TOALLAS DE PAPEL,05.6.1
+Chile,56122,OTROS BIENES NO DURABLES PARA EL HOGAR,BOLSAS PLÁSTICAS,05.6.1
+Chile,56123,OTROS BIENES NO DURABLES PARA EL HOGAR,AROMATIZADORES,05.6.1
+Chile,56124,OTROS BIENES NO DURABLES PARA EL HOGAR,CLAVOS Y TORNILLOS,05.6.1
+Chile,56125,OTROS BIENES NO DURABLES PARA EL HOGAR,INSECTICIDAS,05.6.1
+Chile,56211,SERVICIO DOMÉSTICO,SERVICIO DOMÉSTICO,05.6.2
+Chile,61111,MEDICAMENTOS,MEDICAMENTOS PARA EL APARATO DIGESTIVO Y METABÓLICO,06.1.1
+Chile,61112,MEDICAMENTOS,MEDICAMENTOS PARA EL SISTEMA NERVIOSO CENTRAL,06.1.1
+Chile,61113,MEDICAMENTOS,MEDICAMENTOS PARA EL SISTEMA GENITO-URINARIO Y HORMONAS,06.1.1
+Chile,61114,MEDICAMENTOS,MEDICAMENTOS PARA EL SISTEMA RESPIRATORIO,06.1.1
+Chile,61115,MEDICAMENTOS,MEDICAMENTOS PARA EL APARATO CARDIOVASCULAR,06.1.1
+Chile,61116,MEDICAMENTOS,"MEDICAMENTOS ANTIINFLAMATORIOS NO CORTICOIDES, ANTIMIGRAÑOSOS Y SISTEMA OSTEO-MUSCULAR",06.1.1
+Chile,61117,MEDICAMENTOS,"MEDICAMENTOS DERMATOLÓGICOS, DESINFECTANTES Y ANTISÉPTICOS",06.1.1
+Chile,61118,MEDICAMENTOS,"MEDICAMENTOS ANTIINFECCIOSOS, ANTIVIRALES Y ANTIFUNGICOS",06.1.1
+Chile,61119,MEDICAMENTOS,PREPARADOS OFTALMOLÓGICOS,06.1.1
+Chile,611110,MEDICAMENTOS,"MEDICAMENTOS PARA EL TRATAMIENTO DEL CÁNCER, MODIFICADORES DEL SISTEMA INMUNE Y FÁRMACOS UTILIZADOS EN LOS CUIDADOS PALIATIVOS DEL DOLOR",06.1.1
+Chile,61121,PRODUCTOS HOMEOPÁTICOS,PRODUCTOS HOMEOPÁTICOS,06.1.1
+Chile,61211,PRODUCTOS MÉDICOS,PRODUCTOS PARA LA CURACIÓN DE HERIDAS,06.1.2
+Chile,61212,PRODUCTOS MÉDICOS,PRODUCTOS DE DIAGNÓSTICO MÉDICO,06.1.2
+Chile,61213,PRODUCTOS MÉDICOS,PRESERVATIVOS,06.1.2
+Chile,61311,LENTES ÓPTICOS,LENTES ÓPTICOS,06.2
+Chile,61321,PRODUCTOS DE ASISTENCIA PARA LA AUDICIÓN Y LA COMUNICACIÓN,PRODUCTOS DE ASISTENCIA PARA LA AUDICIÓN Y LA COMUNICACIÓN,06.2
+Chile,61331,ARTÍCULOS ORTOPÉDICOS,ARTÍCULOS ORTOPÉDICOS,06.2
+Chile,62111,SERVICIOS DENTALES,SERVICIOS DENTALES,06.2.2
+Chile,62211,SERVICIOS MÉDICOS,CONSULTAS MÉDICAS,06.2.1
+Chile,62212,SERVICIOS MÉDICOS,PROCEDIMIENTOS E INTERVENCIONES AMBULATORIAS,06.2.1
+Chile,63111,SERVICIOS DE HOSPITALIZACIÓN,SERVICIOS DE HOSPITALIZACIÓN,06.3.0
+Chile,64111,EXÁMENES DE IMAGENOLOGÍA Y RADIOLOGÍA,EXÁMENES DE IMAGENOLOGÍA Y RADIOLOGÍA,06.2.1
+Chile,64121,EXÁMENES DE LABORATORIO CLÍNICO,EXÁMENES DE LABORATORIO CLÍNICO,06.2.1
+Chile,71111,AUTOMÓVILES NUEVOS,AUTOMÓVILES NUEVOS,07.1.1
+Chile,71121,AUTOMÓVILES USADOS,AUTOMÓVILES USADOS,07.1.1
+Chile,71211,MOTOCICLETAS,MOTOCICLETAS,07.1.2
+Chile,71311,BICICLETAS,BICICLETAS,07.1.2
+Chile,72111,NEUMÁTICOS,NEUMÁTICOS,07.2.1
+Chile,72121,REPUESTOS PARA EL AUTOMÓVIL,REPUESTOS MECÁNICOS PARA EL AUTOMÓVIL,07.2.1
+Chile,72122,REPUESTOS PARA EL AUTOMÓVIL,REPUESTOS ELÉCTRICOS PARA EL AUTOMÓVIL,07.2.1
+Chile,72131,ACCESORIOS PARA VEHÍCULOS PERSONALES,ACCESORIOS PARA VEHÍCULOS PERSONALES,07.2.1
+Chile,72211,PETRÓLEO DIÉSEL,PETRÓLEO DIÉSEL,07.2.2
+Chile,72221,GASOLINA,GASOLINA,07.2.2
+Chile,72311,MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS PERSONALES,MANTENCIÓN Y REPARACIÓN DE VEHÍCULOS PERSONALES,07.2.3
+Chile,72312,MANTENIMIENTO Y REPARACIÓN DE VEHÍCULOS PERSONALES,SERVICIOS DE LAVADO DEL AUTOMÓVIL,07.2.3
+Chile,72411,SERVICIOS DE ESTACIONAMIENTO,SERVICIOS DE ESTACIONAMIENTO,07.2.4
+Chile,72421,SERVICIOS DE PEAJE,SERVICIOS DE PEAJE,07.2.4
+Chile,72431,SERVICIOS VINCULADOS A LA CIRCULACIÓN DEL VEHÍCULO,REVISIÓN TÉCNICA DEL AUTOMÓVIL,07.2.4
+Chile,72432,SERVICIOS VINCULADOS A LA CIRCULACIÓN DEL VEHÍCULO,LICENCIAS DE CONDUCIR,07.2.4
+Chile,73111,TRANSPORTE COLECTIVO DE PASAJEROS,TRANSPORTE EN MICROBUS,07.3.2
+Chile,73112,TRANSPORTE COLECTIVO DE PASAJEROS,TRANSPORTE EN BUS INTERURBANO,07.3.2
+Chile,73113,TRANSPORTE COLECTIVO DE PASAJEROS,TRANSPORTE EN TAXI COLECTIVO,07.3.2
+Chile,73121,TRANSPORTE PRIVADO DE PASAJEROS,TRANSPORTE PRIVADO DE PASAJEROS,07.3.2
+Chile,73131,TRANSPORTE ESCOLAR,TRANSPORTE ESCOLAR,07.3.2
+Chile,73211,TRANSPORTE AÉREO NACIONAL,TRANSPORTE AÉREO NACIONAL,07.3.3
+Chile,73221,TRANSPORTE AÉREO INTERNACIONAL,TRANSPORTE AÉREO INTERNACIONAL,07.3.3
+Chile,73311,TRANSPORTE COMBINADO DE PASAJEROS,TRANSPORTE COMBINADO DE PASAJEROS,07.3.5
+Chile,74111,ENVÍO DE BIENES Y PAQUETERÍA,ENVÍO DE BIENES Y PAQUETERÍA,08.1.0
+Chile,81111,EQUIPOS DE TELEFONÍA MÓVIL,EQUIPOS DE TELEFONÍA MÓVIL,08.2
+Chile,81211,COMPUTADORES,COMPUTADORES,09.1.3
+Chile,81311,EQUIPOS AUDIOVISUALES,TELEVISORES,09.1.1
+Chile,81312,EQUIPOS AUDIOVISUALES,AUDÍFONOS Y PARLANTES,09.1.1
+Chile,81411,DISPOSITIVOS Y ACCESORIOS TECNOLÓGICOS,DISPOSITIVOS Y ACCESORIOS TECNOLÓGICOS,08.2
+Chile,92111,CONSOLAS Y VIDEOJUEGOS,CONSOLAS DE VIDEOJUEGOS,09.3.1
+Chile,92112,CONSOLAS Y VIDEOJUEGOS,VIDEOJUEGOS,09.3.1
+Chile,92121,JUGUETES,JUGUETES,09.3.1
+Chile,92131,ARTÍCULOS PARA CELEBRACIONES,ARTÍCULOS PARA CELEBRACIONES,09.3.1
+Chile,92211,EQUIPOS E IMPLEMENTOS DEPORTIVOS,EQUIPOS E IMPLEMENTOS DEPORTIVOS,09.3.2
+Chile,92221,ARTÍCULOS DE CAMPING Y RECREACIÓN,ARTÍCULOS DE CAMPING Y RECREACIÓN,09.3.2
+Chile,93111,JARDINERÍA Y FLORISTERÍA,PLANTAS Y PRODUCTOS DE JARDINERÍA,09.3.3
+Chile,93112,JARDINERÍA Y FLORISTERÍA,ARREGLOS FLORALES,09.3.3
+Chile,93211,PRODUCTOS PARA MASCOTAS,ALIMENTOS PARA MASCOTAS,09.3.4/5
+Chile,93212,PRODUCTOS PARA MASCOTAS,ACCESORIOS PARA MASCOTAS,09.3.4/5
+Chile,93213,PRODUCTOS PARA MASCOTAS,MEDICAMENTOS Y PRODUCTOS VETERINARIOS,09.3.4/5
+Chile,94111,SERVICIOS PARA MASCOTAS,SERVICIOS PARA MASCOTAS,09.3.4/5
+Chile,94211,SERVICIOS PRESTADOS POR CENTROS RECREATIVOS,SERVICIOS PRESTADOS POR CENTROS RECREATIVOS,09.4.1
+Chile,94221,SERVICIOS ASOCIADOS A LA PRÁCTICA DEPORTIVA,SERVICIOS ASOCIADOS A LA PRÁCTICA DEPORTIVA,09.4.1
+Chile,94231,ENTRADAS A ESPECTÁCULOS DEPORTIVOS,ENTRADAS A ESPECTÁCULOS DEPORTIVOS,09.4.1
+Chile,94311,JUEGOS DE AZAR,JUEGOS DE AZAR,12.7
+Chile,95111,INSTRUMENTOS MUSICALES,INSTRUMENTOS MUSICALES,09.2
+Chile,96111,ENTRADAS A ESPECTÁCULOS CULTURALES,ENTRADAS A ESPECTÁCULOS CULTURALES,09.4.2
+Chile,97111,TEXTOS EDUCATIVOS,TEXTOS EDUCATIVOS,09.5.1
+Chile,97121,LIBROS,LIBROS,09.5.1
+Chile,97211,DIARIOS,DIARIOS,09.5.3
+Chile,97311,ARTÍCULOS DE ESCRITORIO Y ARTES MANUALES,ARTÍCULOS DE ESCRITORIO Y ARTES MANUALES,09.5.1
+Chile,98111,PAQUETES TURÍSTICOS,PAQUETES TURÍSTICOS INTERNACIONALES,09.6.0
+Chile,98112,PAQUETES TURÍSTICOS,PAQUETES TURÍSTICOS NACIONALES,09.6.0
+Chile,101111,ENSEÑANZA PRE-ESCOLAR Y ENSEÑANZA BÁSICA,EDUCACIÓN DE 2do CICLO DE ENSEÑANZA BÁSICA,10.1.0
+Chile,101112,ENSEÑANZA PRE-ESCOLAR Y ENSEÑANZA BÁSICA,EDUCACIÓN DE 1er CICLO DE ENSEÑANZA BÁSICA,10.1.0
+Chile,101113,ENSEÑANZA PRE-ESCOLAR Y ENSEÑANZA BÁSICA,EDUCACIÓN PARVULARIA,10.1.0
+Chile,102111,ENSEÑANZA MEDIA,ENSEÑANZA MEDIA,10.1.0
+Chile,111111,"RESTAURANTES, CAFÉS Y SIMILARES","ALIMENTOS ADQUIRIDOS EN RESTAURANTES, CAFÉS Y SIMILARES",11.1.1
+Chile,111112,"RESTAURANTES, CAFÉS Y SIMILARES","BEBIDAS NO ALCOHÓLICAS ADQUIRIDAS EN RESTAURANTES, CAFÉS Y SIMILARES",11.1.1
+Chile,111113,"RESTAURANTES, CAFÉS Y SIMILARES","BEBIDAS ALCOHÓLICAS ADQUIRIDAS EN RESTAURANTES, CAFÉS Y SIMILARES",11.1.1
+Chile,112111,SERVICIOS DE ALOJAMIENTO,SERVICIOS DE ALOJAMIENTO,11.2.0
+Chile,131111,APARATOS NO ELÉCTRICOS PARA EL CUIDADO PERSONAL,APARATOS NO ELÉCTRICOS PARA EL CUIDADO PERSONAL,12.1.2
+Chile,131121,ARTÍCULOS PARA EL CUIDADO PERSONAL,PAPEL HIGIÉNICO,12.1.2
+Chile,131122,ARTÍCULOS PARA EL CUIDADO PERSONAL,ARTÍCULOS PARA EL CUIDADO E HIGIENE CAPILAR,12.1.2
+Chile,131123,ARTÍCULOS PARA EL CUIDADO PERSONAL,"CREMAS, LOCIONES Y BLOQUEADORES",12.1.2
+Chile,131124,ARTÍCULOS PARA EL CUIDADO PERSONAL,PAÑALES DESECHABLES PARA BEBÉ,12.1.2
+Chile,131125,ARTÍCULOS PARA EL CUIDADO PERSONAL,ARTÍCULOS DE HIGIENE BUCAL,12.1.2
+Chile,131126,ARTÍCULOS PARA EL CUIDADO PERSONAL,JABONES,12.1.2
+Chile,131127,ARTÍCULOS PARA EL CUIDADO PERSONAL,DESODORANTES Y ANTITRANSPIRANTES,12.1.2
+Chile,131128,ARTÍCULOS PARA EL CUIDADO PERSONAL,ARTÍCULOS PARA LA CONTENCIÓN MENSTRUAL,12.1.2
+Chile,131131,ARTÍCULOS COSMÉTICOS,COLONIAS Y PERFUMES,12.1.2
+Chile,131132,ARTÍCULOS COSMÉTICOS,PRODUCTOS DE MAQUILLAJE,12.1.2
+Chile,131133,ARTÍCULOS COSMÉTICOS,TINTURAS Y FIJADORES,12.1.2
+Chile,131211,SERVICIOS DE PELUQUERÍA,SERVICIOS DE PELUQUERÍA,12.1.1
+Chile,131221,SERVICIOS EN CENTROS DE ESTÉTICA,SERVICIOS EN CENTROS DE ESTÉTICA,12.1.1
+Chile,132111,JOYAS Y RELOJES,JOYAS,12.3.1
+Chile,132112,JOYAS Y RELOJES,RELOJES DE PULSERA,12.3.1
+Chile,132211,OTROS ARTÍCULOS PERSONALES,"MOCHILAS, CARTERAS Y MALETAS",12.3.2
+Chile,132212,OTROS ARTÍCULOS PERSONALES,ARTÍCULOS PARA BEBÉS,12.3.2
+Chile,133111,RESIDENCIAS PARA ADULTOS MAYORES,RESIDENCIAS PARA ADULTOS MAYORES,12.4.0
