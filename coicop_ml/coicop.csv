@@ -1,0 +1,145 @@
+coicop,coicop_desc,nivel
+01,FOOD AND NON-ALCOHOLIC BEVERAGES,1
+01.1,Food,2
+01.1.1,Bread and cereals,3
+01.1.2,Meat,3
+01.1.3,Fish,3
+01.1.4,"Milk, cheese and eggs",3
+01.1.5,Oils and fats,3
+01.1.6,Fruit,3
+01.1.7,Vegetables,3
+01.1.8,"Sugar, jam, honey, chocolate and confectionery",3
+01.1.9,Food products n.e.c.,3
+01.2,Non-alcoholic beverages,2
+01.2.1,"Coffee, tee and cocoa",3
+01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices",3
+02,"ALCOHOLIC BEVERAGES, TOBACCO",1
+02.1,Alcoholic beverages,2
+02.1.1,Spirits,3
+02.1.2,Wine,3
+02.1.3,Beer,3
+02.2,Tobacco,2
+02.2.0,Tobacco,3
+03,CLOTHING AND FOOTWEAR,1
+03.1,Clothing,2
+03.1.1,Clothing materials,3
+03.1.2,Garments,3
+03.1.3,Other articles of clothing and clothing accessories,3
+03.1.4,"Cleaning, repair and hire of clothing",3
+03.2,Footwear,2
+03.2.1,Shoes and other footwear including repair and hire of footwear,3
+04,"HOUSING, WATER, ELECTRICITY, GAS AND OTHER FUELS",1
+04.1,Actual rentals for housing,2
+04.1.1,Actual rentals paid by tenants including other actual rentals,3
+04.3,Maintenance and repair of the dwelling,2
+04.3.1,Materials for the maintenance and repair of the dwelling,3
+04.3.2,Services for the maintenance and repair of the dwelling,3
+04.4,Water supply and miscellaneous services relating to the dwelling,2
+04.4.1,Water supply,3
+04.4.2,Refuse collection,3
+04.4.3,Sewerage collection,3
+04.4.4,Other services relating to the dwelling n.e.c,3
+04.5,"Electricity, gas and other fuels",2
+04.5.1,Electricity,3
+04.5.2,Gas,3
+04.5.3,Liquid fuels,3
+04.5.4,Solid fuels,3
+04.5.5,Heat energy,3
+05,"FURNISHINGS, HOUSEHOLD EQUIPMENT AND ROUTINE MAINTENANCE OF THE HOUSE",1
+05.1,"Furniture and furnishings, carpets and other floor coverings",2
+05.1.1,Furniture and furnishings,3
+05.1.2,Carpets and other floor coverings,3
+05.1.3,"Repair of furniture, furnishings and floor coverings",3
+05.2,Household textiles,2
+05.2.0,Household textiles,3
+05.3,Household appliances,2
+05.3.1,Major household appliances whether electric or not and small electric household appliances,3
+05.3.3,Repair of household appliances,3
+05.4,"Glassware, tableware and household utensils",2
+05.4.0,"Glassware, tableware and household utensils",3
+05.5,Tools and equipment for house and garden,2
+05.5.1,Major tools and equipment and small tools and miscellaneous accessories,3
+05.6,Goods and services for routine household maintenance,2
+05.6.1,Non-durable household goods,3
+05.6.2,Domestic services and household service,3
+06,HEALTH,1
+06.1,"Medical products, appliances and equipment",2
+06.1.1,Pharmaceutical products,3
+06.1.2,"Other medical products, therapeutic appliances and equipment",3
+06.2,Out-patient services,2
+06.2.1,Medical and paramedical services,3
+06.2.2,Dental services,3
+06.3,Hospital services,2
+06.3.0,Hospital services,3
+07,TRANSPORT,1
+07.1,Purchase of vehicles,2
+07.1.1,Motor cars,3
+07.1.2,"Motor cycles, bicycles and animal drawn vehicles",3
+07.2,Operation of personal transport equipment,2
+07.2.1,Spare parts and accessories for personal transport equipment,3
+07.2.2,Fuels and lubricants for personal transport equipment,3
+07.2.3,Maintenance and repair of personal transport equipment,3
+07.2.4,Other services in respect of personal transport equipment,3
+07.3,Transport services,2
+07.3.1,Passenger transport by railway,3
+07.3.2,Passenger transport by road,3
+07.3.3,Passenger transport by air,3
+07.3.4,Passenger transport by sea and inland waterway,3
+07.3.5,Combined passenger transport,3
+07.3.6,Other purchased transport services,3
+08,COMMUNICATION,1
+08.1,Postal services,2
+08.1.0,Postal services,3
+08.2,Telephone and telefax equipment and telephone and telefax services,2
+08.2.0,Telephone and telefax equipment and telephone and telefax services,3
+09,RECREATION AND CULTURE,1
+09.1,"Audio-visual, photographic and information processing equipment",2
+09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures",3
+09.1.2,Photographic and cinematographic equipment and optical instruments,3
+09.1.3,Information processing equipment,3
+09.1.4,Recording media,3
+09.1.5,"Repair of audio-visual, photographic and information processing equipment",3
+09.2,Other major durables for recreation and culture,2
+09.2.1,Major durables for indoor and outdoor recreation including musical instruments,3
+09.2.3,Maintenance and repair of other major durables for recreation and culture,3
+09.3,"Other recreational items and equipment, gardens and pets",2
+09.3.1,"Games, toys and hobbies",3
+09.3.2,"Equipment for sport, camping and open-air recreation",3
+09.3.3,"Gardens, plants and flowers",3
+09.3.4/5,Pets and related products including veterinary and other services for pets,4
+09.4,Recreational and cultural services,2
+09.4.1,Recreational and sporting services,3
+09.4.2,Cultural services,3
+09.5,"Newspapers, books and stationery",2
+09.5.1,Books,3
+09.5.2,Newspapers and periodicals,3
+09.5.3,Miscellaneous printed matter and stationery and drawing materials,3
+09.6,Package holidays,2
+09.6.0,Package holidays,3
+10,EDUCATION,1
+10.1,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level",2
+10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level",3
+11,RESTAURANTS AND HOTELS,1
+11.1,Catering services,2
+11.1.1,"Restaurants, cafés and the like",3
+11.1.2,Canteens,3
+11.2,Accommodation services,2
+11.2.0,Accommodation services,3
+12,MISCELLANEOUS GOODS AND SERVICES,1
+12.1,Personal care,2
+12.1.1,Hairdressing salons and personal grooming establishments,3
+12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care",3
+12.3,Personal effects n.e.c.,2
+12.3.1,"Jewellery, clocks and watches",3
+12.3.2,Other personal effects,3
+12.4,Social protection,2
+12.4.0,Social protection,3
+12.5,Insurance,2
+12.5.2,Insurance connected with the dwelling,3
+12.5.3,Insurance connected with health,3
+12.5.4,Insurance connected with transport,3
+12.5.5,Other insurance,3
+12.6,Financial services n.e.c.,2
+12.6.2,Other financial services n.e.c.,3
+12.7,Other services n.e.c.,2
+12.7.0,Other services n.e.c.,3

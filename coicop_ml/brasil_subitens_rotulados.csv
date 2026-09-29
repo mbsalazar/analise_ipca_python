@@ -1,0 +1,378 @@
+codigo,subitem,item_cod,item,grupo,coicop,coicop_desc
+1101002,Arroz,1101,"Cereais, leguminosas e oleaginosas",Alimentação no domicílio,01.1.1,Bread and cereals
+1101051,Feijão - mulatinho,1101,"Cereais, leguminosas e oleaginosas",Alimentação no domicílio,01.1.1,Bread and cereals
+1101052,Feijão - preto,1101,"Cereais, leguminosas e oleaginosas",Alimentação no domicílio,01.1.1,Bread and cereals
+1101053,Feijão - macáçar (fradinho),1101,"Cereais, leguminosas e oleaginosas",Alimentação no domicílio,01.1.1,Bread and cereals
+1101073,Feijão - carioca (rajado),1101,"Cereais, leguminosas e oleaginosas",Alimentação no domicílio,01.1.1,Bread and cereals
+1101079,Milho (em grão),1101,"Cereais, leguminosas e oleaginosas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102001,Farinha de arroz,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102006,Macarrão,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102008,Fubá de milho,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102010,Flocos de milho,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102012,Farinha de trigo,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102023,Farinha de mandioca,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102029,Massa semipreparada,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1102061,Macarrão instantâneo,1102,"Farinhas, féculas e massas",Alimentação no domicílio,01.1.1,Bread and cereals
+1103002,Batata-doce,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103003,Batata-inglesa,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103004,Inhame,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103005,Mandioca (aipim),1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103020,Abobrinha,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103025,Pepino,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103026,Pimentão,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103028,Tomate,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103043,Cebola,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1103044,Cenoura,1103,"Tubérculos, raízes e legumes",Alimentação no domicílio,01.1.7,Vegetables
+1104003,Açúcar refinado,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104004,Açúcar cristal,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104018,Balas,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104023,Chocolate em barra e bombom,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104032,Sorvete,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104052,Chocolate e achocolatado em pó,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104060,Doce de frutas em pasta,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1104067,Açúcar demerara,1104,Açúcares e derivados,Alimentação no domicílio,01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+1105001,Alface,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1105004,Coentro,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1105005,Couve,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1105006,Couve-flor,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1105010,Repolho,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1105012,Cheiro-verde,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1105019,Brócolis,1105,Hortaliças e verduras,Alimentação no domicílio,01.1.7,Vegetables
+1106001,Banana-da-terra,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106003,Abacaxi,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106004,Abacate,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106005,Banana - d'água,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106006,Banana - maçã,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106008,Banana - prata,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106011,Laranja - baía,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106012,Laranja - lima,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106015,Limão,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106017,Maçã,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106018,Mamão,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106019,Manga,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106020,Maracujá,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106021,Melancia,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106022,Melão,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106023,Pera,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106027,Tangerina,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106028,Uva,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106039,Laranja - pera,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106051,Morango,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1106084,Goiaba,1106,Frutas,Alimentação no domicílio,01.1.6,Fruit
+1107009,Fígado,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107018,Carne de porco,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107031,Carne de carneiro,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107081,Cupim,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107084,Contrafilé,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107085,Filé-mignon,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107087,Chã de dentro,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107088,Alcatra,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107089,Patinho,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107090,Lagarto redondo,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107091,Lagarto comum,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107093,Músculo,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107094,Pá,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107095,Acém,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107096,Peito,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107097,Capa de filé,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107099,Costela,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1107208,Picanha,1107,Carnes,Alimentação no domicílio,01.1.2,Meat
+1108002,Peixe - anchova,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108004,Peixe - corvina,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108011,Peixe - tainha,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108012,Peixe - sardinha,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108013,Camarão,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108019,Peixe - cavala,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108029,Peixe - cação,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108031,Peixe - merluza,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108032,Peixe - serra,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108038,Peixe - pescada,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108045,Caranguejo,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108049,Peixe - castanha,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108052,Peixe - palombeta,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108072,Peixe - curimatã,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108075,Peixe - salmão,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108080,Peixe - tilápia,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108087,Peixe - tambaqui,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108088,Peixe - dourada,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108092,Peixe - filhote,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108096,Peixe - peroá,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108112,Peixe - pintado,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1108125,Peixe - aruanã,1108,Pescados,Alimentação no domicílio,01.1.3,Fish
+1109002,Presunto,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109007,Salsicha,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109008,Linguiça,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109010,Mortadela,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109012,Salame,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109023,Bacalhau,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109056,Carne-seca e de sol,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1109058,Carne de porco salgada e defumada,1109,Carnes e peixes industrializados,Alimentação no domicílio,01.1.2,Meat
+1110009,Frango inteiro,1110,Aves e ovos,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1110010,Frango em pedaços,1110,Aves e ovos,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1110044,Ovo de galinha,1110,Aves e ovos,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111004,Leite longa vida,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111008,Leite condensado,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111009,Leite em pó,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111011,Queijo,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111019,Iogurte e bebidas lácteas,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111021,Requeijão,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111031,Manteiga,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1111038,Leite fermentado,1111,Leites e derivados,Alimentação no domicílio,01.1.4,"Milk, cheese and eggs"
+1112003,Biscoito,1112,Panificados,Alimentação no domicílio,01.1.1,Bread and cereals
+1112015,Pão francês,1112,Panificados,Alimentação no domicílio,01.1.1,Bread and cereals
+1112017,Pão doce,1112,Panificados,Alimentação no domicílio,01.1.1,Bread and cereals
+1112018,Pão de forma,1112,Panificados,Alimentação no domicílio,01.1.1,Bread and cereals
+1112019,Bolo,1112,Panificados,Alimentação no domicílio,01.1.1,Bread and cereals
+1112025,Pão de queijo,1112,Panificados,Alimentação no domicílio,01.1.1,Bread and cereals
+1113013,Óleo de soja,1113,Óleos e gorduras,Alimentação no domicílio,01.1.5,Oils and fats
+1113014,Azeite de oliva,1113,Óleos e gorduras,Alimentação no domicílio,01.1.5,Oils and fats
+1113040,Margarina,1113,Óleos e gorduras,Alimentação no domicílio,01.1.5,Oils and fats
+1114001,Suco de frutas,1114,Bebidas e infusões,Alimentação no domicílio,01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
+1114003,Polpa de fruta (congelada),1114,Bebidas e infusões,Alimentação no domicílio,01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
+1114004,Açaí (emulsão),1114,Bebidas e infusões,Alimentação no domicílio,01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
+1114022,Café moído,1114,Bebidas e infusões,Alimentação no domicílio,01.2.1,"Coffee, tee and cocoa"
+1114023,Café solúvel,1114,Bebidas e infusões,Alimentação no domicílio,01.2.1,"Coffee, tee and cocoa"
+1114083,Refrigerante e água mineral,1114,Bebidas e infusões,Alimentação no domicílio,01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
+1114084,Cerveja,1114,Bebidas e infusões,Alimentação no domicílio,02.1.3,Beer
+1114085,Outras bebidas alcoólicas,1114,Bebidas e infusões,Alimentação no domicílio,02.1.1,Spirits
+1114087,Vinho,1114,Bebidas e infusões,Alimentação no domicílio,02.1.2,Wine
+1114090,Suco em pó,1114,Bebidas e infusões,Alimentação no domicílio,01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
+1114091,Chá mate (erva mate),1114,Bebidas e infusões,Alimentação no domicílio,01.2.1,"Coffee, tee and cocoa"
+1115013,Alimento infantil,1115,Enlatados e conservas,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1115016,Palmito em conserva,1115,Enlatados e conservas,Alimentação no domicílio,01.1.7,Vegetables
+1115017,Pepino em conserva,1115,Enlatados e conservas,Alimentação no domicílio,01.1.7,Vegetables
+1115039,Sardinha em conserva,1115,Enlatados e conservas,Alimentação no domicílio,01.1.3,Fish
+1115050,Salsicha em conserva,1115,Enlatados e conservas,Alimentação no domicílio,01.1.2,Meat
+1115056,Sopa desidratada,1115,Enlatados e conservas,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1115057,Azeitona,1115,Enlatados e conservas,Alimentação no domicílio,01.1.7,Vegetables
+1115058,Milho-verde em conserva,1115,Enlatados e conservas,Alimentação no domicílio,01.1.7,Vegetables
+1115075,Atum em conserva,1115,Enlatados e conservas,Alimentação no domicílio,01.1.3,Fish
+1116001,Leite de coco,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116005,Atomatado,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116010,Alho,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116013,Sal,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116022,Colorau,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116023,Caldo de tucupi,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116026,Fermento,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116033,Maionese,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116041,Vinagre,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116048,Caldo concentrado,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1116071,Tempero misto,1116,Sal e condimentos,Alimentação no domicílio,01.1.9,Food products n.e.c.
+1201001,Refeição,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201003,Lanche,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201007,Refrigerante e água mineral,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201009,Cafezinho,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201048,Cerveja,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201051,Outras bebidas alcoólicas,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201052,Vinho,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201061,Doces,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+1201088,Sorvete,1201,Alimentação fora do domicílio,Alimentação fora do domicílio,11.1.1,"Restaurants, cafés and the like"
+2101001,Aluguel residencial,2101,Aluguel e taxas,Encargos e manutenção,04.1.1,Actual rentals paid by tenants including other actual rentals
+2101002,Condomínio,2101,Aluguel e taxas,Encargos e manutenção,04.4.4,Other services relating to the dwelling n.e.c
+2101004,Taxa de água e esgoto,2101,Aluguel e taxas,Encargos e manutenção,04.4.1,Water supply
+2101012,Mudança,2101,Aluguel e taxas,Encargos e manutenção,07.3.6,Other purchased transport services
+2103005,Ferragens,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103008,Material de eletricidade,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103012,Vidro,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103014,Tinta,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103032,Revestimento de piso e parede,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103038,Madeira e taco,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103039,Cimento,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103040,Tijolo,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103041,Material hidráulico,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103042,Mão de obra,2103,Reparos,Encargos e manutenção,04.3.2,Services for the maintenance and repair of the dwelling
+2103048,Areia,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103049,Pedras,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2103055,Telha,2103,Reparos,Encargos e manutenção,04.3.1,Materials for the maintenance and repair of the dwelling
+2104003,Saco para lixo,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104005,Água sanitária,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104008,Detergente,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104009,Sabão em pó,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104012,Desinfetante,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104015,Sabão em barra,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104016,Esponja de limpeza,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104019,Sabão líquido,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104020,Limpador multiuso,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104041,Papel toalha,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2104085,Amaciante e alvejante,2104,Artigos de limpeza,Encargos e manutenção,05.6.1,Non-durable household goods
+2201003,Carvão vegetal,2201,Combustíveis (domésticos),Combustíveis e energia,04.5.4,Solid fuels
+2201004,Gás de botijão,2201,Combustíveis (domésticos),Combustíveis e energia,04.5.2,Gas
+2201005,Gás encanado,2201,Combustíveis (domésticos),Combustíveis e energia,04.5.2,Gas
+2202003,Energia elétrica residencial,2202,Energia elétrica residencial,Combustíveis e energia,04.5.1,Electricity
+3101002,Móvel para sala,3101,Mobiliário,Móveis e utensílios,05.1.1,Furniture and furnishings
+3101003,Móvel para quarto,3101,Mobiliário,Móveis e utensílios,05.1.1,Furniture and furnishings
+3101015,Móvel para copa e cozinha,3101,Mobiliário,Móveis e utensílios,05.1.1,Furniture and furnishings
+3101016,Móvel infantil,3101,Mobiliário,Móveis e utensílios,05.1.1,Furniture and furnishings
+3101017,Colchão,3101,Mobiliário,Móveis e utensílios,05.1.1,Furniture and furnishings
+3102001,Artigos de iluminação,3102,Utensílios e enfeites,Móveis e utensílios,05.1.1,Furniture and furnishings
+3102005,Tapete,3102,Utensílios e enfeites,Móveis e utensílios,05.1.2,Carpets and other floor coverings
+3102006,Cortina,3102,Utensílios e enfeites,Móveis e utensílios,05.2.0,Household textiles
+3102007,Utensílios de metal,3102,Utensílios e enfeites,Móveis e utensílios,05.4.0,"Glassware, tableware and household utensils"
+3102009,Utensílios de vidro e louça,3102,Utensílios e enfeites,Móveis e utensílios,05.4.0,"Glassware, tableware and household utensils"
+3102010,Utensílios de plástico,3102,Utensílios e enfeites,Móveis e utensílios,05.4.0,"Glassware, tableware and household utensils"
+3102035,Flores naturais,3102,Utensílios e enfeites,Móveis e utensílios,09.3.3,"Gardens, plants and flowers"
+3102337,Utensílios para bebê,3102,Utensílios e enfeites,Móveis e utensílios,12.3.2,Other personal effects
+3103001,Roupa de cama,3103,"Cama, mesa e banho",Móveis e utensílios,05.2.0,Household textiles
+3103003,Roupa de banho,3103,"Cama, mesa e banho",Móveis e utensílios,05.2.0,Household textiles
+3201001,Refrigerador,3201,Eletrodomésticos e equipamentos,Aparelhos eletroeletrônicos,05.3.1,Major household appliances whether electric or not and small electric household appliances
+3201002,Ar-condicionado,3201,Eletrodomésticos e equipamentos,Aparelhos eletroeletrônicos,05.3.1,Major household appliances whether electric or not and small electric household appliances
+3201006,Máquina de lavar roupa,3201,Eletrodomésticos e equipamentos,Aparelhos eletroeletrônicos,05.3.1,Major household appliances whether electric or not and small electric household appliances
+3201013,Ventilador,3201,Eletrodomésticos e equipamentos,Aparelhos eletroeletrônicos,05.3.1,Major household appliances whether electric or not and small electric household appliances
+3201021,Fogão,3201,Eletrodomésticos e equipamentos,Aparelhos eletroeletrônicos,05.3.1,Major household appliances whether electric or not and small electric household appliances
+3201050,Chuveiro elétrico,3201,Eletrodomésticos e equipamentos,Aparelhos eletroeletrônicos,05.3.1,Major household appliances whether electric or not and small electric household appliances
+3202001,Televisor,3202,"Tv, som e informática",Aparelhos eletroeletrônicos,09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures"
+3202003,Aparelho de som,3202,"Tv, som e informática",Aparelhos eletroeletrônicos,09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures"
+3202008,Videogame (console),3202,"Tv, som e informática",Aparelhos eletroeletrônicos,09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures"
+3202028,Computador pessoal,3202,"Tv, som e informática",Aparelhos eletroeletrônicos,09.1.3,Information processing equipment
+3301002,Conserto de refrigerador,3301,Consertos e manutenção,Consertos e manutenção,05.3.3,Repair of household appliances
+3301006,Conserto de televisor,3301,Consertos e manutenção,Consertos e manutenção,05.3.3,Repair of household appliances
+3301015,Conserto de máquina de lavar roupa,3301,Consertos e manutenção,Consertos e manutenção,05.3.3,Repair of household appliances
+3301022,Reforma de estofado,3301,Consertos e manutenção,Consertos e manutenção,05.1.3,"Repair of furniture, furnishings and floor coverings"
+3301088,Conserto de aparelho celular,3301,Consertos e manutenção,Consertos e manutenção,08.2.0,Telephone and telefax equipment and telephone and telefax services
+3301130,Conserto de bicicleta,3301,Consertos e manutenção,Consertos e manutenção,07.2.3,Maintenance and repair of personal transport equipment
+4101002,Calça comprida masculina,4101,Roupa masculina,Roupas,03.1.2,Garments
+4101005,Agasalho masculino,4101,Roupa masculina,Roupas,03.1.2,Garments
+4101006,Bermuda/short masculino,4101,Roupa masculina,Roupas,03.1.2,Garments
+4101008,Cueca,4101,Roupa masculina,Roupas,03.1.2,Garments
+4101009,Camisa/camiseta masculina,4101,Roupa masculina,Roupas,03.1.2,Garments
+4102002,Calça comprida feminina,4102,Roupa feminina,Roupas,03.1.2,Garments
+4102003,Agasalho feminino,4102,Roupa feminina,Roupas,03.1.2,Garments
+4102004,Saia,4102,Roupa feminina,Roupas,03.1.2,Garments
+4102005,Vestido,4102,Roupa feminina,Roupas,03.1.2,Garments
+4102008,Blusa,4102,Roupa feminina,Roupas,03.1.2,Garments
+4102010,Lingerie,4102,Roupa feminina,Roupas,03.1.2,Garments
+4102013,Bermuda/short feminino,4102,Roupa feminina,Roupas,03.1.2,Garments
+4103001,Uniforme escolar,4103,Roupa infantil,Roupas,03.1.2,Garments
+4103002,Calça comprida infantil,4103,Roupa infantil,Roupas,03.1.2,Garments
+4103005,Agasalho infantil,4103,Roupa infantil,Roupas,03.1.2,Garments
+4103007,Vestido infantil,4103,Roupa infantil,Roupas,03.1.2,Garments
+4103008,Bermuda/short infantil,4103,Roupa infantil,Roupas,03.1.2,Garments
+4103011,Camisa/camiseta infantil,4103,Roupa infantil,Roupas,03.1.2,Garments
+4103031,Conjunto infantil,4103,Roupa infantil,Roupas,03.1.2,Garments
+4201002,Sapato masculino,4201,Calçados e acessórios,Calçados e acessórios,03.2.1,Shoes and other footwear including repair and hire of footwear
+4201003,Sapato feminino,4201,Calçados e acessórios,Calçados e acessórios,03.2.1,Shoes and other footwear including repair and hire of footwear
+4201004,Sapato infantil,4201,Calçados e acessórios,Calçados e acessórios,03.2.1,Shoes and other footwear including repair and hire of footwear
+4201015,Bolsa,4201,Calçados e acessórios,Calçados e acessórios,12.3.2,Other personal effects
+4201040,Mochila,4201,Calçados e acessórios,Calçados e acessórios,12.3.2,Other personal effects
+4201063,Tênis,4201,Calçados e acessórios,Calçados e acessórios,03.2.1,Shoes and other footwear including repair and hire of footwear
+4201098,Sandália/chinelo,4201,Calçados e acessórios,Calçados e acessórios,03.2.1,Shoes and other footwear including repair and hire of footwear
+4301001,Bijuteria,4301,Joias e bijuterias,Joias e bijuterias,12.3.1,"Jewellery, clocks and watches"
+4301002,Joia,4301,Joias e bijuterias,Joias e bijuterias,12.3.1,"Jewellery, clocks and watches"
+4301004,Relógio de pulso,4301,Joias e bijuterias,Joias e bijuterias,12.3.1,"Jewellery, clocks and watches"
+4401001,Tecido,4401,Tecidos e armarinho,Tecidos e armarinho,03.1.1,Clothing materials
+4401002,Artigos de armarinho,4401,Tecidos e armarinho,Tecidos e armarinho,03.1.3,Other articles of clothing and clothing accessories
+5101001,Ônibus urbano,5101,Transporte público,Transportes,07.3.2,Passenger transport by road
+5101002,Táxi,5101,Transporte público,Transportes,07.3.2,Passenger transport by road
+5101004,Trem,5101,Transporte público,Transportes,07.3.1,Passenger transport by railway
+5101006,Ônibus intermunicipal,5101,Transporte público,Transportes,07.3.2,Passenger transport by road
+5101007,Ônibus interestadual,5101,Transporte público,Transportes,07.3.2,Passenger transport by road
+5101010,Passagem aérea,5101,Transporte público,Transportes,07.3.3,Passenger transport by air
+5101011,Metrô,5101,Transporte público,Transportes,07.3.1,Passenger transport by railway
+5101026,Transporte escolar,5101,Transporte público,Transportes,07.3.2,Passenger transport by road
+5101051,Transporte por aplicativo,5101,Transporte público,Transportes,07.3.2,Passenger transport by road
+5101053,Integração transporte público,5101,Transporte público,Transportes,07.3.5,Combined passenger transport
+5102001,Automóvel novo,5102,Veículo próprio,Transportes,07.1.1,Motor cars
+5102004,Emplacamento e licença,5102,Veículo próprio,Transportes,07.2.4,Other services in respect of personal transport equipment
+5102005,Seguro voluntário de veículo,5102,Veículo próprio,Transportes,12.5.4,Insurance connected with transport
+5102006,Multa,5102,Veículo próprio,Transportes,07.2.4,Other services in respect of personal transport equipment
+5102007,Óleo lubrificante,5102,Veículo próprio,Transportes,07.2.2,Fuels and lubricants for personal transport equipment
+5102009,Acessórios e peças,5102,Veículo próprio,Transportes,07.2.1,Spare parts and accessories for personal transport equipment
+5102010,Pneu,5102,Veículo próprio,Transportes,07.2.1,Spare parts and accessories for personal transport equipment
+5102011,Conserto de automóvel,5102,Veículo próprio,Transportes,07.2.3,Maintenance and repair of personal transport equipment
+5102013,Estacionamento,5102,Veículo próprio,Transportes,07.2.4,Other services in respect of personal transport equipment
+5102015,Pedágio,5102,Veículo próprio,Transportes,07.2.4,Other services in respect of personal transport equipment
+5102020,Automóvel usado,5102,Veículo próprio,Transportes,07.1.1,Motor cars
+5102037,Pintura de veículo,5102,Veículo próprio,Transportes,07.2.3,Maintenance and repair of personal transport equipment
+5102051,Aluguel de veículo,5102,Veículo próprio,Transportes,07.2.4,Other services in respect of personal transport equipment
+5102053,Motocicleta,5102,Veículo próprio,Transportes,07.1.2,"Motor cycles, bicycles and animal drawn vehicles"
+5104001,Gasolina,5104,Combustíveis (veículos),Transportes,07.2.2,Fuels and lubricants for personal transport equipment
+5104002,Etanol,5104,Combustíveis (veículos),Transportes,07.2.2,Fuels and lubricants for personal transport equipment
+5104003,Óleo diesel,5104,Combustíveis (veículos),Transportes,07.2.2,Fuels and lubricants for personal transport equipment
+5104005,Gás veicular,5104,Combustíveis (veículos),Transportes,07.2.2,Fuels and lubricants for personal transport equipment
+6101001,Anti-infeccioso e antibiótico,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101002,Analgésico e antitérmico,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101003,Anti-inflamatório e antirreumático,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101004,Antigripal e antitussígeno,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101006,Dermatológico,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101007,Antialérgico e broncodilatador,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101009,Gastroprotetor,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101010,Vitamina e fortificante,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101011,Hormonal,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101013,Psicotrópico e anorexígeno,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101014,Hipotensor e hipocolesterolêmico,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101051,Oftalmológico,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101064,Antidiabético,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6101148,Neurológico,6101,Produtos farmacêuticos,Produtos farmacêuticos e óticos,06.1.1,Pharmaceutical products
+6102012,Óculos de grau,6102,Produtos óticos,Produtos farmacêuticos e óticos,06.1.2,"Other medical products, therapeutic appliances and equipment"
+6201002,Médico,6201,Serviços médicos e dentários,Serviços de saúde,06.2.1,Medical and paramedical services
+6201003,Dentista,6201,Serviços médicos e dentários,Serviços de saúde,06.2.2,Dental services
+6201005,Aparelho ortodôntico,6201,Serviços médicos e dentários,Serviços de saúde,06.2.2,Dental services
+6201007,Fisioterapeuta,6201,Serviços médicos e dentários,Serviços de saúde,06.2.1,Medical and paramedical services
+6201010,Psicólogo,6201,Serviços médicos e dentários,Serviços de saúde,06.2.1,Medical and paramedical services
+6202003,Exame de laboratório,6202,Serviços laboratoriais e hospitalares,Serviços de saúde,06.3.0,Hospital services
+6202004,Hospitalização e cirurgia,6202,Serviços laboratoriais e hospitalares,Serviços de saúde,06.3.0,Hospital services
+6202006,Exame de imagem,6202,Serviços laboratoriais e hospitalares,Serviços de saúde,06.3.0,Hospital services
+6203001,Plano de saúde,6203,Plano de saúde,Serviços de saúde,12.5.3,Insurance connected with health
+6301001,Produto para cabelo,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301002,Fralda descartável,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301004,Produto para barba,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301006,Produto para pele,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301007,Produto para higiene bucal,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301010,Produto para unha,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301011,Perfume,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301014,Desodorante,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301015,Absorvente higiênico,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301016,Sabonete,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301017,Papel higiênico,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+6301020,Artigos de maquiagem,6301,Higiene pessoal,Cuidados pessoais,12.1.2,"Electric appliances for personal care and other appliances, articles and products for personal care"
+7101001,Costureira,7101,Serviços pessoais,Serviços pessoais,12.1.1,Hairdressing salons and personal grooming establishments
+7101005,Manicure,7101,Serviços pessoais,Serviços pessoais,12.1.1,Hairdressing salons and personal grooming establishments
+7101010,Empregado doméstico,7101,Serviços pessoais,Serviços pessoais,05.6.2,Domestic services and household service
+7101011,Cabeleireiro e barbeiro,7101,Serviços pessoais,Serviços pessoais,12.1.1,Hairdressing salons and personal grooming establishments
+7101014,Depilação,7101,Serviços pessoais,Serviços pessoais,12.1.1,Hairdressing salons and personal grooming establishments
+7101034,Cartório,7101,Serviços pessoais,Serviços pessoais,12.7.0,Other services n.e.c.
+7101036,Despachante,7101,Serviços pessoais,Serviços pessoais,12.7.0,Other services n.e.c.
+7101076,Serviço bancário,7101,Serviços pessoais,Serviços pessoais,12.6.2,Other financial services n.e.c.
+7101090,Conselho de classe,7101,Serviços pessoais,Serviços pessoais,12.7.0,Other services n.e.c.
+7101144,Sobrancelha,7101,Serviços pessoais,Serviços pessoais,12.1.1,Hairdressing salons and personal grooming establishments
+7201006,Clube,7201,Recreação,Recreação e fumo,09.4.1,Recreational and sporting services
+7201010,Instrumento musical,7201,Recreação,Recreação e fumo,09.2.1,Major durables for indoor and outdoor recreation including musical instruments
+7201015,Tratamento de animais (clínica),7201,Recreação,Recreação e fumo,09.3.4/5,Pets and related products including veterinary and other services for pets
+7201019,Bicicleta,7201,Recreação,Recreação e fumo,07.1.2,"Motor cycles, bicycles and animal drawn vehicles"
+7201020,Alimento para animais,7201,Recreação,Recreação e fumo,09.3.4/5,Pets and related products including veterinary and other services for pets
+7201023,Brinquedo,7201,Recreação,Recreação e fumo,09.3.1,"Games, toys and hobbies"
+7201054,Casa noturna,7201,Recreação,Recreação e fumo,09.4.2,Cultural services
+7201063,Jogos de azar,7201,Recreação,Recreação e fumo,09.3.1,"Games, toys and hobbies"
+7201067,Material de caça e pesca,7201,Recreação,Recreação e fumo,09.3.2,"Equipment for sport, camping and open-air recreation"
+7201090,Hospedagem,7201,Recreação,Recreação e fumo,11.2.0,Accommodation services
+7201095,Pacote turístico,7201,Recreação,Recreação e fumo,09.6.0,Package holidays
+7201256,Serviço de higiene para animais,7201,Recreação,Recreação e fumo,09.3.4/5,Pets and related products including veterinary and other services for pets
+7201266,"Cinema, teatro e concertos",7201,Recreação,Recreação e fumo,09.4.2,Cultural services
+7202041,Cigarro,7202,Fumo,Recreação e fumo,02.2.0,Tobacco
+8101001,Creche,8101,Cursos regulares,"Cursos, leitura e papelaria",12.4.0,Social protection
+8101002,Pré-escola,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8101003,Ensino fundamental,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8101004,Ensino médio,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8101005,Ensino superior,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8101006,Pós-graduação,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8101008,Educação de jovens e adultos,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8101045,Curso técnico,8101,Cursos regulares,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8102001,Jornal diário,8102,Leitura,"Cursos, leitura e papelaria",09.5.2,Newspapers and periodicals
+8102004,Revista,8102,Leitura,"Cursos, leitura e papelaria",09.5.2,Newspapers and periodicals
+8102007,Livro didático,8102,Leitura,"Cursos, leitura e papelaria",09.5.1,Books
+8102008,Livro não didático,8102,Leitura,"Cursos, leitura e papelaria",09.5.1,Books
+8103001,Caderno,8103,Papelaria,"Cursos, leitura e papelaria",09.5.3,Miscellaneous printed matter and stationery and drawing materials
+8103014,Artigos de papelaria,8103,Papelaria,"Cursos, leitura e papelaria",09.5.3,Miscellaneous printed matter and stationery and drawing materials
+8104001,Curso preparatório,8104,Cursos diversos,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8104003,Curso de idioma,8104,Cursos diversos,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8104004,Curso de informática,8104,Cursos diversos,"Cursos, leitura e papelaria",10.1.0,"Pre-primary and primary, secondary, post-secondary non-tertiary, tertiary education, and education not definable by level"
+8104005,Autoescola,8104,Cursos diversos,"Cursos, leitura e papelaria",07.2.4,Other services in respect of personal transport equipment
+8104006,Atividades físicas,8104,Cursos diversos,"Cursos, leitura e papelaria",09.4.1,Recreational and sporting services
+9101001,Correio,9101,Comunicação,Comunicação,08.1.0,Postal services
+9101002,Plano de telefonia fixa,9101,Comunicação,Comunicação,08.2.0,Telephone and telefax equipment and telephone and telefax services
+9101008,Plano de telefonia móvel,9101,Comunicação,Comunicação,08.2.0,Telephone and telefax equipment and telephone and telefax services
+9101010,Tv por assinatura,9101,Comunicação,Comunicação,09.4.2,Cultural services
+9101018,Acesso à internet,9101,Comunicação,Comunicação,08.2.0,Telephone and telefax equipment and telephone and telefax services
+9101019,Aparelho telefônico,9101,Comunicação,Comunicação,08.2.0,Telephone and telefax equipment and telephone and telefax services
+9101115,Serviços de streaming,9101,Comunicação,Comunicação,09.4.2,Cultural services
+9101116,"Combo de telefonia, internet e tv por assinatura",9101,Comunicação,Comunicação,08.2.0,Telephone and telefax equipment and telephone and telefax services
