@@ -1,0 +1,2855 @@
+Ministerio de Hacienda
+ISSN 2545-7179
+República Argentina
+Instituto Nacional de
+Estadística y Censos
+Metodología del 
+Índice de precios al consumidor (IPC)
+Base diciembre 2016=100
+Buenos Aires, noviembre de 2019
+Metodología
+INDEC Nº
+32
+
+Metodología del Índice de precios al consumidor (IPC). Base diciembre 2016=100
+Metodología INDEC N° 32
+Instituto Nacional de Estadística y Censos (INDEC)
+Esta publicación ha sido realizada por el equipo de trabajo de la Dirección de Índices de Precios de Consumo.
+Responsable de la edición: Lic. Jorge Todesca
+Director técnico: Mag. Pedro Lines
+Director nacional de Metodología Estadística: Lic. Gerardo Mitas
+Directora de la publicación: Mag. María Silvina Viazzi
+Coordinación de producción editorial: Lic. Marcelo Costanzo
+Buenos Aires, noviembre de 2019.
+Esta publicación utiliza una licencia Creative Commons. Se permite su reproducción con atribución de la fuente.
+Libro de edición argentina
+ISSN 2545-7179
+ISBN 978-950-896-558-5
+Instituto Nacional de Estadística y Censos - I.N.D.E.C.
+   Metodología del índice de precios al consumidor IPC :Base diciembre 2016=100. -
+1a ed . - Ciudad Autónoma de Buenos Aires : Instituto Nacional de Estadística y 
+Censos - INDEC, 2019.
+   Libro digital, PDF - (Metodología INDEC ; 32)
+   Archivo Digital: descarga y online
+   ISBN 978-950-896-558-5
+   1. Método Estadístico. 2. Indice. 3. Precio. I. Título
+   CDD 310
+Dirección Nacional de Estadísticas de Condiciones de Vida
+Director: Lic. Guillermo Luis Manzano 
+Dirección de Índices de Precios de Consumo
+Directora: Lic. María Josefina Rim
+Coordinación del IPC Nacional
+Coordinadora: Dra. Marcela Almeida 
+Equipo de coordinación de relevamiento y análisis de precios
+Jorge Ignacio Asseph, Alejandro Emilio Carbia, Mariana Fernanda Elorga; Diana Gagliardo, Mónica García, Liliana Haydee Gasco, 
+Mayra Gómez, Betsabé Jensen, Laura Mariana Liedtke, Andrea Rosana Mattia, Vanina Micello, Silvia Haydee Orellana, Paula 
+Verónica Sampedro, Gabriela Fabiana Soroka, Gabriel Vazquez, Geraldina Verea, Barbara Weich, Zulma Noemí Zapata, Guillermo 
+Zusmanovsky.
+Equipo de desarrollo informático
+Luciano Belforte, Reynaldo Gazza, Matías Mendoza, Sergio Miyagusuku, Diego Piloto.
+Se agradecen las valiosas contribuciones de la Mag. Alejandra Clemente, el Lic. Fernando Cerro, el Lic. Diego Kozlowski y el Lic. 
+Guido Weksler. También el asesoramiento del Lic. Heber Camelo, la Lic. Carmen Dopico y la Lic. Marcela Harriague.
+Publicaciones del INDEC
+Las publicaciones editadas por el Instituto Nacional de Estadística y Censos están disponibles en www.indec.gob.ar y en el Centro Estadístico 
+de Servicios, ubicado en Av. Presidente Julio A. Roca 609 C1067ABB, Ciudad Autónoma de Buenos Aires, Argentina. También pueden solicitar­
+se al teléfono +54 11 5031-4632 en el horario de atención al público de 9:30 a 16:00. Correo electrónico: ces@indec.gob.ar 
+Calendario anual anticipado de informes: www.indec.gob.ar/indec/web/Calendario-Fecha-0
+INDECArgentina
+
+3
+Metodología del Índice de precios al consumidor
+Índice
+1.	 Introducción................................................................................................................................... 4
+	
+1.1	Usos del IPC............................................................................................................................. 4
+	
+1.2	Antecedentes........................................................................................................................... 4
+2.	Alcance del índice.......................................................................................................................... 6
+	
+2.1	Conceptos generales............................................................................................................... 6
+	
+2.2	Gasto de consumo de los hogares.......................................................................................... 7
+	
+2.3	Canasta de bienes y servicios del IPC.................................................................................... 8
+	
+2.4	Definición de variedad........................................................................................................... 11
+	
+2.5	Población de referencia......................................................................................................... 13
+	
+2.6	Cobertura geográfica del relevamiento de precios............................................................... 13
+3.	Muestras y estructura de relevamiento....................................................................................... 14
+	
+3.1	Selección de puntos de venta............................................................................................... 14
+	
+3.2	Selección de bienes y servicios............................................................................................. 14
+	
+3.3	Selección y relevamiento de precios..................................................................................... 14
+4.	Cálculo del IPC............................................................................................................................. 16
+	
+4.1	Concepto general................................................................................................................... 16
+	
+4.2	Estructura de ponderadores y su actualización por precios................................................ 17
+5	 Etapas del cálculo del IPC........................................................................................................... 19
+	
+5.1	Cálculo de índices elementales............................................................................................. 21
+	
+5.2	Cálculo de índices de niveles superiores.............................................................................. 22
+	
+5.3	Cálculo del índice a nivel nacional......................................................................................... 23
+6.	Incidencia y efecto arrastre......................................................................................................... 24
+7.	 Aspectos especiales en el tratamiento de precios..................................................................... 24
+	
+7.1	 Precios faltantes..................................................................................................................... 24
+	
+7.2	Métodos de ajustes de calidad.............................................................................................. 25
+8.	Tratamiento de servicios tarifados y precios compuestos......................................................... 28
+	
+8.1	Electricidad y gas por red...................................................................................................... 28
+	
+8.2	Servicio de agua potable y saneamiento.............................................................................. 29
+	
+8.3	Telefonía fija............................................................................................................................ 30
+	
+8.4	Telefonía móvil........................................................................................................................ 33
+	
+8.5	Trenes, colectivos urbano, suburbano, interurbano y subte en la región GBA.................... 34
+	
+8.6	Peajes y rutas nacionales...................................................................................................... 35
+	
+8.7	Procedimientos para los reembolsos de tarifas públicas..................................................... 36
+9.	Difusión........................................................................................................................................ 37
+10.	 Glosario...................................................................................................................................... 38
+11.	 Bibliografía................................................................................................................................. 42
+12.	 Anexo I. Divisiones del clasificador COICOP 1999................................................................... 43
+13.	 Anexo II. Estructura regional de ponderadores......................................................................... 45
+
+4
+INDEC
+1. Introducción
+El índice de precios al consumidor (IPC) de la República Argentina, que se difunde des­
+de enero de 2017, mide la evolución de los precios de un conjunto de bienes y servicios 
+representativos del gasto de consumo de los hogares residentes en áreas urbanas. 
+Sus resultados se publican para el total país como índice nacional y para Cuyo, GBA, 
+Noreste, Noroeste, Pampeana y Patagonia como índices regionales.
+La dirección del programa está a cargo del Instituto Nacional de Estadística y Censos 
+(INDEC) con la participación de las direcciones provinciales de estadística.
+1.1 Usos del IPC
+El IPC provee información relevante en más de un sentido:
+•	 Se utiliza como medida de la inflación del país, por lo cual es considerado para la 
+determinación de políticas económicas y monetarias, obligaciones contractuales, 
+tasa de interés y remuneraciones.
+•	 Sirve como indicador del cambio en el poder de compra de los consumidores.
+•	 Es una herramienta útil para estimar series económicas a precios constantes.
+•	 Proporciona una serie de índices que permiten comparar la evolución de los pre­
+cios de subconjuntos de bienes y servicios, proveyendo información sobre distin­
+tos sectores de la economía.
+•	 Muestra la variación promedio de precios de un conjunto de bienes y servicios 
+comercializados en el mercado, representativos del consumo de los hogares. 
+1.2 Antecedentes
+El primer antecedente de IPC es el publicado en 1924 por la Dirección General de Es­
+tadísticas para la Capital Federal. Desde entonces, en 1933, 1943, 1960, 1974, 1988, 
+1999, 2008, 2013 y 2016 se llevaron a cabo distintas revisiones. En cada una de ellas se 
+introdujeron modificaciones en cuanto a las características de la población de referen­
+cia, la selección de los bienes y servicios que componen la canasta, los procedimientos 
+de recolección de los precios y los métodos de cálculo del índice.
+En cuanto a la población de referencia del índice, en el cuadro 1 se pueden observar 
+sus principales características en los índices vigentes desde 1933:
+
+5
+Metodología del Índice de precios al consumidor
+Cuadro 1. 	
+Población de referencia de los IPC. Años 1933 a 2016
+Año base 
+del índice
+Período de 
+referencia de la 
+encuesta de gastos 
+de los hogares
+Área geográfica de la 
+encuesta de gastos
+Población de referencia del IPC
+Dic. 2016
+Octubre de 2004 a 
+diciembre de 2005
+Todo el país con cobertura 
+urbana y rural
+Todos los hogares residentes en las áreas urbanas 
+Dic. 2015
+Octubre de 2004 a 
+diciembre de 2005
+Todo el país con cobertura 
+urbana y rural
+Todos los hogares residentes en el área geográfica 
+de Ciudad Autónoma de Buenos Aires y los 24 
+partidos del Gran Buenos Aires
+2013
+Marzo 2012 a marzo 
+2013
+Todos los hogares 
+residentes en localidades 
+de 5.000 y más habitantes
+Todos los hogares residentes en el área geográfica
+2008
+Octubre de 2004 a 
+diciembre de 2005
+Todo el país con cobertura 
+urbana y rural
+Todos los hogares residentes en el área geográfica 
+de Ciudad Autónoma de Buenos Aires y los 24 
+partidos del Gran Buenos Aires
+2005
+Febrero de 1996 a enero 
+de 1997
+Todos los hogares 
+residentes en localidades 
+de 5.000 y más habitantes
+Ciudad Autónoma de Buenos Aires, provincias 
+de Buenos Aires, Córdoba, Santa Fe, Mendoza, 
+Tucumán, San Luis y Catamarca
+1999
+Febrero de 1996 a enero 
+de 1997
+Todos los hogares 
+residentes en localidades 
+de 5.000 y más habitantes
+Ciudad Autónoma de Buenos Aires y 24 partidos del 
+Gran Buenos Aires
+1988
+Julio de 1985 a junio de 
+1986
+Ciudad Autónoma de 
+Buenos Aires y 19 partidos 
+del Gran Buenos Aires
+Se excluyeron los hogares de más altos ingresos 
+(aproximadamente 5% del total) y los hogares 
+unipersonales
+1974
+Octubre de 1970 a 
+septiembre de 1971
+Ciudad Autónoma de 
+Buenos Aires y 19 partidos 
+del Gran Buenos Aires
+Solo hogares con 2 a 7 miembros, con ingreso total 
+entre $250 y $1.500 (pesos ley 18.188) y jefe de 
+hogar asalariado de la industria o el comercio 
+1960
+Enero de 1960 a 
+diciembre de 1960
+Ciudad Autónoma de 
+Buenos Aires
+Matrimonio con dos hijos entre 6 y 14 años. El 
+único miembro activo debía ser el jefe de hogar, 
+obrero industrial, con ingreso entre $4.500 y 
+$8.500 en moneda nacional
+1943
+Mayo de 1942 a junio 
+de 1943
+Ciudad Autónoma de 
+Buenos Aires y suburbios 
+inmediatos
+Matrimonio con 2 hijos menores, con jefe de hogar 
+obrero industrial no calificado
+1933
+Octubre de 1933
+Ciudad Autónoma de 
+Buenos Aires
+Matrimonio con 3 hijos menores de 14 años, con 
+jefe de hogar obrero e ingreso entre $115 y $135 
+en moneda nacional
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+En 2005 el INDEC comenzó la publicación del Índice de precios al consumidor nacio­
+nal-Primera etapa, que abarcaba las siguientes jurisdicciones: Ciudad Autónoma de 
+Buenos Aires, provincias de Buenos Aires, Córdoba, Santa Fe, Mendoza, Tucumán, San 
+Luis y Catamarca. Este programa contemplaba un plan de incorporación futura para el 
+resto de las provincias, pero fue discontinuado en abril de 2008. Luego, en 2014 co­
+menzó la publicación del denominado Índice de precios nacional urbano (IPCNu), que 
+fue discontinuado en noviembre de 2015. 
+
+6
+INDEC
+A partir de diciembre de 2015, se inició un proceso de revisión y análisis del relevamien­
+to de precios en convenio con las distintas direcciones provinciales de estadística, lo 
+que permitió elaborar el actual IPC (base diciembre 2016) desde enero de 2017. 
+2. Alcance del índice
+2.1 Conceptos generales
+El cambio en el gasto de consumo de los hogares puede dividirse en cambios en la 
+cantidad o calidad de los bienes y servicios y cambios en sus precios.
+Los índices de volumen físico miden el efecto de los cambios en las cantidades o en la 
+calidad (composición física o componentes, características de funcionamiento, dura­
+bilidad, tamaño, envase, garantía, marca, prestigio, etc.) y demás factores de diferen­
+ciación de precios en un momento dado (localización de los negocios, tamaño de las 
+ventas o entregas, formas de venta, etcétera).1
+Los índices de precios tratan de medir el efecto de los factores de precio, que en 
+general son aquellos que “identifican el monto pagado por una unidad de medida de 
+una clase y calidad específica de un bien o servicio específico obtenido de una fuente 
+específica por un grupo de población específico”2. Los índices de precios, por lo tanto, 
+no deberían estar afectados por cambios en la calidad de los bienes y servicios.
+La Organización Internacional del Trabajo (OIT) define el índice de precios al consumi­
+dor (IPC) como aquel que mide “cambios en los precios de bienes y servicios que los 
+hogares compran o adquieren de alguna otra forma y que utilizan directa o indirecta­
+mente para la satisfacción de sus propias necesidades y deseos”.3
+Partiendo de la definición de IPC, su objetivo puede ser medir solo la variación de los 
+precios tal cual la perciben los hogares, o bien medir el costo de vida, es decir, los 
+cambios en los montos de gastos que un consumidor promedio destina para mantener 
+constante su nivel de satisfacción, utilidad o nivel de vida, aceptando entre otras cosas 
+que pueda intercambiar permanentemente su consumo entre bienes y servicios que le 
+brindan la misma satisfacción por unidad de gasto.
+En rigor, las variaciones en el costo de vida no derivan solo de variaciones en el nivel 
+general de los precios sino también de cambios en los hábitos de compra de los con­
+sumidores. Es por ello que el cálculo de índices basados en el costo de vida (ICV) pre­
+senta enormes dificultades prácticas y son muy escasos los intentos por incorporarlo a 
+las estadísticas oficiales. Es habitual que los países encaren la medición del IPC como 
+variación porcentual de los precios de una canasta fija de bienes y servicios. 
+1 Stone (1965).
+2 Hurwitz (1962, p. 815).
+3 OIT et al. (2006, p. 1).
+
+7
+Metodología del Índice de precios al consumidor
+Para analizar en forma pura la evolución de los precios, las ponderaciones de los bienes 
+y servicios deben ser las mismas en los períodos cuyos precios se comparan y, a su 
+vez, las especificaciones de esos bienes y servicios de la canasta deben ser compa­
+rables.4
+Como se verá, la medición de la evolución pura de los precios no es una tarea sencilla 
+porque la aplicación práctica de estos principios enfrenta inevitablemente algunos pro­
+blemas derivados tanto de la falta de constancia de distintos factores de volumen físico 
+como de las dificultades para obtener la información básica para evaluarlos.
+A continuación se utilizará el término IPC solo para referirse al índice en su medición 
+con canasta fija, a fin de diferenciarlo del ICV.
+2.2 Gasto de consumo de los hogares 
+En el marco del Sistema de Cuentas Nacionales5 (SCN), se definen como “bienes o ser­
+vicios de consumo final” los utilizados por los hogares, las instituciones sin fines de lucro 
+que sirven a los hogares (ISFLSH) o las unidades del gobierno, para la satisfacción directa 
+de las necesidades o deseos individuales o colectivos de los miembros de la comunidad.
+Una parte de esos bienes y servicios de consumo son los que satisfacen las necesida­
+des o deseos individuales de cada hogar, que los obtiene mediante: a) adquisición, b) 
+producción propia, c) recepción en forma de pago o d) bien o servicio gratuito aportado 
+por el Estado. En el SCN, el gasto realizado por los hogares en bienes y servicios de 
+consumo individual se denomina “gasto de consumo final de los hogares” e incluye los 
+bienes y servicios (a), (b) y (c). Si se le suman los bienes y servicios (d) se obtiene el 
+“consumo efectivo” de los hogares.
+No son considerados como de consumo los gastos en impuestos; aportes jubilatorios; 
+cuotas de préstamos o deudas; donaciones o transferencias a otros hogares o a institu­
+ciones sin fines de lucro; y las salidas de dinero imputables a la inversión física o finan­
+ciera del hogar (compra de viviendas, pago de cuotas a círculos de compra, amortiza­
+ción de préstamos, compra de acciones, realización de depósitos bancarios, etcétera).
+En principio, el gasto de consumo final de los hogares podría definirse en términos del 
+valor de los bienes y servicios adquiridos, pagados o utilizados por los hogares durante 
+cierto período para la satisfacción de sus necesidades o deseos. En línea con las re­
+comendaciones del SCN y con la práctica de las encuestas de gastos familiares, en la 
+ENGHo 2004/05 se aplicó el criterio de las adquisiciones a precios de contado.
+El gasto de consumo comprende el valor de los bienes y servicios de consumo adqui­
+ridos por los hogares durante un cierto período, independientemente de que se haya 
+o no cancelado el pago, e independientemente de que su utilización se haga en ese 
+mismo período o con posterioridad. Este criterio se aplica incluso a los bienes durables 
+(automóviles, televisores, etc.) considerando que son adquiridos en el momento en que 
+son puestos a disposición del hogar, más allá de su vida útil.
+4 Hill (1997).
+5 Comisión Europea, FMI, OCDE, ONU y BM (2016).
+
+8
+INDEC
+A diferencia de la canasta de consumo de las cuentas nacionales, la canasta del IPC ex­
+cluye el alquiler imputado de las viviendas ocupadas por sus propietarios y el valor impu­
+tado por el uso del servicio de intermediación financiera medido indirectamente (SIFMI).
+Por otro lado, los pagos de intereses (bancarios y no bancarios) que constituyen pagos 
+de renta de la propiedad se excluyen tanto de los gastos de consumo (al calcular las 
+ponderaciones) como de los precios que se utilizan para calcular el IPC.
+Cuadro 2. 	
+Inclusiones/exclusiones de los gastos de consumo utilizados para el cálculo del IPC
+Incluye
+Excluye
+•	Valor de los bienes y servicios recibidos en pago 
+por el trabajo de los miembros del hogar
+•	Valor de los bienes y servicios obtenidos de la 
+producción propia del hogar o retirados del propio 
+negocio para consumo del hogar
+•	Bienes y servicios de no consumo: impuestos, aportes 
+jubilatorios, cuotas de préstamos o deudas, donaciones o 
+transferencias a otros hogares o a instituciones sin fines de 
+lucro, etcétera.
+•	Inversión física o financiera del hogar: compra de viviendas, 
+pago de cuotas a círculos de compra, amortización de 
+préstamos, compra de acciones, realización de depósitos 
+bancarios, etcétera.
+•	Valor imputado al servicio habitacional proporcionado por las 
+viviendas utilizadas por sus propios dueños.
+•	Pagos de intereses bancarios y no bancarios. 
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+2.3 Canasta de bienes y servicios del IPC
+El conjunto de los bienes y servicios de consumo cuyos precios son recopilados para 
+el cálculo del IPC constituye la canasta del índice.
+La elaboración de esta canasta implica una clasificación de los bienes y servicios de 
+consumo, la selección de los que son representativos para el análisis de la evolución 
+de los precios al consumidor y la asignación de ponderaciones a cada uno de ellos.
+La importancia de cada agrupamiento de bienes y servicios se obtiene a partir de en­
+cuestas a los hogares. En el IPC base diciembre 2016 se utilizan los resultados de la 
+ENGHo referida a período octubre de 2004-diciembre de 2005.
+En los IPC anteriores, hasta el IPC-GBA base diciembre 2015=100, la canasta estuvo 
+clasificada en nueve niveles de desagregación principal. 
+Para el actual IPC el INDEC adoptó la Clasificación del Consumo Individual por Fina­
+lidades (CCIF) 1999 de Naciones Unidas, conocida como COICOP por sus siglas en 
+inglés. Este clasificador representa el estándar internacional recomendado tanto por la 
+OIT como por la OCDE, que lo utiliza para la difusión armonizada de las estadísticas de 
+precios al consumidor de sus países miembros.
+
+9
+Metodología del Índice de precios al consumidor
+La COICOP6 cuenta con un primer nivel de desagregación conformado por un total de 
+12 divisiones que se presentan a continuación.
+Cuadro 3. 	
+Primer nivel de clasificación de la canasta del IPC 
+01-
+Alimentos y bebidas no alcohólicas
+02-
+Bebidas alcohólicas y tabaco
+03-
+Prendas de vestir y calzado
+04-
+Vivienda, agua, electricidad, gas y otros combustibles
+05-
+Equipamiento y mantenimiento del hogar
+06-
+Salud
+07-
+Transporte
+08-
+Comunicación
+09-
+Recreación y cultura
+10-
+Educación
+11-
+Restaurantes y hoteles
+12-
+Bienes y servicios varios
+Nota: los nombres de esta versión COICOP responden a la versión del COICOP Argentina con leves diferencias en su nominación, 
+pero conceptualmente equivalentes. Para mayor detalle ver el Anexo I.
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+Las aperturas de los niveles inferiores se ajustan a la adaptación argentina según las distin­
+tas agrupaciones de bienes y servicios que permiten una mayor precisión para el análisis 
+de precios. Por consiguiente, comprende divisiones, grupos, clases, subclases, productos 
+y variedades para cada región.7 A modo de ejemplo, el cuadro 4 presenta las aperturas de 
+la canasta que corresponden al sistema de clasificación IPC para cada región.
+Cuadro 4. 	
+Aperturas de la canasta en cada región
+Código
+Apertura
+Ejemplo
+00
+Nivel general
+IPC nivel general
+01
+División
+Alimentos y bebidas no alcohólicas
+01.1
+Grupo
+Alimentos
+01.1.1
+Clase
+Pan y cereales
+01.1.1.1
+Subclase
+Productos de panadería y pastelería
+01.1.1.1.01
+Producto
+Facturas y churros
+01.1.1.1.01.01
+Variedad
+Facturas
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+6 COICOP (1999).
+7 En el nomenclador COICOP Argentina (2019) se presentan las aperturas hasta producto. A fines prácticos del IPC fue necesario 
+agregar una apertura más, denominada “variedades”, que agrupa los bienes y servicios relevados en grupos más precisos. Puede 
+consultarse en: https://www.indec.gob.ar/ftp/cuadros/menusuperior/clasificadores/coicop_argentina_2019.pdf. 
+
+10
+INDEC
+Diagrama 1. 	
+Principales aperturas de IPC del clasificador COICOP Argentina
+1. Alimentos y bebidas no alcohólicas
+Alimentos
+Pan y cereales
+Carnes y derivados
+Leche, productos lácteos y huevos
+Aceites, grasas y manteca
+Frutas
+Verduras, tubérculos y legumbres
+Azúcar, dulces, chocolate, golosinas, etc.
+Bebidas no alcohólicas
+Café, té, yerba y cacao
+Aguas minerales, bebidas gaseosas y jugos
+2. Bebidas alcohólicas y tabaco
+Bebidas alcohólicas
+Tabaco
+3. Prendas de vestir y calzado
+Prendas de vestir y materiales
+Calzado
+4. Vivienda, agua, electricidad, gas y 
+ 
+otros combustibles
+Alquiler de la vivienda y gastos conexos
+Alquiler de la vivienda
+Electricidad, gas y otros combustibles
+5. Equipamiento y mantenimiento 
+ 
+del hogar
+Bienes y servicios para la conservación 
+del hogar
+8. Comunicación
+Servicios de telefonía e internet
+9. Recreación y cultura
+Servicios recreativos y culturales
+Periódicos, diarios, revistas, libros y artículos 
+de papelería
+10. Educación
+11. Restaurantes y hoteles
+Restaurantes y comidas fuera del hogar
+12. Bienes y servicios varios
+Cuidado personal
+6. Salud
+Productos medicinales, artefactos 
+y equipos para la salud
+Gastos en prepaga
+7. Transporte
+Adquisición de vehículos
+Funcionamiento de equipos de transporte 
+personal
+Combustibles y lubricantes para vehículos
+de uso del hogar
+Transporte público
+
+11
+Metodología del Índice de precios al consumidor
+2.4 Definición de variedad
+Dentro de la estructura de la canasta del IPC, la variedad es el agrupamiento más 
+pequeño que tiene asignada una ponderación. Para la identificación de los bienes o 
+servicios pertenecientes a cada una de estas variedades se elabora una descripción 
+mediante un conjunto de características fijas, denominadas “especificación”, y otro de 
+características variables, representadas por los “atributos”. Es decir que en el interior 
+de cada variedad coexisten distintos bienes o servicios que en adelante se denomi­
+narán genéricamente “artículos”, con la misma especificación y diferentes atributos, 
+cuyos precios son observados en distintos puntos de venta.
+El detalle con el que se define la especificación de una variedad para la cual se deben 
+recolectar precios depende de las posibilidades de encontrar oferentes de ese bien o 
+servicio, así como del grado de homogeneidad de sus características físicas o funcio­
+nales y también de la volatilidad de sus precios. 
+Las especificaciones se pueden clasificar en: 
+•	 Cerradas, cuando los bienes o servicios que pertenecen a esa variedad tienen 
+características equivalentes.
+•	 Abiertas, cuando los bienes o servicios que la integran tienen algunas diferencias 
+y requieren una descripción genérica para aumentar la probabilidad de hallar esa 
+clase de bien o servicio en un punto de venta. 
+Por su parte, los atributos tienen el fin de identificar el artículo para el que se toman 
+precios. El encuestador completa, en cada local, todos los atributos al inicio del releva­
+miento de precio. Esto permite realizar el seguimiento del mismo artículo. 
+Los atributos pueden clasificarse en lógicos, numéricos y de texto. Ejemplos de atribu­
+tos son la marca, el peso, el color, el código de barra, etcétera. 
+A continuación, se presentan dos ejemplos de variedades con especificaciones cerra­
+das y abiertas:8
+8 Estos ejemplos son meramente ilustrativos. El bien o servicio de la canasta IPC puede variar significativamente respecto a lo 
+ejemplificado.
+
+12
+INDEC
+Diagrama 2. 	
+Ejemplo de variedades con especificaciones cerradas y abiertas
+Especiﬁcación cerrada 
+Ejemplo
+Variedad
+Atributos
+Especiﬁcacion
+Puré de tomate 
+en conserva
+Envase tetra brik de 
+500 a 550 g
+ 
+  
+Marca
+Valores del atributo
+Valores 
+del atributo
+Gramaje
+Especiﬁcación abierta
+Ejemplo
+Variedad
+Atributos
+Especiﬁcacion
+Cartera de tela
+ 
+  
+Nº de artículo
+Marca
+Modelo
+Cierre a cremalera
+Divisiones
+Cantidad de bolsillos
+Manija
+Con solapa
+Con herrajes
+Material
+Forrado
+Origen
+Descripcion
+Para mujer
+De vestir 
+Excluir tipo “bolso” y de 
+tamaño inferior a 15 cm.
+
+13
+Metodología del Índice de precios al consumidor
+2.5 Población de referencia
+La población de referencia es el grupo de hogares cuyos gastos de consumo se toman 
+en cuenta para calcular las ponderaciones del IPC.
+En el IPC base diciembre 2016, la población de referencia corresponde a los hogares 
+particulares de las áreas urbanas del país.
+Se calculan índices para el total del país y para seis regiones estadísticas: Cuyo, Gran 
+Buenos Aires, Noreste, Noroeste, Pampeana y Patagonia.
+2.6 Cobertura geográfica del relevamiento de precios
+La cobertura nacional del índice implica realizar el relevamiento de precios en todo el 
+país. Para la selección de los aglomerados y localidades de relevamiento de precios se 
+consideró la representatividad provincial y regional. En primer lugar, se ordenaron los 
+aglomerados por población de mayor a menor por provincia según el Censo Nacional 
+de Población 2010. Luego, en cada provincia se incluyeron los aglomerados necesarios 
+hasta que la proporción de población de la muestra fuera igual a la proporción original 
+de esa provincia en el total de su región.
+Por consiguiente, se determinó una cobertura geográfica del relevamiento que abarca la 
+observación de los precios en 39 aglomerados urbanos/localidades simples, incluyen­
+do todas las ciudades capitales provinciales y otras localidades de mayor población. 
+Cuadro 5. 	
+Aglomerados incluidos en el relevamiento de precios por región
+Región
+Aglomerados/Localidades 
+Cuyo
+Gran Mendoza, San Juan, San Luis y San Rafael
+Gran Buenos Aires
+Ciudad Autónoma de Buenos Aires y 24 partidos del Gran Buenos Aires
+Noreste
+Corrientes, Formosa, Posadas, Presidencia Roque Sáenz Peña y Resistencia
+Noroeste
+San Fernando del Valle de Catamarca, La Rioja, San Ramón de la Nueva Orán, Salta, San Miguel de 
+Tucumán, San Salvador de Jujuy y Santiago del Estero
+Pampeana
+Bahía Blanca, Concordia, Córdoba, Gran La Plata, Mar del Plata, Paraná, Rafaela, Río Cuarto, Gran 
+Rosario, Gran Santa Fe, Santa Rosa, Tandil, Villa María y Zárate
+Patagonia
+San Carlos de Bariloche, Comodoro Rivadavia, Neuquén, Puerto Madryn, Río Gallegos, Río Grande, 
+Trelew, Ushuaia y Viedma 
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+
+14
+INDEC
+3. Muestras y estructura de relevamiento 
+3.1 Selección de puntos de venta
+En el caso de la selección de puntos de venta y de bienes y servicios, dada la falta de 
+información para obtener muestras probabilísticas (el país no dispone de un registro 
+actualizado de todas las unidades económicas) se partió del conjunto de informantes 
+disponible a diciembre de 2015 para adecuar la muestra en concordancia con la distri­
+bución de los gastos según tipo de negocio (tradicionales y supermercados) estimados 
+a partir de la ENGHo 2004/05, y para ampliar y mejorar la representatividad de los dis­
+tintos puntos de venta. Como resultado de los ajustes y adecuaciones, en julio de 2017, 
+la cantidad de informantes alcanzaba los 500 supermercados y superaba los 16.200 
+negocios tradicionales. 
+3.2 Selección de bienes y servicios
+Partiendo de la ENGHo 2004/05, el procedimiento utilizado para la definición de la 
+canasta de cada región y sus correspondientes ponderaciones procuró maximizar la 
+utilización de variedades ya relevadas a diciembre de 2015.
+Si bien se contaba con una definición e identificación de variedades sobre las que se 
+recolectaban precios en diciembre de 2015, era necesaria una revisión variedad por 
+variedad para a) corregir deficiencias en el control de la calidad de la información que 
+los encuestadores recopilaban; b) actualizar las especificaciones de acuerdo con las 
+presentaciones comerciales vigentes. 
+3.3 Selección y relevamiento de precios
+En cada aglomerado, las observaciones de precios se realizan en una muestra de in­
+formantes distribuida a lo largo del mes, en 20 días hábiles denominados paneles. Es 
+decir, cada panel tiene asignado un día del mes, un conjunto fijo de informantes y los 
+encuestadores que realizaran el relevamiento. 
+Los precios son relevados en puntos de venta clasificados en negocios tradicionales 
+(por ejemplo, panaderías, carnicerías), supermercados, e instituciones y empresas (por 
+ejemplo, colegios, distribuidoras de gas de red, etc.). También se relevan precios en 
+forma centralizada mediante llamadas telefónicas, correo electrónico, página web y 
+publicaciones.
+En el caso de los negocios tradicionales la frecuencia de visita es una vez al mes a 
+cada punto de venta, y en el caso de los supermercados se realizan 2 visitas mensuales 
+con aproximadamente 10 paneles de separación. La cantidad de precios observados 
+mensualmente supera los 320.000. Para el caso de tarifas e información provista por 
+empresas, los precios se relevan durante todo el mes.
+
+15
+Metodología del Índice de precios al consumidor
+Los artículos cuyos precios son relevados deben cumplir las siguientes condiciones: (i) 
+ser observables y comparables en el tiempo, (ii) ser representativos del consumo en esa 
+variedad, (iii) estar disponibles para su entrega al momento de la entrevista.
+La selección de los artículos se realiza en la etapa inicial de implementación del IPC, 
+una vez seleccionadas las variedades y definidas sus especificaciones. Cada encuesta­
+dor busca en cada punto de venta el artículo que cumpla con las especificaciones y las 
+condiciones mencionadas en el párrafo anterior y que sea el más vendido. Para esto úl­
+timo puede consultar al informante o evaluar la presencia del producto en góndola. Los 
+meses siguientes, el encuestador deberá buscar el mismo bien o servicio observando 
+los atributos que detalló la primera vez y que permiten identificarlo unívocamente (ver 
+más adelante precios faltantes y cambios de calidad).
+El relevamiento de precios se realiza en formato papel por medio de cuestionarios ade­
+cuados a cada tipo negocio de venta. Cada Dirección Provincial de Estadística es res­
+ponsable del ingreso del relevamiento al sistema informático. Una vez ingresado, se 
+realiza el control de calidad de los precios utilizando distintas herramientas que permi­
+ten corregir cualquier error que surja del relevamiento o ingreso:
+•	 evolución histórica del precio para el informante particular
+•	 diferencias respecto al promedio de precios del aglomerado, de la región o del 
+total país
+•	 valores máximos y mínimos por región
+•	 comparación con precios de la misma cadena en caso de los supermercados e 
+hipermercados
+•	 comparación con precios de la misma marca 
+El análisis de precios a nivel aglomerado se realiza en forma conjunta entre cada direc­
+ción provincial de estadística y el INDEC, mientras que el análisis regional y nacional lo 
+realiza solo INDEC. 
+Es importante destacar que, a priori, no se excluye ningún precio relevado. Cuando 
+surgen diferencias entre lo relevado y lo observado mediante los análisis señalados, 
+primero se descartan errores de ingreso contrastando el sistema con el formulario de 
+relevamiento. Si el error no es de ingreso, un supervisor o el mismo encuestador realiza 
+la nueva observación en el campo. En general, esta nueva observación se realiza días 
+después del relevamiento original, por lo que puede haber variación en el precio. Si el 
+artículo cuyo precio fue relevado se encuentra en el mismo momento que el artículo 
+que debería haber sido relevado (por ejemplo, porque el encuestador confundió algún 
+atributo), el supervisor realiza la corrección. En el caso de que no coexistan ambos 
+artículos al momento de supervisión, se mantiene el relevamiento del encuestador. Si el 
+error de relevamiento es evidente y confirmado por el encuestador, el precio se omite 
+ese mes y se imputa como los precios faltantes (ver apartado 7.1). 
+
+16
+INDEC
+4. Cálculo del IPC
+Es importante distinguir tres períodos de referencia en el cálculo del IPC: 1) el de los 
+ponderadores, 3) el de los precios, 3) el del índice. 
+El período de referencia de los ponderadores se relaciona con la encuesta de gastos 
+utilizada para su cálculo. En el caso del IPC base diciembre 2016=100, este período es 
+octubre 2004 a diciembre 2005. Una nueva encuesta de gasto da lugar a una posible 
+actualización de la estructura de los ponderadores y la canasta de bienes y servicios. 
+El período base de los precios es diciembre de 2015 y por ello la estructura de ponde­
+radores fue actualizada por la evolución de sus precios desde 2004/05 hasta diciembre 
+de 2015.
+El período de referencia del índice, indica el momento en que el índice es reescalado a 
+100. En este caso, el período de referencia del índice es diciembre 2016.
+4.1 Concepto general
+Un índice de precios mide los cambios porcentuales de un conjunto de precios referi­
+dos a un período a fin de observar su variación a lo largo del tiempo. 
+El índice de precios de Laspeyres es un índice de precios de canasta fija de bienes y 
+servicios definidos en un período anterior (período 0) llamado “base” al que se desea 
+analizar (período t). Se calcula como: 
+	
+(1)
+Donde:
+= precio del bien o servicio i, en el período t,
+= precio del bien o servicio i, en el período 0,
+= cantidad del bien o servicio i, en el período 0,
+n= total de bienes o servicios incluidos en el índice.
+Esta fórmula es usualmente modificada para facilitar su implementación:
+	 	
+	
+ (2)
+
+17
+Metodología del Índice de precios al consumidor
+Donde la ponderación del bien o servicio i incluido en canasta del IPC, 
+ , es:
+ 	
+(3)
+Se recomienda que estas ponderaciones sean actualizadas con cierta frecuencia (en 
+promedio cada cinco años) teniendo en cuenta encuestas de gastos de los hogares o 
+estimaciones de las cuentas nacionales sobre composición del consumo final de los 
+hogares.
+El IPC es entonces un promedio ponderado de las variaciones de precios de los bienes 
+y servicios incluidos en la canasta del índice. Para ello, los ponderadores deben reflejar 
+la importancia relativa del bien y servicio según su participación en el gasto estimado 
+de la población de referencia (fórmula 2).
+Finalmente, la variación del índice mide el cambio porcentual de su valor entre dos 
+períodos y se calcula de la siguiente forma:
+	
+(4)
+	
+	
+	
+4.2 Estructura de ponderadores y su actualización por precios 
+Tal como se dijo en el apartado anterior, los ponderadores dan cuenta de la importancia 
+relativa de los bienes y servicios en el promedio de gasto de los hogares, por consi­
+guiente, se construyen a partir de una encuesta de gastos.  
+En particular, los ponderadores del IPC base diciembre 2016=100 se estimaron par­
+tiendo de los gastos de los hogares urbanos de la ENGHo 2004/05 por región y de las 
+variedades que se relevaban en diciembre de 2015. Primero, se procedió a estimar el 
+gasto promedio de los hogares por variedad relevada y se construyó así la estructura 
+de ponderadores con gasto en 2004/05 (período de referencia de los ponderadores 
+originales) y selección de bienes y servicios que se consumían a diciembre de 2015.
+Es importante aclarar que la utilización de la fórmula de Laspeyres para el cálculo del IPC 
+implica que el período de referencia de los ponderadores sea el mismo que el período 
+de referencia o base de los precios. Debido a que insume mucho tiempo recolectar las 
+encuestas de gastos de los hogares (que normalmente están en campo durante un año) 
+suele haber un retraso antes de que sus resultados puedan ser utilizados para los IPC.
+La actualización de los ponderadores hasta el período de referencia de la base de los 
+precios requeriría conocer los cambios en las cantidades y precios de todos los bienes 
+y servicios consumidos. Como es extremadamente difícil estimar en forma detallada la 
+evolución de las cantidades consumidas, se recomienda realizar (al menos) un ajuste 
+por la evolución de los precios.
+
+18
+INDEC
+Es por ello que las ponderaciones de los IPC tienen un carácter “híbrido”: cantidades 
+del período de referencia de las encuestas de gasto de los hogares y precios medios 
+del período base del índice.
+Para realizar la actualización de los ponderadores, se realizó un apareo de las varieda­
+des del IPC-GBA base 1999, publicado hasta diciembre de 2006, con respecto a las 
+variedades del IPC-GBA que se relevaban en diciembre de 2015, y se analizaron de ma­
+nera detallada las especificaciones de cada variedad de la canasta que correspondía a 
+cada índice. De este modo, solo se consideraron los relativos de precio correspondien­
+tes a variedades cuyas especificaciones se consideraban similares. Estos relativos se 
+usaron para todas las regiones.
+En el caso particular de las tarifas de agua, gas y electricidad, se realizó el mismo tra­
+bajo de apareo a nivel regional calculando el ajuste correspondiente entre los tarifarios 
+provinciales vigentes al 2005 y los vigentes a diciembre de 2015. 
+Finalmente, una vez actualizado el conjunto de ponderadores de la canasta del nuevo 
+índice hasta diciembre 2015, se realizaron ajustes basados en información de factura­
+ción y consumo. Un ejemplo de este ajuste es el que corresponde al servicio telefónico. 
+Según la ENGHo 2004/05, los hogares destinaban mayor proporción de gasto a la 
+telefonía fija que a la telefonía móvil. En el mismo sentido, se ajustó el gasto asociado 
+al servicio de internet domiciliario. Para corregir distorsiones que podrían reflejar una 
+estructura de gastos más antigua, se reponderó la participación de los servicios de 
+telefonía fija, móvil e internet domiciliaria manteniendo la participación total del gasto 
+de estos tres servicios estimada a partir de la ENGHo 2004/05 actualizada, pero redis­
+tribuyendo el ponderador individual de cada uno según su facturación:
+	
+	
+, 	
+(5)
+Donde:
+i= 1: servicios de telefonía fija, 2: servicios de telefonía móvil y 3: servicios de internet 
+domiciliaria,
+= ponderador actualizado hasta diciembre de 2015 estimado a partir de la ENGHo 
+2004/05 del servicio i,
+ = facturación del servicio i a diciembre de 2015.
+Dado que las empresas prestadoras de estos servicios son pocas y ofrecen todos los 
+servicios, se utilizaron datos correspondientes a la facturación de empresas asociadas 
+a cada servicio para reasignar la ponderación del gasto agregado de servicio telefónico 
+a cada uno de los servicios puntuales.
+
+19
+Metodología del Índice de precios al consumidor
+5. Etapas del cálculo del IPC
+El cálculo del IPC se realiza en tres etapas. Una primera etapa consiste en el cálculo 
+para cada región de los índices de nivel inferior que denominamos “índices elemen­
+tales”. La segunda etapa es el cálculo de los niveles superiores de cada región, que 
+resulta de la agregación mediante la suma ponderada de los índices elementales a 
+fin de obtener distintas categorías de publicación, por ejemplo: división, grupo, clase, 
+bienes y servicios regulados. La tercera etapa consiste en la construcción del IPC con 
+cobertura nacional mediante la suma ponderada de los índices regionales.
+En el siguiente esquema se pueden ver representadas las distintas etapas del cálculo 
+que se desarrollaran a continuación:
+
+20
+INDEC
+ Diagrama 3. 	
+Etapas del cálculo
+Etapas
+Insumo
+Método
+Índice
+Publicaciones
+Procedimiento
+Índice del nivel 
+elemental de cada región
+Relevamiento de precios 
+de distintos artículos:
+bienes y servicios con
+sus especiﬁcaciones
+y atributos
+Índice nivel
+superior regional
+Ponderadores de 
+variedades de 
+cada región 
++
+índices elementales
+Relevamiento 
+de tarifas, aranceles 
+escolares, etc.
+Cálculo
+del precio 
+promedio 
+de la 
+variedad
+Cálculo de 
+precios 
+especiales
+Promedio
+geométrico
+ponderado 
+por tipo
+de negocio
+Promedio
+aritmético
+ponderado 
+Índice del nivel elemental
+de cada región
+Índice tipo Laspeyres
+Suma ponderada 
+Índice nivel 
+superior regional
+Índice del nivel 
+nacional
+Índice del nivel 
+nacional
+Ponderadores de la 
+región en el país 
++
+índices regionales
+Cálculo de
+cada agregación
+para cada región
+Cálculo de cada 
+agregación a 
+nivel país
+Informe técnico
+ Selección de precios 
+promedio regional
+Informe técnico
+ Variaciones del IPC 
+regional
+Informe técnico
+  Variaciones del IPC 
+nacional
+Canasta básica alimentaria 
+y total región GBA
+
+21
+Metodología del Índice de precios al consumidor
+5.1 Cálculo de índices elementales
+En la primera etapa del cálculo del IPC, los índices del nivel inferior son calculados para 
+cada región a partir de los precios promedios de cada una de las variedades.
+Antes de su uso para el IPC, cada observación de precios es sometida a un proceso 
+de normalización, es decir, se unifica su unidad de cálculo ya que, por ejemplo, los 
+precios de artículos pertenecientes a una misma variedad pueden estar expresados en 
+algunos negocios por kilo y en otros, por gramo o por docena, etcétera.
+Se entiende por precio promedio de una variedad el promedio geométrico simple de 
+precios –relevados o imputados– de los artículos pertenecientes a esa variedad inclui­
+dos en la muestra en un mes determinado en una región. 
+Para el caso de los supermercados, en los que se realizan dos visitas en el mes, primero 
+se calcula la media aritmética de los precios positivos observados durante el mes.
+	
+	
+	
+(6)
+Siendo:
+i = artículo
+j = informante
+Luego en cada región se hacen dos cálculos: uno para supermercados y otro para el 
+resto de los informantes, sin ponderaciones mediante la fórmula:
+	
+	
+	
+(7)
+Donde: 
+v = variedad de bien o servicio 
+g = tipo de negocio (supermercados o negocios tradicionales) 
+ng = cantidad de negocios informantes en el tipo de negocio g
+Por último, cuando los precios de los artículos se observan tanto en supermercados, 
+s, como en negocios tradicionales, c, el precio medio de la variedad se calcula a partir 
+de los precios medios geométricos 
+ y 
+ previamente calculados, ponderados 
+por la proporción fija obtenida a través de la ENGHo 2004/05 a partir de los hábitos de 
+compra en cada tipo de negocio:
+	
+	
+	
+(8)
+Donde:
+= proporción de supermercados, s en cada región,
+= proporción de negocios tradicionales, c en cada región.
+
+22
+INDEC
+Llamamos relativo de precios 
+entre el período t y t-1 al cociente de precios 
+promedio de la variedad, v, en la región, r:
+	
+	
+	
+(9)
+Los índices elementales son el menor nivel de desagregación del IPC y se construyen 
+para cada región a partir de la productoria de relativos de precios promedios entre dis­
+tintos períodos. Por consiguiente, el índice elemental de precios para una variedad v, en 
+la región r, en el mes t, respecto a la base 0 se calcula mediante la fórmula:  
+		
+	
+(10)
+5.2 Cálculo de índices de niveles superiores
+Se denominan “índices de nivel superior” a las distintas agregaciones de índices ele­
+mentales (por ejemplo, divisiones, grupos, clases).9 Para cada agregación, el cálculo 
+del índice se realiza mediante la suma ponderada de los índices elementales que la 
+componen (fórmula tipo Laspeyres). 
+Por consiguiente, el índice de la agregación A, en la región r, en el mes t es:
+	
+(11)
+Donde:
+= índice elemental de la variedad v, de la región r, en el mes t respecto a la base,
+= ponderador de la variedad v, de la región r, en el mes base definido por: 
+	
+	
+	
+(12)
+donde 
+	
+ 
+= gasto de consumo final de los hogares en la variedad v, de la región r estimado a 
+	
+partir de la encuesta de gastos ENGHo 2004/05 actualizada hasta el mes base, 
+= gasto de consumo final de los hogares en la variedad i, incluida en la agregación 
+	
+A, de la región r estimado a partir de la encuesta de gastos ENGHo 2004/05 
+	
+actualizada hasta el mes base. 
+El mayor nivel de agregación para cada región r es el índice del nivel general 
+ que 
+resulta de aplicar la fórmula de Laspeyre para las n variedades que se relevan en la 
+región. Por consiguiente, para cada región, en cada mes, se calcula el nivel general del 
+índice de la siguiente forma:
+9 Además de los niveles superiores del índice, existen otras agrupaciones de índices elementales que tienen algún interés particular, 
+por ejemplo, bienes y servicios o las categorías regulados, núcleo y estacionales. Para estas agrupaciones, se aplica la misma 
+fórmula que los índices de nivel superior.
+
+23
+Metodología del Índice de precios al consumidor
+	
+	
+		
+(13)
+Donde:
+= índice elemental de la variedad v, de la región r, en el mes t respecto a la base.
+5.3 Cálculo del índice a nivel nacional
+Finalmente, el nivel general del IPC con cobertura nacional se calcula a partir de la 
+suma ponderada de los índices regionales siendo los ponderadores las proporciones 
+del gasto total de las distintas regiones con respecto al gasto total del país, estimados 
+a partir de la ENGHo 2004/05 (ver cuadro 6) de la siguiente forma: 
+	
+	
+	
+(14)
+Donde:
+= ponderador de la región r en el total país según el cuadro 6,
+= índice de nivel general de la región r.
+Cuadro 6. 	
+Participación porcentual de cada región en el gasto de consumo de los hogares, con respecto al 
+total nacional
+Región geográfica
+Ponderación
+Total nacional
+1,000
+GBA
+0,447
+Pampeana
+0,342
+Noreste
+0,045
+Noroeste
+0,069
+Cuyo
+0,052
+Patagonia
+0,046
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+En particular, los distintos niveles de agregación del índice nacional 
+ se obtienen 
+mediante la fórmula:
+		
+	
+	
+(15)
+Donde:
+= ponderador de la región r en el total país según el cuadro 6,
+= índice de la agregación A, en la región r. 
+
+24
+INDEC
+6. Incidencia y efecto arrastre
+En un mes determinado t, la incidencia de una agrupación A sobre el nivel general de 
+índice es igual a los puntos porcentuales en que habría aumentado el nivel general del 
+índice si todos los otros índices hubiesen permanecido constantes. Este concepto, que 
+se publica mensualmente, se calcula como:
+	
+(16)
+Donde:
+= índice de la agrupación A en el mes t,
+= índice de la agrupación A en el mes t-1,
+= índice del nivel general en el mes t-1,
+ ponderador de la agrupación A.
+Se verifica que la suma algebraica de todas las incidencias equivale a la variación men­
+sual del nivel general del IPC. 
+En cuanto al efecto arrastre, este guarda relación con el hecho de que para cada va­
+riedad se recopilan precios durante todos los días hábiles del mes. Dado que el índice 
+se calcula comparando precios medios de meses consecutivos, si los precios suben 
+en los últimos días del mes el efecto se notará más en el mes siguiente que en el de las 
+mediciones. La variación del índice en un mes determinado con respecto al mes ante­
+rior, causada por diferencias en los días de vigencia de los precios, se denomina efecto 
+arrastre del índice. Así, por ejemplo, en el primer mes el precio “alto” pudo tener pocos 
+días de vigencia mientras que en el segundo mes estará vigente desde el principio, por 
+lo cual el aumento incidirá mayormente en este último.
+7. Aspectos especiales en el tratamiento de precios 
+7.1 Precios faltantes 
+En distintos momentos del mes puede ocurrir que un precio no esté disponible por falta 
+de stock temporal del bien o inexistencia temporal del servicio o por ausencia no per­
+manente del informante. En estos casos, no se releva el artículo en ese mes. Finalizado 
+el mes, antes de calcular el precio promedio de la variedad se completan los precios no 
+relevados por medio del método de imputación. 
+Cuando algunos informantes no tienen precios dentro de una variedad, los precios son 
+imputados por la variación de otros precios de la misma variedad que fueron relevados. 
+Si la cantidad de precios relevados es insuficiente, la imputación se realiza por el nivel 
+inmediato superior (por ejemplo, producto).
+
+25
+Metodología del Índice de precios al consumidor
+Las imputaciones de los precios no observados en un mes determinado se realizan 
+mediante extrapolación del último precio observado, utilizando para ello uno de los 
+siguientes procedimientos:
+i.	 Si la cantidad de precios válidos es superior a un 50% de la exigida para esa 
+variedad, los precios faltantes se calculan a partir de su valor en el mes anterior, 
+aplicándoles la variación promedio observada en los negocios que informaron 
+precios para esa variedad.
+ii.	 Si la cantidad de precios válidos se encuentra entre un 20% y 50% de la exigida 
+para esa variedad, los precios faltantes se calculan a partir de su valor en el mes 
+anterior, aplicándoles la variación promedio observada en los precios de las de­
+más variedades agrupamiento inmediato superior.
+iii.	 Si la cantidad de precios válidos es inferior a un 20% de la exigida para esa va­
+riedad, estos precios son descartados, aplicándoles a todos los precios del mes 
+anterior la variación promedio observada en los precios de las demás variedades 
+agrupamiento inmediato superior.
+Para el caso particular de faltantes temporales de precios de bienes y servicios esta­
+cionales, por ejemplo, frutas, verduras e indumentaria, el tratamiento de estos precios 
+es el mismo que el de cualquier otro y se resuelve a través del método de imputación. 
+Este método recibe el nombre de enfoque de ponderaciones fijas10 y es uno de los mé­
+todos internacionalmente aceptados. 
+7.2 Métodos de ajustes de calidad
+Existen distintos métodos para realizar los ajustes de calidad. Los métodos utilizados 
+para cada artículo11 dependerán de la disponibilidad de un reemplazo, de la existencia o 
+no de un cambio en calidad, y de la posibilidad de cuantificar esta diferencia de calidad.
+Cuando existe un reemplazo en el mercado con la misma calidad que el artículo que 
+se estaba relevando, se realiza el remplazo directo modificando los atributos relevados 
+sin ajustes de calidad. 
+Cuando existe un reemplazo, pero este implica un cambio en la calidad, es decir, no 
+hay otros artículos con la misma especificación, puede darse que el bien o servicio siga 
+existiendo con otra calidad o que desaparezca por completo. Si el bien o servicio no 
+desapareció, los encuestadores, junto con los analistas observan las características de 
+el/los posible/s reemplazo/s intentando identificar las diferencias de calidad y su relación 
+con el precio. La diferencia en calidad puede ser cuantificable y se procede a realizar un 
+ajuste explícito (métodos de ajuste por cantidad y de reemplazo comparable) según la 
+información disponible y el análisis realizado o pueden ser no cuantificables procedien­
+do a realizar ajustes de calidad implícitos (imputación global o encadenamiento). 
+10 UN, UNECE, WLO, IMF, OECD, Eurostat, WB y ONS-UK (2009).
+11 Puede ocurrir que desaparezca por completo la variedad en vez del artículo, en ese caso, se aplica el mismo procedimiento 
+que para un artículo. Se deberá leer el procedimiento intercambiando la palabra “artículo” por “variedad”.
+
+26
+INDEC
+A continuación, se describe cada método:
+1) Métodos explícitos de ajuste de calidad
+a. Ajuste de cantidad: el artículo tiene en general la misma especificación 
+salvo algún elemento medible por ejemplo, peso, tamaño, cantidad de 
+unidades, etc. En este caso, los analistas seleccionan el artículo que 
+reemplaza al no disponible y se procede a un ajuste por normalización. 
+b. Reemplazo comparable: se considera que el artículo de reemplazo tiene 
+calidad semejante al artículo no disponible. El reemplazo se realiza en 
+forma directa bajo el supuesto de que la diferencia en precios no se 
+debe a cambios en calidad, aun siendo artículos distintos.
+2) Ajustes de calidad implícitos
+a. Imputación por agrupación de artículos semejantes: método indirecto de 
+ajuste de calidad. El artículo que se deja de relevar es imputado por otra 
+agrupación de artículos relevados (ver punto 7.1). Este método supone 
+que la variación del artículo faltante tendría la misma evolución que los 
+artículos relevados.
+b. El método de superposición de precios: es un tipo de ajuste de calidad 
+implícito en el que, durante por lo menos dos meses, se relevan simul­
+táneamente el artículo que se venía siguiendo y el que pueda reempla­
+zarlo. Llegado el momento adecuado, la variación del bien o servicio 
+que estaba desapareciendo se imputa por la variación del nuevo. Este 
+método implícito asume que la variación de los precios de ambos bienes 
+o servicios es similar.  
+Si el bien o servicio desapareció por completo del mercado, se debe evaluar la con­
+tinuación de la variedad hasta la siguiente encuesta de gasto para la redefinición de 
+la canasta. En este caso, dependiendo de relación de la variedad a reemplazar con el 
+resto de las relevadas se procede a distribuir su ponderación a la agrupación superior o 
+se mantiene la variedad, pero se imputa por la agrupación que la incluye.
+
+27
+Metodología del Índice de precios al consumidor
+Diagrama 4. 	
+Métodos de ajuste por calidad
+No
+No
+No
+No
+Permanente
+Sí
+Sí
+Sí
+Sí
+Temporal
+Evaluar la 
+continuación
+de la variedad
+Hacer el 
+reemplazo de 
+atributos
+Utilizar
+ajuste explícito
+Utilizar método 
+implícito
+¿Puede
+cuantiﬁcarse
+explícitamente
+la diferencia de
+calidad?
+¿El artículo se 
+encontraba
+disponible?
+¿Hay algún 
+reemplazo?
+¿Es un 
+faltante 
+temporal o 
+permantente?
+Seguir 
+relevando
+¿Cambió 
+la calidad?
+Inicio
+Esperar a 
+que vuelva
+Ajuste de
+cantidad
+Reemplazo
+comparable
+Imputación por
+agrupación de
+artículos 
+semejantes
+El grupo 
+superior absorve
+la proporción
+del gasto
+Se imputa por
+el grupo superior
+Superposición
+de precios
+
+28
+INDEC
+8.	Tratamiento de servicios tarifados y precios
+	
+compuestos
+Existe un grupo de precios (precios tarifados y precios compuestos) que se obtiene 
+consultando cuadros tarifarios o información provista por entes reguladores y otras 
+instituciones, o bien mediante consultas telefónicas, o vía internet. Estos precios se 
+denominan precios relevados centralmente.
+Las tarifas de servicios públicos se estiman a partir de información actualizada provista 
+por entes reguladores y empresas. Esta estimación incluye los ajustes necesarios para 
+reflejar tarifas diferenciales cuando las estructuras de consumo puedas ser relevadas. 
+En general, por razones prácticas los descuentos disponibles solo para determinados 
+grupos de hogares no se contemplan en los IPC, porque no están disponibles para toda 
+la población (discriminatorios) y suelen no conocerse los gastos en el período base. Sin 
+embargo, cuando los descuentos son significativos y están disponibles para subgru­
+pos identificables de la población de referencia, que califican para percibir estas tarifas 
+diferenciadas con base en características demográficas u otras características que no 
+impliquen alguna acción por parte del beneficiario, deberían incluirse en el IPC. Esto 
+justifica, por ejemplo, que se contemplen las tarifas sociales para gas y electricidad y, 
+para el caso de transporte en la región GBA, el boleto multimodal. Además, para el caso 
+de los servicios de gas y electricidad se disponía de datos de usuarios que calificaban 
+inequívocamente para la tarifa social,12 para el transporte público de GBA el Ministerio 
+de Transporte, brindó acceso –a través de SUBE– a los datos de la totalidad de los 
+viajes realizados en trenes, colectivos y subterráneo durante un día hábil de servicio 
+normal (alrededor de trece millones de registros).13 
+Por otro lado, los cambios tarifarios en electricidad, gas por red, transporte y telefonía, 
+son considerados desde que entran en vigencia, adoptándose el criterio de devenga­
+do, independientemente del ciclo de facturación. En la próxima sección se explica con 
+mayor detalle la metodología de cálculo para cada uno de estos servicios.
+8.1 Electricidad y gas por red
+La información para el cálculo de las tarifas de electricidad y gas por red se obtiene a 
+través de resoluciones oficiales y cuadros tarifarios publicados por las prestadoras del 
+servicio o sus entes reguladores para las principales empresas de cada aglomerado 
+incluido en el relevamiento de precios del IPC.
+Para cada tarifario y tipo de tarifa vigente se estableció un vector único de consumos medios 
+mensuales (kw/h y m3 para electricidad y gas, respectivamente) incluyendo todos los tramos 
+de consumos detallados en los tarifarios disponibles a diciembre de 2015 para todo el país.
+12 En el caso puntual de GBA, el tratamiento de servicios tarifarios está detallado en la Metodología N°19. En esta metodología 
+se presentan solo los lineamientos comunes a todas las regiones.
+13 Con la disponibilidad de este registro se identificaron las etapas de integración de cada viaje y el medio de transporte utilizado 
+por cada usuario en cada tramo de su traslado además del atributo social (tarifa plena y tarifa social) bajo el nuevo sistema de 
+boleto integrado. (Notas aclaratorias para el informe de febrero de 2018).
+
+29
+Metodología del Índice de precios al consumidor
+Para cada aglomerado y tipo de tarifa vigente en cada mes (normal y social o subsidia­
+da, según corresponda) se calcula una factura por cada nivel de consumo del vector 
+en cuestión. El cálculo contempla los escalonamientos del costo variable en los casos 
+que corresponde.14
+Para alcanzar los índices regionales, se realizaron los siguientes procedimientos:
+1.	 Cálculo de factura promedio por aglomerado: surge del promedio geométrico 
+autoponderado de las facturas calculadas para cada uno de los niveles de con­
+sumo en cada mes. 
+2.	 Cálculo del índice elemental por aglomerado: se transformaron las facturas me­
+dias a números índice, con mes base en diciembre de 2015. 
+3.	 Cálculo de índices provinciales: surgen del promedio aritmético autoponderado 
+de los índices de los aglomerados que integran cada provincia.
+4.	 Cálculo del índice regional: surge del promedio aritmético ponderado de los ín­
+dices provinciales. En el caso del servicio de electricidad, la ponderación co­
+rresponde a la cantidad de usuarios por provincia registrados en 2015, según 
+el Ministerio de Energía y Minería. En el caso del servicio de gas por red, la 
+ponderación corresponde a la cantidad de usuarios por provincia registrados en 
+2015, según ENARGAS.
+8.2 Servicio de agua potable y saneamiento
+La información para el cálculo de la tarifa de agua potable y saneamiento se obtiene a 
+través de resoluciones oficiales y cuadros tarifarios publicados por las prestadoras del 
+servicio o sus entes reguladores para las principales empresas de cada aglomerado 
+incluido en el relevamiento de precios del IPC.
+Dada la heterogeneidad en la forma de cobro de este servicio, se identifica un único 
+valor por aglomerado, que permite calcular la variación de precios del servicio (en ge­
+neral no medido). Estos valores pueden ser: coeficiente k, valor de factura referente, 
+coeficiente único tributario, etcétera. 
+Para cada aglomerado se calcula el índice con base diciembre de 2015. Luego se 
+agregan los índices a nivel provincial realizando la media aritmética autoponderada de 
+los índices de los aglomerados. Para el nivel regional se calcula la suma ponderada por 
+población con servicio de agua potable de los índices provinciales. Los ponderadores 
+se obtuvieron del Censo Nacional de Población, Hogares y Viviendas 2010 consideran­
+do la población por provincia con red pública de agua potable. 
+14 Fijar un vector de consumo constante en el tiempo permite garantizar que las variaciones registradas en las facturas promedio 
+obedezcan únicamente a cambios de precios, frente a cambios registrados en las estructuras de los cuadros tarifarios (cantidad 
+y amplitud de los tramos).
+
+30
+INDEC
+8.3 Telefonía fija
+Para estimar la evolución del servicio de telefonía fija se contemplaron los siguientes 
+conceptos relacionados exclusivamente con la telefonía: 
+•	 abono
+•	 llamadas urbanas a teléfonos fijos
+•	 llamadas urbanas a teléfonos celulares
+•	 llamadas interurbanas
+•	 llamadas internacionales
+El índice para “servicio telefónico residencial fijo” es el resultado de un promedio pon­
+derado de índices para cada concepto incluido, los cuales se describen a continuación. 
+Para el concepto “abono” se estima un precio medio, C1, como el promedio geométri­
+co del valor del abono línea general casa de familia con impuestos informado de las n 
+empresas. 
+Donde: 
+= abono de casa de familia de cada una de las empresas, e.
+Para las llamadas urbanas a teléfonos fijos, a celulares, llamadas interurbanas e inter­
+nacionales se estimó un valor del minuto teniendo en cuenta las distintas tarifas según 
+franja horaria, distancia en el caso de interurbana y destinos en la internacional. 
+Para las llamadas urbanas a teléfonos fijos, se estima un precio medio del minuto para 
+cada empresa, 
+, a partir de un promedio ponderado de ese valor en cada franja 
+horaria.
+Para cada empresa, e:
+Donde:
+ = precio de la llamada urbana por empresa y franja horaria (i=1 en horario normal 
+y i=2 en reducido),
+ = ponderador por franja horaria, estimado a partir de la participación del gasto de 
+las empresas en cada franja horaria.
+Luego, el precio promedio de la llamada urbana a teléfonos fijos, 
+, se calcula como 
+la media geométrica sin ponderar entre los pecios de llamadas urbanas a teléfonos fijos 
+de las n empresas. 
+
+31
+Metodología del Índice de precios al consumidor
+Donde: 
+ = precio de la llamada urbana por empresa, e.
+Para las llamadas urbanas a teléfonos celulares se estima un precio medio del minuto 
+para cada empresa, 
+, a partir de un promedio ponderado de ese valor en cada 
+franja horaria. En este caso se tienen en cuenta las llamadas a celulares de la misma 
+compañía y de otras compañías. 
+Para cada empresa e:
+Donde:
+ = precio de la llamada urbana a teléfonos móviles por empresa, franja horaria 
+y destino (misma compañía u otra),
+ = ponderador por franja horaria, estimado a partir de la participación del gasto de 
+las empresas en cada franja horaria (i=1 en horario normal e i=2 en horario reducido),
+ = ponderador por de gasto de llamadas a celulares según destino (si es a la misma 
+compañía (b=1) y otra (b=2, …, n).
+Luego se calcula el precio promedio de la llamada urbana a teléfonos móviles, 
+, 
+como la media geométrica sin ponderar entre esos valores, que en diciembre de 2015 
+se equipara a 100.  
+Donde:
+ = precio de la llamada urbana a teléfonos móviles por empresa.
+Para las llamadas interurbanas se estima un precio medio del minuto para cada empresa, 
+, a partir del promedio ponderado del valor del minuto estimado para cada clave de 
+distancia, teniendo en cuenta para cada clave el valor del minuto en cada franja horaria.
+Para cada empresa, e:
+
+32
+INDEC
+ = precio del minuto de llamada interurbana por clave, c, y franja horaria (i=1 en 
+horario normal e i=2 en horario reducido),
+ = ponderador por franja horaria, estimado a partir de la participación del gasto de las 
+empresas en cada franja horaria, 
+ = ponderador de cada clave, calculado con base en la participación de la empresa, 
+e, en cada clave (c=1 a 12) sobre el total de llamadas interurbanas. Este ponderador se 
+estimó con base en datos del ENACOM de la resolución n° 2020 de 2015 para cada 
+empresa (Telecom y Telefónica) y datos suministrados en 1999 por las empresas.
+Luego se calcula el promedio de las llamadas interurbanas a teléfonos fijos, 
+, como 
+la media geométrica sin ponderar entre esos valores. 
+Donde: 
+ = precio de llamadas interurbana de cada empresa, e.
+Para las llamadas internacionales, se estima un precio medio del minuto para cada 
+empresa a partir de un promedio ponderado del valor del minuto estimado para cada 
+destino seleccionado, teniendo en cuenta para cada destino el valor del minuto en cada 
+franja horaria. 
+Para cada empresa, e:
+Donde: 
+ = precio del minuto de llamada internacional por destino y franja horaria, 
+ = ponderador por franja horaria, estimado a partir de la participación de las empre­
+sas en cada franja horaria (i=1 en horario normal y i=2 en horario reducido),
+ = ponderador de cada destino, calculado con base en la participación de la em­
+presa en el destino d sobre el total del gasto en llamadas internacionales a los cinco 
+destinos seleccionados. 
+Luego se el precio promedio de las llamadas internacionales como la media geométrica 
+sin ponderar entre esos valores: 
+
+33
+Metodología del Índice de precios al consumidor
+Donde:
+ = precio promedio de las llamadas internacionales de cada empresa, e.
+Finalmente, para estimar el índice de servicio de telefonía fija, TF, se calcula un pro­
+medio aritmético ponderado de los índices estimados de cada uno de los conceptos. 
+Donde: 
+ = ponderador de cada componente, 
+ = índice de cada componente,
+Concepto i = 1: abono, 2: llamadas urbanas a teléfonos fijos, 3: llamadas urbanas a 
+teléfonos celulares, 4: llamadas interurbanas y 5: llamadas internacionales.
+8.4 Telefonía móvil
+Los cambios tecnológicos experimentados durante los últimos años han impactado en 
+este sector, lo que complejizó la definición del servicio y el seguimiento de sus precios. 
+Se optó por seguir la evolución de los precios de este servicio a partir de estimar perfi­
+les de consumo y valorizar los distintos planes ofrecidos por las empresas, teniendo en 
+cuenta diferentes planes y servicios adquiridos (voz, SMS y datos). 
+Existen tres tipos de planes: pospago, prepago y mixto. 
+•	 Los planes pospagos son aquellos que se comercializan a través de un contrato 
+de duración limitada entre el operador y consumidor. Si el consumo sobrepasa lo 
+incluido en el plan, la compañía factura el total y lo carga a la fecha de corte (plan 
+y excedentes); el servicio saliente no se suspende y se factura la totalidad consu­
+mida a la fecha de corte. 
+•	 Los planes prepagos implican un pago anticipado por parte del consumidor para 
+adquirir el servicio. En esta modalidad, una vez alcanzado el consumo comprado 
+anticipadamente el servicio saliente se suspende y para restablecerlo hay que ha­
+cer una recarga (compra). 
+•	 Los planes mixtos, al igual que los pospagos, implican un contrato de cierta dura­
+ción, pero al consumirse los servicios incluidos en el abono se suspende el servicio 
+saliente, el cual puede restablecerse a partir de recargas por parte del consumidor 
+o se puede esperar al inicio del ciclo siguiente. 
+
+34
+INDEC
+El Ente Nacional de Comunicaciones (ENACOM) proporcionó información sobre el trá­
+fico mensual por servicio y usuario, lo cual se utilizó para armar un perfil promedio. A 
+partir de los datos de tráfico mensual de voz saliente para 2015 y cantidad de usuarios 
+por modalidad (pospago y prepago), se estimó la cantidad de minutos de voz para cada 
+tipo de plan (pospago, prepago y mixto). Luego, con información sobre tráfico mensual 
+por servicio y usuario, se distribuyeron esos minutos en llamadas ON Net (a la misma 
+compañía), OFF Net (a otra compañía) y a teléfonos fijos, y se estimó una cantidad de 
+SMS. También se estableció un consumo medio de datos. De las bases de datos de 
+planes de consumidores masivos proporcionada por el ENACOM se seleccionaron para 
+cada tipo de plan los planes de mayor cantidad de usuarios para cada empresa. Para 
+cada plan seleccionado, se calcula el valor final del plan para cada consumo.
+Para cada empresa, el precio promedio del tipo de plan se calcula realizando la media 
+geométrica de los planes seleccionados por tipo de consumo. 
+Donde:
+ = valor del plan seleccionado según el tipo de consumo j (j= 1: alto, 2: medio, 
+3: bajo), de la empresa e y tipo de plan i.
+Luego, el precio promedio de la telefonía móvil se calcula como la media aritmética 
+ponderada por la cantidad de clientes por cada empresa para cada uno de los tipos de 
+planes de las n empresas de la siguiente forma:
+Donde:
+ = precio promedio del tipo de plan i, de la empresa e,
+ = ponderador del tipo de plan i (1: prepago, 2: pospago, 3: mixto) para la empresa 
+e. Siendo 
+.
+8.5	 Trenes, colectivos urbano, suburbano, interurbano y
+	
+subte en la región GBA
+Para el servicio de transporte público en todo el país se obtiene información del valor 
+del pasaje de colectivos publicados en medios oficiales. En el caso particular de la 
+región GBA, se cuenta con información desagregada para el cálculo de la estructura 
+tarifaria que contempla desde febrero 2018 un boleto multimodal.
+ En febrero de 2018, el Ministerio de Transporte implementó un nuevo esquema tarifario 
+denominado boleto multimodal (o boleto integrado) para los servicios de transportes 
+
+35
+Metodología del Índice de precios al consumidor
+públicos de pasajeros en la región del GBA. Estos servicios forman parte de la canasta 
+del IPC y se encuentran agrupados en la división “Transporte”. Bajo el nuevo esque­
+ma, se consideran los distintos cambios o trasbordos de medios de transporte que el 
+pasajero puede realizar durante un mismo viaje en el transcurso de dos horas. Estos 
+trasbordos se denominan etapas y se aplican descuentos de diferente magnitud en las 
+distintas etapas que integran el viaje. La inclusión del esquema de boleto integrado 
+en el cálculo del IPC sigue los lineamientos de la metodología 19 del IPC-GBA que 
+establece los criterios para la inclusión de descuentos realizados a distintos grupos 
+de la población. Por tal motivo, se solicitó información al Ministerio de Transporte, que 
+brindó acceso a los datos de la totalidad de los viajes realizados en trenes, colectivos 
+y subterráneo durante un día hábil de servicio normal (alrededor de trece millones de 
+registros). Con la disponibilidad de este registro se identificaron las etapas de integra­
+ción de cada viaje y el medio de transporte utilizado por cada usuario en cada tramo de 
+su traslado. La información fue analizada y procesada para determinar la participación 
+porcentual de las distintas etapas del viaje y de las respectivas tarifas que se abonan en 
+cada etapa y el atributo social (tarifa plena y tarifa social) bajo el nuevo sistema de bo­
+leto integrado. Estas participaciones se determinaron para cada medio de transporte, 
+lo que permitió estimar el precio promedio de los viajes de tren, colectivo y subterráneo 
+requeridos para dar continuidad al cálculo de los índices elementales de cada variedad 
+de transporte público que integran la canasta actual del IPC. Así, el precio medio de 
+cada medio de transporte, j, en el mes t está dado por:
+Donde 
+ = precio del boleto para una distancia determinada d, en una etapa de integra­
+ción e y un atributo social a que puede ser tarifa social o normal, 
+ = proporción de viajes en el transporte T que se realizaron para una distancia 
+determinada d, en una etapa de integración e y un atributo social a que puede ser tarifa 
+social o normal,
+ = proporción de viajes en el transporte T en una etapa de integración e y un atri­
+buto social a que puede ser tarifa social o normal,
+ = proporción de viajes en el transporte T en un atributo social a que puede ser tarifa 
+social o normal.
+Siendo 
+.
+8.6 Peajes y rutas nacionales
+Para la estimación de peajes se consideran los vehículos particulares categoría 2 (2 ejes 
+hasta 2,10 m de altura y sin rueda doble). Cada ramal de una autopista o ruta nacional 
+es considerado un informante separado y en caso de que para lograr completar el 
+trayecto se necesite cruzar más de un peaje, se considera la suma de los peajes invo­
+lucrados (por ejemplo, la autopista Buenos Aires-La Plata).
+
+36
+INDEC
+Donde: 
+ es el precio por ramal por hora pico y no pico, 
+ es el ponderador por ramal,
+ es el ponderador por hora pico y no pico y ramal. 
+8.7 Procedimientos para los reembolsos de tarifas públicas
+En algunas ocasiones, las compañías de servicios públicos como agua y servicios sa­
+nitarios, teléfono, gas natural y electricidad hacen descuentos a sus clientes. Estos 
+descuentos pueden surgir por diferentes razones. Por ejemplo, el gobierno puede per­
+mitirle a una empresa utilizar un nuevo cuadro tarifario en forma temporal hasta que se 
+deciden definitivamente sus tarifas. Si la tarifa final es menor a la que se empleó tempo­
+ralmente, entonces la compañía debe reembolsarles la diferencia a sus clientes para su 
+consumo en el período corriente o futuro. Si el IPC tomara para el cálculo de los índices 
+de precios de los servicios estos reembolsos (que se producen como créditos en las 
+facturas de los clientes) en el mes en que se producen, el precio utilizado podría llegar a 
+ser tan bajo como cero hasta que el cliente recupere el reembolso completo. Esto hace 
+que los índices de precios de los servicios públicos sean volátiles. Además, esta prácti­
+ca hace que los índices no reflejen correctamente el precio del servicio para el período 
+corriente (pagado por todos aquellos clientes a los que no hay que reembolsarles y por 
+los nuevos clientes). Es decir, con este tratamiento de los reembolsos podría haber un 
+efecto significativo en la tasa de cambio del IPC, dado que los índices de precios de los 
+servicios son particularmente volátiles. 
+Para reducir la volatilidad de los índices de precios de los servicios públicos y asegu­
+rarse que estos reflejen más adecuadamente el precio corriente, la Dirección de Índices 
+de Precios de Consumo del INDEC ha decidido que el IPC no tenga en cuenta ningún 
+tipo de reembolso por mayores pagos pasados cuando aparecen en las facturas de los 
+clientes residenciales como un crédito de restitución específica que se resta de los pa­
+gos por el uso actual. Es decir que el IPC no considera ningún reembolso que se haga 
+por consumos pasados y que no fuera conocido por los consumidores en el momento 
+de su consumo. Esto significa que, como en el resto de los bienes y servicios, el IPC 
+solo refleja los cambios en los precios que enfrentan los hogares en el momento de la 
+adquisición.
+Este tratamiento a los reembolsos de servicios públicos a sus clientes por consumos 
+pasados tiene antecedentes internacionales en el manual del índice de precios de la 
+Oficina de Estadísticas Laborales de Estados Unidos.15 El mismo tratamiento le dan 
+Statistics Canada16 y la Oficina Australiana de Estadística17 entre otros institutos de 
+estadística del mundo.
+15 Oficina de Estadísticas Laborales (2001).
+16 Statistics Canada (2008).
+17 Oficina Australiana de Estadística (2005).
+
+37
+Metodología del Índice de precios al consumidor
+9. Difusión
+Los resultados del cálculo del IPC se difunden en forma mensual y con no más de 10 
+días hábiles de desfase desde el fin del mes de referencia, de acuerdo con la tabla de 
+periodicidad y puntualidad de las Normas Especiales para la Divulgación de Datos del 
+Fondo Monetario Internacional, a las cuales el INDEC suscribe desde 1996.
+En observancia de buenas prácticas acordadas internacionalmente, la difusión del IPC 
+atiende los principios de oportunidad y puntualidad. El principio de oportunidad implica 
+la búsqueda de equilibrio entre el cumplimiento de criterios técnicos que garanticen es­
+tándares de calidad, lo cual requiere de análisis, control, revisión, edición y preparación 
+de contenidos en formatos diversos y la presentación de resultados en los plazos más 
+breves posibles para todos los usuarios en igualdad de acceso.
+El criterio de puntualidad se cumple a través del calendario anticipado anual de difusión 
+que el INDEC hace público a través de su sitio web (www.indec.gob.ar). Así se asegura 
+previsibilidad y se garantiza que el momento de la publicación de resultados no esté 
+determinado por el contenido de la publicación ni por otros factores externos.
+Por otra parte, el INDEC difunde los resultados del IPC en diferentes formatos con la 
+máxima desagregación posible, en cumplimiento del secreto estadístico establecido en 
+la ley n° 17.622.
+Finalmente, de acuerdo con lo establecido en el artículo 8 de la disposición INDEC 
+n° 176/99 en resguardo de la integridad de las muestras del relevamiento de precios 
+y de sus informantes, no se difunde el listado de los hogares, las personas físicas o 
+jurídicas ni de los establecimientos que la integran.
+
+38
+INDEC
+10. Glosario
+Agregación: suma de valores o de niveles inferiores de índices de precios para calcular 
+niveles superiores. De mayor a menor, las agregaciones son: nivel general, división, 
+grupo, clases, subclase, producto y variedad.
+Agrupación (de índices elementales): conjunto de índices elementales cuyos precios 
+evolucionan generalmente en forma similar para los fines del IPC. Ejemplo de agrupa­
+ciones son las categorías núcleo, estacional, regulados, bienes y servicios. 
+Ajuste por cambio de calidad: ajuste que se debe aplicar al precio de un artículo cuya 
+calidad ha cambiado para hacerlo comparable con el de la calidad anterior. Se corrigen 
+hacia arriba o hacia abajo los precios corrientes por medio de un factor equivalente al 
+valor de dicho cambio de calidad.
+Alcance del IPC: la población de referencia, el dominio de bienes y servicios cuya 
+evolución de precios está representada en el índice y el área geográfica representada 
+en la captura de los precios.
+Año base del IPC: meses o años, cuya media aritmética de precios medios mensuales 
+se utiliza como base para el cálculo de los índices. En el caso del IPC presentado en 
+esta metodología el mes base es diciembre de 2016.
+Año de referencia de las ponderaciones: en el IPC base diciembre de 2016, la fuente 
+de información con que se calcularon las ponderaciones fue la Encuesta de Gastos de 
+los Hogares 2004/05. 
+Artículo: bien o servicio específico caracterizado por una especificación y atributos 
+determinados.
+Atributos: características de un artículo que complementan su especificación, permi­
+ten su identificación precisa y sirven para normalizar su precio. Por ejemplo, peso, 
+tamaño, modelo, marca.
+Cambios de calidad: cambios en los bienes y servicios o en sus formas de comercia­
+lización, que provocan una diferencia significativa de la utilidad para un consumidor de 
+un nuevo bien o servicio que sustituye el anteriormente seleccionado para el IPC y cuyo 
+precio se recopilaba.
+Canasta: conjunto de variedades para las que el IPC recoge precios.
+Clases: cada uno de los agrupamientos que componen un grupo. Cada clase está 
+compuesta por subclases.
+Clasificador del Consumo Individual por Finalidades (CCIF) (COICOP, por sus si­
+glas en inglés): clasificador de Naciones Unidas, de 1999. Clasifica el consumo de los 
+hogares según divisiones, grupos y clases, atendiendo a la finalidad del gasto realizado 
+por los hogares: alimentación, indumentaria, esparcimiento, etcétera. 
+
+39
+Metodología del Índice de precios al consumidor
+Divisiones: cada uno de los doce agrupamientos principales que componen el IPC. 
+Está compuesto por grupos.
+Efecto arrastre del IPC: variaciones del índice provocadas por diferencias entre los 
+días de vigencia de los precios, en la comparación de dos meses consecutivos.
+Efecto sustitución: comportamiento de los consumidores que alteran la composición 
+de su canasta de consumo como respuesta a cambios en los precios relativos.
+Encuestador: persona que visita negocios (o los consulta telefónicamente o por otro 
+medio) para obtener información sobre precios.
+Especificación: características que un artículo debe tener necesariamente para perte­
+necer a una determinada variedad.
+Fórmula de Laspeyres: cociente entre el valor en el período corriente de las cantida­
+des consumidas en el año base y el valor que ese consumo tenía en el año base.
+Fórmula de Laspeyres equivalente: expresión equivalente de la fórmula de Laspeyres 
+que separa el componente de precios relativos y el del ponderador.
+Fórmula de Paasche: cociente entre el valor del consumo en el período corriente y el 
+valor que ese consumo tendría a los precios del año base.
+Gasto de consumo de los hogares: valor de los bienes y servicios adquiridos por 
+los hogares durante cierto período para la satisfacción de sus necesidades según las 
+pautas o patrones sociales imperantes, excluidos los destinados a incrementar el pa­
+trimonio de esos hogares.
+Grupos: cada uno de los agrupamientos que componen una división. Cada grupo está 
+compuesto por clases.
+Imputación: asignación de un movimiento de precio a un producto-negocio cuyo pre­
+cio ha sido declarado faltante o nulo en un determinado mes.
+Incidencia: mide lo que habría variado el nivel general del índice por efecto de la varia­
+ción de precios en un agrupamiento determinado, si los precios de los demás agrupa­
+mientos hubiesen permanecido estables.
+Índice de canastas fijas: índices cuyas cantidades de bienes y servicios incluidas en 
+el cálculo no se modifican durante un tiempo.
+Índice de Laspeyres: ver Fórmula de Laspeyres.
+Índice del costo de la vida (ICV): en teoría, el indicador que debiera medir los cambios 
+en el monto de gastos (expresado a precios corrientes) que un consumidor destina para 
+mantener constante su nivel de satisfacción. Se ha demostrado que, bajo ciertas con­
+diciones, un índice tipo Laspeyres está por encima y uno tipo Paasche está por debajo 
+del índice teórico del costo de la vida.
+
+40
+INDEC
+Índice: indicador que mide el cambio porcentual relativo a un valor base. 
+Índice elemental: índice de precios de una variedad, que se calcula como un relativo 
+de precios medios. 
+Inflación: aumento generalizado y sostenido de los precios de una economía dada.
+Informante: ver Negocio.
+Media aritmética: cociente entre la suma de los precios y la cantidad de precios suma­
+dos. Se utiliza para el promedio de los precios obtenidos en distintas visitas al mismo 
+negocio en un mismo mes. 
+Media aritmética ponderada: cociente entre la suma de n componentes multiplicados 
+por sus respectivas ponderaciones y la suma de dichas ponderaciones.
+Media geométrica: raíz n de la productoria de n precios.
+Negocio: en el IPC, equivale a punto de venta y se utiliza para designar, en forma 
+amplia, a cualquier tienda, mercado, establecimiento de servicio, o lugar en el que se 
+observan u obtienen los precios para calcular el IPC.
+Normalización: proceso de transformación que se aplica al precio de un artículo-nego­
+cio para homogeneizar su unidad de medida con la aplicada por convención para todos 
+los artículo-negocios de la variedad a la que pertenece.
+Observación de precio o precio observado: cada uno de los precios recopilados para 
+artículos específicos durante una visita determinada en un negocio específico. En el IPC 
+2016=100 se recogen mensualmente aproximadamente más de 320.000.
+Panel: cada uno de los días hábiles de un mes de forma tal que todos los meses tengan 
+exactamente el mismo largo. En el caso del IPC base 2016=100, se trabaja con 20 paneles.
+Población de referencia: población cuyos gastos de consumo se toman en cuenta 
+para calcular las ponderaciones del IPC.
+Poder de compra del consumidor: cantidad de bienes y servicios que un individuo 
+puede adquirir con una cantidad de dinero determinada.
+Ponderación: coeficiente que indica la importancia relativa de un componente en un 
+agregado. En el IPC, las ponderaciones de los productos y niveles superiores se actua­
+lizan solo cuando se cambia la encuesta de gastos que le dio origen.
+Precio estimado o imputado: el precio que ocupa el lugar de un precio faltante y que se 
+ha obtenido con un procedimiento de estimación apropiado. Véase Método de imputación.
+Precio faltante: el precio de un bien o servicio no encontrado en un producto-negocio 
+del panel, ya sea porque está sin existencia, no se vende, el negocio está cerrado o no 
+se pudo visitar, o es un producto estacional.
+
+41
+Metodología del Índice de precios al consumidor
+Precio observado: precio que fue relevado en el mes de referencia.
+Precio relativo o relativo de precios: cociente entre precios de distintos períodos. 
+Precio: valor de cambio de una unidad de bien o servicio disponible para su entrega en 
+plazo normal, con pago al contado.
+Precios corrientes: precios del mismo período en el cual se miden las cantidades pro­
+ducidas, vendidas o consumidas, según el caso.
+Precios recogidos centralmente: precios recogidos directamente por la oficina central 
+del IPC mediante operativos telefónicos, correos electrónicos o consultas a páginas web.
+Producto: cada uno de los agrupamientos que componen una subclase. Cada produc­
+to está compuesto por variedades. Pertenecen a la adaptación nacional del clasificador 
+COICOP y su fin es de análisis operativo.
+Relativo mensual de precios de una variedad: cociente entre el precio medio de una 
+variedad en un mes determinado y el precio medio que tenía en el mes anterior. El IPC 
+se puede calcular como la media aritmética ponderada de estos relativos (ver Fórmula 
+de Laspeyres equivalente). 
+Subclase: cada uno de los agrupamientos que componen una clase. Cada subclase 
+está compuesta por productos. Pertenecen a la adaptación nacional del clasificador 
+COICOP y su fin es de análisis operativo.
+Validación de los precios: proceso de análisis estadístico-comparativo que permite 
+depurar errores de captación o de ingreso de precios en la base de datos.
+Variación del IPC: cambio porcentual del valor actual del IPC respecto a un valor anterior.
+Variedad: cada uno de los agrupamientos que componen un producto. En el IPC base 
+2016=100 existen 609 variedades (cómo máximo en una región 607) y cada una de ellas 
+tiene una ponderación. En cada mes, el precio de una variedad es la media geométrica 
+de los precios de los artículos-negocios que la integran, observados en distintas fechas 
+del mismo mes, de acuerdo al esquema de relevamiento previsto. 
+Variedades estacionales: bienes o servicios que están disponibles solo en ciertos 
+períodos del año.
+
+42
+INDEC
+11. Bibliografía
+Comisión Europea, FMI, OCDE, ONU y BM (2016). Sistema de Cuentas Nacionales 2008. 
+Recuperado de https://unstats.un.org/unsd/nationalaccount/docs/SNA2008Spanish.pdf.
+Conferencia Internacional de Estadísticos del Trabajo (2003). Índice de Precios al Con­
+sumidor. Informe III. Recuperado de https://www.ilo.org/public/spanish/bureau/stat/
+download/17thicls/r3cpi.pdf.
+Hill, P. (1997). The measurement of inflation and changes in the cost of living. Joint ECE/
+ILO. Ginebra.
+Hurwitz, A. (1962). Constants and compromise in the consumer price index. Journal of 
+the American Statistical Association, 57(300), pp. 813-825.
+INDEC (2001). Índice de precios al consumidor. Gran Buenos Aires, base 1999=100. Serie 
+Metodología N° 13. Recuperado de https://www.indec.gob.ar/ftp/nuevaweb/cuadros/10/
+metodo_ipc_gba.pdf.
+_ (2007). Encuesta Nacional de Gastos de los Hogares 2004-2005. Base de datos gastos 
+de consumo e ingresos. Resumen metodológico. Recuperado de https://www.indec.gob.
+ar/ftp/cuadros/menusuperior/engho/engho200405_metodologico.pdf.
+_ (2016). Índice de precios al consumidor. Gran Buenos Aires, base diciembre 2015=100. 
+Serie Metodología N° 19. Recuperado de https://www.indec.gob.ar/ftp/cuadros/econo­
+mia/ipc_metodologia19_agosto2016.pdf.
+_ (2017). Índice de precios al consumidor nacional. Antecedentes y características ge­
+nerales. Recuperado de https://www.indec.gob.ar/ftp/cuadros/economia/metodolo­
+gia_ipc_nacional_05_17.pdf.
+OIT, FMI, OCDE, ONU y BM (2006). Manual de índice de precios al consumidor. 
+Teoría y práctica. Recuperado de https://www.elibrary.imf.org/view/IMF069/01345-
+9781589063310/01345-9781589063310/01345-9781589063310.xml?redirect=true.
+Oficina Australiana de Estadística (2005). Australian Consumer Price Index: Concepts, 
+Sources and Methods. 
+Oficina de Estadísticas Laborales (2001). Improvements to CPI Procedures for Handling 
+Refunds for Utilities. 
+Statistics Canada (2008). Changes to the treatment of rebates in the Consumer Price Index. 
+Stone, R. (1965). Índices de precios y de cantidades de las cuentas nacionales. Washin­
+gton D.C.: Instituto de Desarrollo Económico, Banco Internacional de Reconstrucción 
+y Fomento. 
+UN, UNECE, WLO, IMF, OECD, Eurostat, WB y ONS-UK (2009). Practical Guide to pro­
+ducing Consumer Price Indexes. Ginebra: UN. 
+
+43
+Metodología del Índice de precios al consumidor
+12. Anexo I. Divisiones del clasificador COICOP 1999
+A partir de la publicación del IPC con cobertura nacional en junio 2017, el INDEC ha 
+adoptado el Clasificador del Consumo Individual por Finalidad (COICOP, por sus siglas 
+en inglés) de Naciones Unidas, de 1999. 
+Este clasificador cuenta con un primer nivel de desagregación conformado por un total 
+de 12 divisiones: Alimentos y bebidas no alcohólicas; Bebidas alcohólicas y tabaco; 
+Prendas de vestir y calzado; Vivienda, agua, electricidad, gas y otros combustibles; 
+Equipamiento y mantenimiento del hogar; Salud; Transporte; Comunicación; Recrea­
+ción y cultura; Educación; Restaurantes y hoteles; Bienes y servicios varios.
+Alimentos y bebidas no alcohólicas: alimentos y bebidas no alcohólicas adquiridos 
+para consumir dentro del hogar.
+Bebidas alcohólicas y tabaco: bebidas alcohólicas, cigarrillos y encendedores.
+Prendas de vestir y calzado: indumentaria (abrigos, vestimenta interior y exterior para 
+hombres, mujeres y niños), calzado (para hombres, mujeres y niños), accesorios y ser­
+vicios (telas, hilados, artículos de mercería, reparación de vestimenta y calzado).
+Vivienda, agua, electricidad, gas y otros combustibles: alquiler de la vivienda, gas­
+tos comunes y reparaciones, combustibles para usar en el hogar (gas envasado, gas de 
+red, leña, entre otros), agua y electricidad.
+Equipamiento y mantenimiento del hogar: bienes para equipar el hogar (muebles, ar­
+tefactos, electrodomésticos, vajilla, blanco y mantelería); artículos para el mantenimien­
+to del hogar (artículos de limpieza y herramientas) y servicios para el mantenimiento 
+del hogar (reparaciones de muebles, reparaciones de artefactos y electrodomésticos, 
+tintorería, lavadero y servicio doméstico).
+Salud: productos medicinales y accesorios terapéuticos (medicamentos, elementos para 
+primeros auxilios, aparatos y accesorios) y servicios para la salud (sistema prepago de 
+asistencia médica, consultas médicas y odontológicas, análisis clínicos y radiológicos).
+Transporte: compraventa de vehículos particulares, su funcionamiento y mantenimien­
+to (combustibles, estacionamiento, etc.), el transporte público.
+Comunicación: servicios telefónicos residencial y móvil, servicio de internet, correo y 
+equipos de teléfono fijo y móvil, entre otros.
+Recreación y cultura: servicios de turismo, los equipos de audio, televisión, video y 
+computación; servicios de esparcimiento (espectáculos deportivos, cine, teatro, con­
+ciertos, cuotas del club deportivo, televisión por cable, etc.); libros, diarios y revistas no 
+profesionales; y otros bienes (equipos de cine y fotografía y sus accesorios, películas, 
+juguetes y juegos, animales domésticos y artículos para deporte). También incluye los 
+textos y útiles escolares.
+
+44
+INDEC
+Educación: servicios para la educación formal (cuota y aranceles para preescolar, en­
+señanza primaria, secundaria y universitaria) y no formal (idiomas, entre otros).
+Restaurantes y hoteles: comidas fuera del hogar y hoteles.
+Bienes y servicios varios: artículos de tocador, servicios para el cuidado personal y 
+otros bienes y servicios diversos.
+
+45
+Metodología del Índice de precios al consumidor
+13. Anexo II. Estructura regional de ponderadores
+Cuadro 7. 	
+Estructura de ponderaciones regionales del IPC. Diciembre de 2016. En porcentaje
+Cod.
+Principales aperturas
+Región geográfica del país
+GBA
+Pampeana Noreste Noroeste Cuyo Patagonia
+%
+0
+Nivel general
+100,00
+100,00
+100,00
+100,00
+100,00
+100,00
+01
+Alimentos y bebidas no alcohólicas
+23,44
+28,65
+35,30
+34,67
+28,42
+27,43
+01.1
+Alimentos
+20,33
+25,73
+31,66
+30,31
+25,47
+24,77
+01.1.1
+Pan y cereales
+4,05
+5,02
+6,59
+6,49
+5,21
+4,61
+01.1.2
+Carnes y derivados
+6,98
+9,81
+13,27
+12,50
+10,32
+9,92
+01.1.3
+Pescados y Mariscos
+0,51
+0,47
+0,29
+0,34
+0,45
+0,48
+01.1.4
+Leche, productos lácteos y huevos
+3,45
+3,73
+4,10
+3,69
+3,55
+3,68
+01.1.5
+Aceites, grasas y manteca
+0,55
+0,76
+0,90
+0,64
+0,66
+0,63
+01.1.6
+Frutas
+1,27
+1,46
+1,46
+1,45
+1,10
+1,28
+01.1.7
+Verduras, tubérculos y legumbres
+2,23
+2,90
+3,59
+3,58
+2,79
+2,68
+01.1.8
+Azúcar, dulces, chocolate, golosinas, etc.
+1,01
+1,21
+1,12
+1,24
+1,03
+1,02
+01.1.9
+Otros alimentos
+0,29
+0,37
+0,36
+0,36
+0,36
+0,48
+01.2
+Bebidas no alcohólicas
+3,11
+2,92
+3,64
+4,36
+2,95
+2,66
+01.2.1
+Café, té, yerba y cacao
+0,68
+0,82
+0,93
+0,64
+0,66
+0,69
+01.2.2
+Aguas minerales, bebidas gaseosas y jugos
+2,43
+2,10
+2,71
+3,72
+2,29
+1,97
+02
+Bebidas alcohólicas y tabaco
+3,27
+3,80
+3,64
+3,13
+3,57
+3,50
+02.1
+Bebidas alcohólicas
+1,42
+1,79
+2,04
+1,37
+1,42
+1,40
+02.1.1
+Bebidas espirituosas, destiladas y licores
+0,06
+0,06
+0,03
+0,07
+0,05
+0,09
+02.1.2
+Vinos
+1,07
+1,39
+1,45
+1,02
+1,11
+1,00
+02.1.3
+Cerveza
+0,29
+0,34
+0,56
+0,29
+0,26
+0,31
+02.2
+Tabaco
+1,85
+2,01
+1,60
+1,76
+2,15
+2,10
+03
+Prendas de vestir y calzado
+8,49
+10,43
+11,60
+12,37
+11,38
+12,82
+03.1
+Prendas de vestir y materiales
+6,33
+7,68
+7,97
+8,38
+8,26
+8,96
+03.1.1
+Materiales textiles, telas e hilados
+0,09
+0,09
+0,06
+0,09
+0,10
+0,11
+03.1.2
+Prendas de vestir
+5,76
+7,26
+7,62
+7,95
+7,82
+8,50
+03.1.3
+Otros artículos y accesorios para el vestir
+0,25
+0,22
+0,23
+0,25
+0,23
+0,25
+03.1.4
+Limpieza, reparación, alquiler de ropa
+0,25
+0,11
+0,06
+0,08
+0,11
+0,09
+03.2
+Calzado
+2,15
+2,75
+3,63
+4,00
+3,12
+3,86
+03.2.1
+Zapatos y otros calzados
+2,09
+2,71
+3,55
+3,92
+3,02
+3,81
+03.2.2
+Limpieza, reparación, alquiler de calzados
+0,06
+0,04
+0,08
+0,08
+0,10
+0,05
+04
+Vivienda, agua, electricidad, gas y otros combustibles
+10,46
+8,67
+8,11
+7,00
+8,88
+10,06
+04.1
+Alquiler de la vivienda y gastos conexos
+5,80
+3,91
+2,36
+1,98
+3,80
+5,11
+04.1.1
+Alquiler de la vivienda
+3,48
+3,59
+2,22
+1,87
+3,67
+4,99
+04.1.3
+Gastos comunes por la vivienda y/o cochera y otros gastos
+2,32
+0,32
+0,14
+0,12
+0,14
+0,13
+04.3
+Mantenimiento y reparación de la vivienda
+1,23
+1,16
+1,12
+0,71
+1,17
+1,03
+04.3.1
+Materiales para la reparación de la vivienda
+0,52
+0,50
+0,57
+0,38
+0,74
+0,69
+04.3.2
+Servicios para la reparación de la vivienda
+0,70
+0,67
+0,55
+0,33
+0,43
+0,34
+04.4
+Suministro de agua
+0,89
+0,62
+0,89
+0,67
+0,60
+0,98
+04.5
+Electricidad, gas y otros combustibles
+2,54
+2,98
+3,74
+3,64
+3,32
+2,94
+04.5.1
+Electricidad
+1,03
+1,08
+2,76
+1,78
+1,28
+1,81
+04.5.2
+Gas
+1,51
+1,90
+0,98
+1,86
+2,03
+1,13
+05
+Equipamiento y mantenimiento del hogar
+6,27
+6,34
+7,78
+6,12
+6,28
+6,55
+(continúa)
+
+46
+INDEC
+Cod.
+Principales aperturas
+Región geográfica del país
+GBA
+Pampeana Noreste Noroeste Cuyo Patagonia
+%
+05.1
+Muebles, accesorios, alfombras y otros materiales para pisos
+0,60
+0,53
+0,75
+0,57
+0,62
+0,90
+05.2
+Artículos textiles para el hogar
+0,26
+0,25
+0,28
+0,28
+0,32
+0,35
+05.3
+Artefactos para el hogar
+1,14
+1,22
+2,53
+1,02
+1,04
+1,59
+05.4
+Vajilla, utensilios, loza y cristalería
+0,27
+0,26
+0,35
+0,29
+0,28
+0,39
+05.5
+Herramientas y equipos para el hogar y el jardín
+0,33
+0,27
+0,31
+0,26
+0,34
+0,30
+05.6
+Bienes y servicios para la conservación del hogar
+3,66
+3,81
+3,55
+3,69
+3,68
+3,03
+05.6.1
+Bienes para el hogar no durables
+1,67
+2,12
+2,09
+2,04
+2,05
+1,79
+05.6.2
+Servicios domésticos y para el hogar
+1,99
+1,69
+1,47
+1,66
+1,64
+1,23
+06
+Salud
+8,80
+8,16
+5,26
+6,33
+7,40
+4,95
+06.1
+Productos medicinales, artefactos y equipos para la salud
+3,95
+4,76
+3,38
+4,01
+4,98
+2,63
+06.1.1
+Productos farmacéuticos
+3,53
+4,26
+2,93
+3,60
+4,55
+2,16
+06.1.2
+Otros productos medicinales
+0,16
+0,18
+0,21
+0,18
+0,18
+0,11
+06.1.3
+Artefactos y equipos terapéuticos y sus reparaciones
+0,25
+0,31
+0,24
+0,23
+0,24
+0,36
+06.2
+Servicios para pacientes externos
+1,68
+1,61
+1,19
+1,57
+1,42
+1,49
+06.2.1
+Servicios médicos para pacientes externos
+1,08
+0,85
+0,49
+0,79
+0,91
+0,78
+06.2.2
+Servicios y tratamientos odontológicos
+0,46
+0,48
+0,50
+0,57
+0,24
+0,49
+06.2.3
+Servicios auxiliares para pacientes externos
+0,14
+0,28
+0,19
+0,21
+0,27
+0,23
+06.4
+Gastos de prepagas y obras sociales
+3,18
+1,79
+0,70
+0,75
+1,00
+0,82
+07
+Transporte
+11,59
+10,41
+9,63
+8,41
+12,10
+13,42
+07.1
+Adquisición de vehículos
+2,48
+2,89
+2,76
+1,58
+2,95
+4,92
+07.1.1
+Vehículos a motor
+2,45
+2,71
+2,35
+1,35
+2,84
+4,77
+07.1.2
+Motocicletas
+0,02
+0,15
+0,33
+0,18
+0,09
+0,08
+07.1.3
+Bicicletas
+0,01
+0,03
+0,08
+0,05
+0,03
+0,07
+07.2
+Funcionamiento de equipos de transporte personal
+5,08
+5,54
+4,91
+4,48
+6,90
+6,07
+07.2.1
+Funcionamiento de equipos de transporte de uso del hogar
+0,56
+0,52
+0,41
+0,41
+0,87
+0,66
+07.2.2
+Combustibles y lubricantes para vehículos de uso del hogar
+3,78
+4,59
+4,26
+3,80
+5,63
+5,12
+07.2.3
+Conservación y reparación de vehículos de uso del hogar
+0,15
+0,14
+0,10
+0,07
+0,22
+0,16
+07.2.4
+Otros servicios relativos al equipo de vehículos de uso del 
+hogar
+0,59
+0,29
+0,15
+0,20
+0,18
+0,13
+07.3
+Transporte público
+4,02
+1,98
+1,96
+2,35
+2,25
+2,44
+07.3.1
+Servicios de transporte automotor
+3,32
+1,93
+1,91
+2,33
+2,10
+2,17
+07.3.2
+Servicios de transporte ferroviario
+0,40
+07.3.3
+Servicios de transporte aéreo
+0,26
+0,03
+0,02
+0,01
+0,11
+0,21
+07.3.6
+Otros servicios de transporte
+0,04
+0,02
+0,02
+0,01
+0,05
+0,06
+08
+Comunicación
+2,81
+2,86
+2,82
+2,59
+2,53
+3,19
+08.1.1
+Servicios postales
+0,02
+0,02
+0,03
+0,03
+0,02
+0,03
+08.2
+Equipos telefónicos
+0,08
+0,05
+0,05
+0,08
+0,07
+0,03
+08.2.1
+Equipos teléfonicos fijos
+0,02
+0,00
+0,00
+0,00
+0,00
+0,00
+08.2.2
+Equipos telefónicos móviles
+0,06
+0,05
+0,05
+0,08
+0,06
+0,02
+08.3
+Servicios  de telefonía e internet
+2,72
+2,79
+2,74
+2,48
+2,45
+3,13
+08.3.1
+Servicio de teléfonos fijos
+0,58
+0,61
+0,60
+0,53
+0,54
+0,67
+08.3.2
+Servicio de telefonía móvil
+1,39
+1,47
+1,43
+1,28
+1,31
+1,61
+08.3.3
+Servicio de conexión a internet
+0,76
+0,71
+0,71
+0,67
+0,60
+0,85
+09
+Recreación y cultura
+7,46
+7,39
+6,23
+5,95
+6,72
+7,77
+09.1
+Equipos audiovisuales, fotográficos y de procesamiento de la 
+información
+1,34
+1,19
+1,34
+1,06
+1,08
+1,72
+Cuadro 7. 	
+(continuación)
+(continúa)
+
+47
+Metodología del Índice de precios al consumidor
+Cod.
+Principales aperturas
+Región geográfica del país
+GBA
+Pampeana Noreste Noroeste Cuyo Patagonia
+%
+09.1.1
+Equipos para la recepción, grabación y reproducción de 
+sonidos e imágenes
+0,42
+0,46
+0,83
+0,52
+0,47
+0,73
+09.1.2
+Equipo fotográfico y cinematográfico e instrumentos ópticos
+0,19
+0,13
+0,03
+0,05
+0,05
+0,19
+09.1.3
+Equipos de procesamiento e información
+0,44
+0,39
+0,33
+0,31
+0,30
+0,51
+09.1.4
+Medios para grabación
+0,29
+0,21
+0,16
+0,18
+0,27
+0,30
+09.3
+Otros artículos para la recreación, jardines y animales
+1,07
+0,97
+0,59
+0,83
+1,14
+1,04
+09.3.1
+Juegos, juguetes y hobbies
+0,36
+0,40
+0,27
+0,44
+0,44
+0,41
+09.3.2
+Equipo para el deporte, campamento y recreación al aire 
+libre
+0,07
+0,09
+0,03
+0,04
+0,04
+0,10
+09.3.4
+Mascotas y productos conexos
+0,65
+0,48
+0,30
+0,36
+0,66
+0,53
+09.4
+Servicios recreativos y culturales
+3,05
+2,88
+2,28
+2,27
+2,68
+3,02
+09.4.1
+Servicios recreativos y deportivos
+0,86
+0,47
+0,37
+0,40
+0,52
+0,42
+09.4.2
+Servicios culturales
+2,19
+2,41
+1,90
+1,88
+2,16
+2,61
+09.5
+Periódicos, diarios, revistas, libros y artículos de papelería
+1,49
+1,62
+1,84
+1,58
+1,52
+1,83
+09.5.1
+Libros
+0,69
+0,60
+0,86
+0,64
+0,80
+0,91
+09.5.2
+Diarios y publicaciones periódicas
+0,51
+0,58
+0,50
+0,48
+0,41
+0,41
+09.5.4
+Papel y útiles de oficina y materiales de dibujo
+0,30
+0,44
+0,48
+0,45
+0,31
+0,51
+09.6
+Paquete turístico
+0,50
+0,74
+0,18
+0,21
+0,30
+0,16
+10
+Educación
+3,02
+1,61
+1,36
+2,04
+2,24
+2,09
+10.1
+Educación preescolar y primaria
+1,30
+0,66
+0,34
+0,89
+0,70
+0,76
+10.2
+Educación secundaria
+0,48
+0,15
+0,14
+0,30
+0,20
+0,29
+10.3
+Educacioón postsecundaria, no terciaria
+0,63
+0,38
+0,52
+0,47
+0,92
+0,39
+10.5
+Educación no atribuible a ningun nivel
+0,61
+0,42
+0,36
+0,39
+0,41
+0,65
+11
+Restaurantes y hoteles
+10,84
+8,10
+4,96
+7,99
+6,85
+5,08
+11.1
+Restaurantes y comidas fuera del hogar
+10,31
+7,84
+4,84
+7,82
+6,52
+4,91
+11.2
+Hoteles
+0,53
+0,26
+0,11
+0,16
+0,32
+0,16
+12
+Bienes y servicios varios
+3,55
+3,58
+3,30
+3,40
+3,63
+3,14
+12.1
+Cuidado personal
+2,82
+3,07
+3,07
+3,18
+3,11
+2,66
+12.1.1
+Salones de peluquería y establecimientos de cuidados 
+personales
+0,85
+0,67
+0,55
+0,55
+0,70
+0,53
+12.1.3
+Otros aparatos, artículos y productos para la atención 
+personal
+1,97
+2,40
+2,52
+2,63
+2,40
+2,13
+12.5
+Seguros
+0,47
+0,32
+0,10
+0,08
+0,33
+0,35
+12.7
+Otros servicios
+0,26
+0,19
+0,13
+0,14
+0,19
+0,13
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+Cuadro 7. 	
+(conclusión)
+
+48
+INDEC
+Este volumen
+Metodología del Índice de precios al consumidor (IPC).
+Metodología INDEC N° 32
+con una tirada de 500 ejemplares
+se terminó de imprimir en noviembre de 2019
+en la Imprenta del Congreso de la Nación
+Av. Rivadavia 1864 PB
+C1033AAV Ciudad Autónoma de Buenos Aires
+República Argentina
+Cuadro 8. 	
+Ponderadores de las categorías del IPC. Diciembre de 2016. En porcentaje
+GBA
+Pampeana
+Noreste
+Noroeste
+Cuyo
+Patagonia
+%
+Estacional
+10,3
+12,0
+12,5
+12,8
+11,7
+12,4
+Núcleo
+67,0
+68,7
+69,9
+69,3
+67,5
+67,6
+Regulados
+22,8
+19,3
+17,7
+17,9
+20,8
+20,0
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.
+Cuadro 9.	
+Ponderadores de los bienes y servicios del IPC. Diciembre de 2016. En porcentaje
+GBA
+Pampeana
+Noreste
+Noroeste
+Cuyo
+Patagonia
+%
+Bienes
+59,3
+70,1
+77,4
+75,2
+71,2
+71,3
+Servicios
+40,7
+29,9
+22,6
+24,8
+28,8
+28,7
+Fuente: INDEC, Dirección de Índices de Precios de Consumo.

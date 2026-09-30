@@ -1,0 +1,142 @@
+# Gera mapeamentos/BRA_2018_sugestao.csv (fonte da verdade editável: o CSV). Formato: cod_local -> (classe 2018, confiança, 2ª classe se o subitem se divide, justificativa)
+S = {}
+def a(cods, cl, conf, just, seg=""):
+    for c in cods.split(): S[c] = (cl, conf, seg, just)
+# --- exceções ao rascunho por item (subitens de itens que o rascunho coloca em uma só classe)
+a("1101051 1101052 1101053 1101073","01.1.7","alta","Feijão é leguminosa seca: 01.1.7.6 (Pulses); o rascunho/1999 colocava o item inteiro em cereais")
+a("1106001","01.1.7","alta","Banana-da-terra = plantain: 01.1.7.5.7 (Plantains and cooking bananas)")
+a("1111031","01.1.5","alta","Manteiga: 01.1.5.2.1 (Butter), não laticínios")
+a("1109023","01.1.3","alta","Bacalhau seco/salgado: 01.1.3.2.2 (Gadiformes, dried, salted); é peixe, não carne")
+a("1116001","01.1.4","alta","Leite de coco: 01.1.4.4.1 (Coconut milk, leite não animal)")
+a("1116010","01.1.7","média","Alho fresco: 01.1.7.4.2 (Garlic, fresh); em 1999 ia para condimentos")
+a("1116005","01.1.9","baixa","Atomatado: molho de tomate = 01.1.9.3 (sauces); extrato de tomate seria vegetal conservado 01.1.7.9","01.1.7")
+a("1104052","01.1.8","baixa","Cacau em pó para todos os usos: 01.1.8.5.3; achocolatado (bebida) seria 01.2.4. Subitem misto","01.2.4")
+a("1102061","01.1.9","média","Macarrão instantâneo: prato pré-cozido à base de massa, 01.1.9.1.1")
+# --- 1110 Aves e ovos
+a("1110009 1110010","01.1.2","alta","Frango é carne de ave: 01.1.2 (corrige o item inteiro em 01.1.4 do pré-gabarito de 1999)")
+a("1110044","01.1.4","alta","Ovos: 01.1.4.3")
+# --- 1114 Bebidas e infusões
+a("1114001","01.2.1","alta","Suco de frutas: 01.2.1")
+a("1114003 1114004","01.1.6","baixa","Polpa/açaí congelados: fruta processada (01.1.6); pode ser tratado como suco (01.2.1)","01.2.1")
+a("1114022 1114023","01.2.2","alta","Café: 01.2.2 (Coffee and coffee substitutes)")
+a("1114083","01.2.6","baixa","Subitem combinado: refrigerante (01.2.6) e água mineral (01.2.5). Precisa de divisão","01.2.5")
+a("1114084","02.1.3","alta","Cerveja: 02.1.3")
+a("1114085","02.1.1","média","Outras alcoólicas (cachaça, destilados): 02.1.1; aperitivos/fermentados iriam em 02.1.9","02.1.9")
+a("1114087","02.1.2","alta","Vinho: 02.1.2")
+a("1114090","01.2.9","média","Suco em pó / concentrados: outras bebidas não alcoólicas 01.2.9")
+a("1114091","01.2.3","alta","Chá mate: 01.2.3 (Tea, maté)")
+# --- 1115 Enlatados e conservas
+a("1115013 1115056","01.1.9","alta","Alimento infantil 01.1.9.2; sopa desidratada 01.1.9.1")
+a("1115016 1115017 1115058","01.1.7","alta","Hortaliças em conserva: 01.1.7.9 (preparados ou conservados)")
+a("1115057","01.1.7","alta","Azeitona em conserva: 01.1.7.9.3 (Preserved olives)")
+a("1115039 1115075","01.1.3","alta","Peixe em conserva: 01.1.3")
+a("1115050","01.1.2","alta","Salsicha em conserva: carne preparada 01.1.2")
+# --- 1201 Alimentação fora do domicílio
+a("1201001 1201003 1201007 1201009 1201048 1201051 1201052 1201061 1201088","11.1.1","alta","Consumo fora do domicílio em restaurantes, lanchonetes e bares: 11.1.1 (o que é servido ao cliente, inclusive bebidas e sorvete)")
+# --- 2101 Aluguel e taxas
+a("2101001","04.1.1","alta","Aluguel da residência principal: 04.1.1")
+a("2101002","04.4.4","alta","Condomínio: 04.4.4.1 (manutenção de edifícios multifamiliares)")
+a("2101004","04.4.1","média","Subitem combinado água + esgoto: 04.4.1 e 04.4.3. Precisa de divisão","04.4.3")
+a("2101012","07.4.9","alta","Mudança: 07.4.9.1 (Removal and storage services); em 1999 ia em 07.3.6")
+# --- 2103 Reparos
+a("2103005 2103008 2103012 2103014 2103032 2103038 2103039 2103040 2103041 2103048 2103049 2103055","04.3.1","alta","Materiais para manutenção e reparo da moradia: 04.3.1")
+a("2103042","04.3.2","alta","Mão de obra de reparo: serviços 04.3.2")
+# --- 2104 Artigos de limpeza
+a("2104003 2104005 2104008 2104009 2104012 2104015 2104016 2104019 2104020 2104041 2104085","05.6.1","alta","Produtos de limpeza e bens não duráveis do lar: 05.6.1")
+# --- 2201 Combustíveis domésticos
+a("2201003","04.5.4","alta","Carvão vegetal: 04.5.4.3 (Charcoal)")
+a("2201004 2201005","04.5.2","alta","Gás em botijão 04.5.2.2 (hidrocarbonetos liquefeitos); gás encanado 04.5.2.1")
+# --- 3102 Utensílios e enfeites
+a("3102001","05.1.1","alta","Iluminação: 05.1.1.3 (Lighting equipment)")
+a("3102005","05.1.1","média","Tapete: em 2018 faz parte de 05.1.1 (loose carpets and rugs); em 1999 era 05.1.2")
+a("3102006","05.2.1","média","Cortina: têxteis para o lar 05.2.1")
+a("3102007 3102009 3102010","05.4.0","alta","Utensílios domésticos: 05.4.0")
+a("3102035","09.3.1","alta","Flores naturais: 09.3.1.2 (Plants, seeds and flowers)")
+a("3102337","13.2.9","alta","Artigos para bebê: 13.2.9.1 (Travel goods, baby articles)")
+# --- 3202 Tv, som e informática
+a("3202001 3202003","08.1.4","alta","Televisor e som: 08.1.4 (equipamento de recepção e reprodução); em 1999 era 09.1.1")
+a("3202008","09.2.1","alta","Console de videogame: 09.2.1.1 (Video game computers, consoles)")
+a("3202028","08.1.3","alta","Computador pessoal: 08.1.3.1 (Computers, laptops and tablets)")
+# --- 3301 Consertos
+a("3301002 3301015","05.3.3","alta","Reparo de eletrodomésticos: 05.3.3")
+a("3301006 3301088","08.3.5","alta","Reparo de equipamento de informação e comunicação (TV, celular): 08.3.5")
+a("3301022","05.1.2","alta","Reforma de estofado: 05.1.2 (reparo de móveis)")
+a("3301130","07.2.3","média","Conserto de bicicleta: equipamento de transporte pessoal, 07.2.3")
+# --- 4201 / 4401 Calçados, tecidos
+a("4201002 4201003 4201004 4201063 4201098","03.2.1","alta","Calçados: 03.2.1")
+a("4201015 4201040","13.2.9","média","Bolsa e mochila: 13.2.9.1 (Travel goods); em 1999 12.3.2")
+a("4401001","03.1.1","alta","Tecido: 03.1.1 (Clothing materials)")
+a("4401002","03.1.3","alta","Armarinho (linhas, botões, zíperes): 03.1.3")
+# --- 5101 Transporte público
+a("5101001 5101002 5101006 5101007 5101026 5101051","07.3.2","alta","Transporte de passageiros por estrada (ônibus, táxi, aplicativo, escolar): 07.3.2")
+a("5101004 5101011","07.3.1","alta","Trem e metrô: 07.3.1")
+a("5101010","07.3.3","alta","Passagem aérea: 07.3.3")
+a("5101053","07.3.5","alta","Bilhete integrado: 07.3.5 (Combined passenger transport)")
+# --- 5102 Veículo próprio
+a("5102001 5102020","07.1.1","alta","Automóvel novo e usado: 07.1.1")
+a("5102053","07.1.2","alta","Motocicleta: 07.1.2")
+a("5102004 5102013 5102015 5102051","07.2.4","média","Emplacamento/licença, estacionamento, pedágio, aluguel de veículo: serviços relativos a veículos pessoais 07.2.4")
+a("5102006","07.2.4","baixa","Multa: sem classe clara em 2018; mantida em 07.2.4 por continuidade com 1999")
+a("5102005","12.1.4","alta","Seguro de veículo: 12.1.4 (Insurance connected with transport)")
+a("5102007","07.2.2","média","Óleo lubrificante: 07.2.2.3 (outros combustíveis/lubrificantes)")
+a("5102009 5102010","07.2.1","alta","Peças, acessórios e pneus: 07.2.1")
+a("5102011 5102037","07.2.3","alta","Conserto e pintura de veículo: 07.2.3")
+# --- 5104 Combustíveis de veículos
+a("5104001 5104002 5104003 5104005","07.2.2","alta","Combustíveis para veículos: 07.2.2")
+# --- 6201/6202 Saúde
+a("6201002 6201007 6201010","06.2.3","média","Consulta médica, fisioterapia, psicologia: atendimento ambulatorial curativo 06.2.3 (check-up preventivo seria 06.2.1)","06.2.1")
+a("6201003 6201005","06.2.2","alta","Dentista e aparelho ortodôntico: 06.2.2")
+a("6202004","06.3.1","alta","Hospitalização e cirurgia: 06.3.1")
+# --- 6301 Higiene pessoal
+a("6301001 6301004 6301006 6301007 6301010 6301011 6301014 6301016 6301020","13.1.2","alta","Produtos de cuidado pessoal: 13.1.2")
+a("6301002","13.2.9","média","Fralda descartável: artigos para bebê 13.2.9.1")
+a("6301015 6301017","13.1.2","baixa","Absorvente e papel higiênico: artigos de higiene pessoal 13.1.2 (classificação menos explícita no texto da ONU)")
+# --- 7101 Serviços pessoais
+a("7101001","03.1.4","alta","Costureira: 03.1.4.2 (reparo e confecção sob medida); em 1999 estava em 12.1.1")
+a("7101005 7101011 7101014 7101144","13.1.3","alta","Salão de beleza, manicure, depilação: 13.1.3")
+a("7101010","05.6.2","alta","Empregado doméstico: 05.6.2.1")
+a("7101034 7101036","13.9.0","média","Cartório e despachante: honorários de serviços jurídicos/administrativos 13.9.0.9")
+a("7101076","12.2.2","alta","Serviço bancário (tarifas): 12.2.2 (Explicit charges by deposit-taking corporations)")
+a("7101090","13.9.0","baixa","Anuidade de conselho de classe: outros serviços 13.9.0")
+# --- 7201 Recreação
+a("7201006","09.4.6","alta","Clube: serviços recreativos e esportivos 09.4.6")
+a("7201010","09.5.1","alta","Instrumento musical: 09.5.1")
+a("7201015 7201256","09.4.5","alta","Serviços veterinários e higiene de animais: 09.4.5")
+a("7201019","07.1.3","alta","Bicicleta: 07.1.3 (classe própria em 2018)")
+a("7201020","09.3.2","alta","Alimento para animais: 09.3.2")
+a("7201023","09.2.1","alta","Brinquedo: 09.2.1")
+a("7201054","09.4.6","média","Casa noturna: lazer 09.4.6.1 (em 1999 ia em 09.4.2)")
+a("7201063","09.4.7","alta","Jogos de azar: 09.4.7")
+a("7201067","09.2.2","alta","Material de caça e pesca: 09.2.2")
+a("7201090","11.2.0","alta","Hospedagem: 11.2.0")
+a("7201095","09.8.0","alta","Pacote turístico: 09.8.0")
+a("7201266","09.6.1","alta","Cinema, teatro e concertos: 09.6.1")
+# --- 8101 Cursos regulares
+a("8101001","13.3.0","alta","Creche: serviços de cuidado infantil 13.3.0.1 (Childcare services)")
+a("8101002 8101003","10.1.0","alta","Pré-escola e fundamental: 10.1.0")
+a("8101004","10.2.0","alta","Ensino médio: 10.2.0")
+a("8101005 8101006","10.4.0","alta","Graduação e pós-graduação: 10.4.0")
+a("8101008","10.5.0","baixa","EJA: nível misto (fundamental/médio); 10.5.0 por não ter nível único","10.2.0")
+a("8101045","10.3.0","baixa","Curso técnico: pós-secundário não terciário 10.3.0 (pode ser concomitante ao médio, 10.2.0)","10.2.0")
+# --- 8102 / 8103 Leitura e papelaria
+a("8102001 8102004","09.7.2","alta","Jornais e revistas: 09.7.2")
+a("8102007 8102008","09.7.1","alta","Livros: 09.7.1")
+a("8103001 8103014","09.7.4","alta","Caderno e papelaria: 09.7.4")
+# --- 8104 Cursos diversos
+a("8104001","10.5.0","alta","Curso preparatório: 10.5.0.1 (exam preparation courses)")
+a("8104003 8104004","10.5.0","média","Idiomas e informática: educação não definida por nível 10.5.0")
+a("8104005","07.2.4","alta","Autoescola: 07.2.4.3 (Driving lessons)")
+a("8104006","09.4.6","alta","Atividades físicas: 09.4.6")
+# --- 9101 Comunicação
+a("9101001","07.4.1","alta","Correio: 07.4.1 (Postal and courier services); saiu de comunicação em 2018")
+a("9101002","08.3.1","alta","Telefonia fixa: 08.3.1")
+a("9101008","08.3.2","alta","Telefonia móvel: 08.3.2")
+a("9101010 9101115","08.3.9","média","TV por assinatura e streaming: 08.3.9.2 (Subscriptions to audiovisual streaming)")
+a("9101018","08.3.3","alta","Acesso à internet: 08.3.3")
+a("9101019","08.1.2","média","Aparelho telefônico (predomina celular): 08.1.2; telefone fixo seria 08.1.1","08.1.1")
+a("9101116","08.3.4","alta","Combo telefonia + internet + TV: 08.3.4 (Bundled telecommunication services)")
+import csv, sys
+with open(__import__("pathlib").Path(__file__).resolve().parents[1] / "mapeamentos" / "BRA_2018_sugestao.csv","w",newline="",encoding="utf-8") as f:
+    w=csv.writer(f); w.writerow(["cod_local","classe2018","confianca","segunda_classe","justificativa"])
+    for c,(cl,conf,seg,j) in sorted(S.items()): w.writerow([c,cl,conf,seg,j])
+print(len(S),"subitens classificados")
