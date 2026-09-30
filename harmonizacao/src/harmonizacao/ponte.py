@@ -67,8 +67,13 @@ def _mensal(V: pd.DataFrame, W: pd.DataFrame) -> pd.Series:
     return 100 * (1 + v / 100).cumprod()
 
 def pontear(pub1999: pd.DataFrame, ponte: Ponte, log=print) -> pd.DataFrame:
-    """pub1999: linhas de ipc_harmonizado (sistema COICOP1999) já com base comum e pesos. Devolve linhas COICOP2018 (origem 'ponte')."""
+    """pub1999: linhas de ipc_harmonizado (sistema COICOP1999) já com base comum e pesos. Devolve linhas COICOP2018 (origem 'ponte').
+    Só séries PUBLICADAS pela fonte entram: a tabela da ONU assume o conteúdo oficial de cada classe de 1999, e isso foi validado
+    contra o nativo de 2018 do Eurostat (45 nós, até 36 países, erro mensal mediano <= 0,007 p.p.). Séries DERIVADAS de uma cesta
+    nacional por de-para nosso (origem 'derivado') ficam de fora: o de-para do Brasil usa códigos de 1999 com conteúdo diferente do
+    oficial (ex.: 12.1.2 com produtos de cuidado pessoal, 10.1.0 com todos os níveis de ensino, 01.1.4 com frango)."""
     exatos = ponte.exatos(); out = []; pulados = 0
+    pub1999 = pub1999[pub1999.origem == "publicado"]
     cls = pub1999[pub1999.coicop.str.count(r"\.") == 2]
     for (pais, fonte, origem), g in cls.groupby(["pais", "fonte", "origem"]):
         I = g.pivot(index="data", columns="coicop", values="indice").sort_index()

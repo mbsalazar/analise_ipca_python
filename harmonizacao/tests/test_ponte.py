@@ -52,3 +52,7 @@ def test_emendar_usa_ponte_antes_e_nativo_depois():
     r = emendar(nat, ponteado).set_index("data")
     assert r.origem.eq("ponte+nativo").all() and len(r) == 24
     assert (r.var_mensal.dropna().round(6) == 1.0).all()                          # sem quebra na emenda
+
+def test_pontear_ignora_series_derivadas_de_de_para_nacional():
+    # mesma série, mas derivada por de-para nosso (ex.: Brasil): não pode passar pela tabela da ONU
+    assert pontear(_pub("01.1.1", origem="derivado"), toy(), log=lambda *_: None).empty
