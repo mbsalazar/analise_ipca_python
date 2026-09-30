@@ -23,7 +23,8 @@ def _var12(idx: pd.Series) -> pd.Series:
 
 def _finalizar(g: pd.DataFrame) -> pd.DataFrame:
     """g: uma série (data, indice bruto encadeado ou publicado)."""
-    g = g.sort_values("data").set_index("data"); ix = rebasear(g["indice"])
+    g = g.sort_values("data").set_index("data"); ix = rebasear(g["indice"]); g["base_indice"] = f"{BASE_ANO}=100"
+    if ix.isna().all(): ix = g["indice"]; g["base_indice"] = "nativa"       # sem os 12 meses do ano-base: mantém a base da fonte, declarada
     prev = ix.copy(); prev.index = prev.index + pd.DateOffset(months=1)
     g["indice"] = ix; g["var_mensal"] = (ix / prev.reindex(ix.index) - 1) * 100; g["var_12m"] = _var12(ix)
     return g.reset_index()

@@ -3,12 +3,13 @@ import pandas as pd
 from . import armazem as A
 from .agregar import derivar, escolher_fonte, publicado
 from .conectores.bls import Bls
-from .conectores.eurostat import Eurostat
+from .conectores.eurostat import Eurostat, Eurostat2018
 from .conectores.ibge_sidra import IbgeSidra
 from .conectores.ocde import Ocde
+from .ponte import Ponte, emendar, pontear
 from .esquema import MAPEAMENTO_COLS
 
-FONTES = {"ibge": IbgeSidra, "eurostat": Eurostat, "ocde": Ocde, "bls": Bls}
+FONTES = {"ibge": IbgeSidra, "eurostat": Eurostat, "eurostat2018": Eurostat2018, "ocde": Ocde, "bls": Bls}
 
 def coletar(fontes, desde=None, log=print):
     for nome in fontes:
@@ -36,7 +37,15 @@ def publicar(log=print):
     pub = ser[ser.indice.notna()]
     if len(pub): partes.append(publicado(pub, pes))
     tudo = pd.concat(partes, ignore_index=True)
-    final = escolher_fonte(tudo)[["pais", "sistema", "coicop", "data", "indice", "var_mensal", "var_12m", "peso_pct", "n_componentes", "cobertura_pct", "origem", "fonte"]]
+    # 3) ponte 1999 -> 2018: nós exatos a partir de séries de 1999; emenda o nativo 2018 curto (base 'nativa') ao histórico
+    ponteado = pontear(tudo[tudo.sistema == "COICOP1999"], Ponte(), log)
+    if len(ponteado):
+        partes = [tudo, ponteado]
+        emend = emendar(tudo[(tudo.sistema == "COICOP2018") & (tudo.origem == "publicado")], ponteado)
+        if len(emend): partes.append(emend)
+        log(f"  ponte: {ponteado.groupby(['pais','coicop']).ngroups:,} séries 2018 reconstruídas; {emend.groupby(['pais','coicop']).ngroups if len(emend) else 0:,} emendadas com o nativo")
+        tudo = pd.concat(partes, ignore_index=True)
+    final = escolher_fonte(tudo)[["pais", "sistema", "coicop", "data", "indice", "var_mensal", "var_12m", "peso_pct", "n_componentes", "cobertura_pct", "base_indice", "origem", "fonte"]]
     A.caminho("ipc_harmonizado", "publicado").parent.mkdir(parents=True, exist_ok=True)
     final.sort_values(["pais", "sistema", "coicop", "data"]).to_parquet(A.caminho("ipc_harmonizado", "publicado"), index=False)
     log(f"publicado: {len(final):,} linhas, {final.pais.nunique()} países, {final.groupby(['pais','sistema','coicop']).ngroups:,} séries")

@@ -3,7 +3,7 @@ name = "harmonizacao"
 version = "0.1.0"
 description = "IPC harmonizado na COICOP: coleta oficial -> de-para -> índice harmonizado (atualização mensal)"
 requires-python = ">=3.10"
-dependencies = ["pandas>=2", "pyarrow", "requests", "openpyxl", "pycountry"]
+dependencies = ["pandas>=2", "pyarrow", "requests", "openpyxl", "pycountry", "networkx"]
 [project.optional-dependencies]
 dev = ["pytest"]
 [project.scripts]

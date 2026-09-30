@@ -29,3 +29,21 @@ class Eurostat(Conector):
             pesos.append(pd.DataFrame({"pais": p, "sistema_local": "COICOP1999", "cod_local": w.cod, "data": pd.to_datetime(w.TIME_PERIOD.astype(str) + "-01"),
                                        "peso": w.OBS_VALUE, "escala": "permil", "fonte": "Eurostat"}))
         return Resultado(series=pd.concat(series, ignore_index=True), pesos=pd.concat(pesos, ignore_index=True))
+
+class Eurostat2018(Conector):
+    """HICP nativo em COICOP 2018 (ECOICOP ver. 2): prc_hicp_minr, 2025=100, desde jan/2025."""
+    nativo_coicop = True
+    def __init__(self, paises=None): self.paises = paises
+    def coletar(self, desde=None) -> Resultado:
+        ini = desde or "2025-01"; series = []
+        for g in geos():
+            p = iso3(g)
+            if p is None or p == "USA" or (self.paises and p not in self.paises): continue
+            try:
+                d = pd.read_csv(io.StringIO(get(f"{API}/sdmx/2.1/data/prc_hicp_minr/M.I25..{g}?format=SDMX-CSV&startPeriod={ini}").text))
+            except Exception as e:
+                print("Eurostat2018: falhou", g, e); continue
+            d["cod"] = d.coicop18.map(pontuar); d = d[d.cod.notna()]
+            series.append(pd.DataFrame({"pais": p, "sistema_local": "COICOP2018", "cod_local": d.cod, "data": pd.to_datetime(d.TIME_PERIOD),
+                                        "indice": d.OBS_VALUE, "var_mensal": float("nan"), "base": "2025=100", "fonte": "Eurostat"}))
+        return Resultado(series=pd.concat(series, ignore_index=True))

@@ -14,7 +14,7 @@ TABELAS = {
     # resultado: séries por nó COICOP, publicadas pela fonte ou derivadas por nós
     "ipc_harmonizado": dict(chave=["pais", "sistema", "coicop", "data"],
                             cols=["pais", "sistema", "coicop", "data", "indice", "var_mensal", "var_12m", "peso_pct",
-                                  "n_componentes", "cobertura_pct", "origem", "fonte"]),
+                                  "n_componentes", "cobertura_pct", "base_indice", "origem", "fonte"]),
 }
 MAPEAMENTO_COLS = ["pais", "sistema_local", "cod_local", "sistema_coicop", "coicop", "tipo", "parcela", "metodo", "confianca", "revisado"]
 

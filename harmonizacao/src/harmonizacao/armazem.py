@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 from .esquema import TABELAS, validar
 RAIZ = Path(__file__).resolve().parents[2]
-DADOS = RAIZ / "dados"; MAPS = RAIZ / "mapeamentos"
+DADOS = RAIZ / "dados"; MAPS = RAIZ / "mapeamentos"; TABELAS_REF = RAIZ / "tabelas"
 
 def caminho(nome, camada="curado"): return DADOS / camada / f"{nome}.parquet"
 
