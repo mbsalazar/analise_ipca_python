@@ -1,9 +1,9 @@
 pais,codigo,item,subitem,coicop
 Brasil,1101002,"Cereais, leguminosas e oleaginosas",Arroz,01.1.1
-Brasil,1101051,"Cereais, leguminosas e oleaginosas",Feijão - mulatinho,01.1.1
-Brasil,1101052,"Cereais, leguminosas e oleaginosas",Feijão - preto,01.1.1
-Brasil,1101053,"Cereais, leguminosas e oleaginosas",Feijão - macáçar (fradinho),01.1.1
-Brasil,1101073,"Cereais, leguminosas e oleaginosas",Feijão - carioca (rajado),01.1.1
+Brasil,1101051,"Cereais, leguminosas e oleaginosas",Feijão - mulatinho,01.1.7
+Brasil,1101052,"Cereais, leguminosas e oleaginosas",Feijão - preto,01.1.7
+Brasil,1101053,"Cereais, leguminosas e oleaginosas",Feijão - macáçar (fradinho),01.1.7
+Brasil,1101073,"Cereais, leguminosas e oleaginosas",Feijão - carioca (rajado),01.1.7
 Brasil,1101079,"Cereais, leguminosas e oleaginosas",Milho (em grão),01.1.1
 Brasil,1102001,"Farinhas, féculas e massas",Farinha de arroz,01.1.1
 Brasil,1102006,"Farinhas, féculas e massas",Macarrão,01.1.1
@@ -28,7 +28,7 @@ Brasil,1104004,Açúcares e derivados,Açúcar cristal,01.1.8
 Brasil,1104018,Açúcares e derivados,Balas,01.1.8
 Brasil,1104023,Açúcares e derivados,Chocolate em barra e bombom,01.1.8
 Brasil,1104032,Açúcares e derivados,Sorvete,01.1.8
-Brasil,1104052,Açúcares e derivados,Chocolate e achocolatado em pó,01.1.8
+Brasil,1104052,Açúcares e derivados,Chocolate e achocolatado em pó,01.2.1
 Brasil,1104060,Açúcares e derivados,Doce de frutas em pasta,01.1.8
 Brasil,1104067,Açúcares e derivados,Açúcar demerara,01.1.8
 Brasil,1105001,Hortaliças e verduras,Alface,01.1.7
@@ -104,11 +104,11 @@ Brasil,1109007,Carnes e peixes industrializados,Salsicha,01.1.2
 Brasil,1109008,Carnes e peixes industrializados,Linguiça,01.1.2
 Brasil,1109010,Carnes e peixes industrializados,Mortadela,01.1.2
 Brasil,1109012,Carnes e peixes industrializados,Salame,01.1.2
-Brasil,1109023,Carnes e peixes industrializados,Bacalhau,01.1.2
+Brasil,1109023,Carnes e peixes industrializados,Bacalhau,01.1.3
 Brasil,1109056,Carnes e peixes industrializados,Carne-seca e de sol,01.1.2
 Brasil,1109058,Carnes e peixes industrializados,Carne de porco salgada e defumada,01.1.2
-Brasil,1110009,Aves e ovos,Frango inteiro,01.1.4
-Brasil,1110010,Aves e ovos,Frango em pedaços,01.1.4
+Brasil,1110009,Aves e ovos,Frango inteiro,01.1.2
+Brasil,1110010,Aves e ovos,Frango em pedaços,01.1.2
 Brasil,1110044,Aves e ovos,Ovo de galinha,01.1.4
 Brasil,1111004,Leites e derivados,Leite longa vida,01.1.4
 Brasil,1111008,Leites e derivados,Leite condensado,01.1.4
@@ -116,7 +116,7 @@ Brasil,1111009,Leites e derivados,Leite em pó,01.1.4
 Brasil,1111011,Leites e derivados,Queijo,01.1.4
 Brasil,1111019,Leites e derivados,Iogurte e bebidas lácteas,01.1.4
 Brasil,1111021,Leites e derivados,Requeijão,01.1.4
-Brasil,1111031,Leites e derivados,Manteiga,01.1.4
+Brasil,1111031,Leites e derivados,Manteiga,01.1.5
 Brasil,1111038,Leites e derivados,Leite fermentado,01.1.4
 Brasil,1112003,Panificados,Biscoito,01.1.1
 Brasil,1112015,Panificados,Pão francês,01.1.1
@@ -149,7 +149,7 @@ Brasil,1115058,Enlatados e conservas,Milho-verde em conserva,01.1.7
 Brasil,1115075,Enlatados e conservas,Atum em conserva,01.1.3
 Brasil,1116001,Sal e condimentos,Leite de coco,01.1.9
 Brasil,1116005,Sal e condimentos,Atomatado,01.1.9
-Brasil,1116010,Sal e condimentos,Alho,01.1.9
+Brasil,1116010,Sal e condimentos,Alho,01.1.7
 Brasil,1116013,Sal e condimentos,Sal,01.1.9
 Brasil,1116022,Sal e condimentos,Colorau,01.1.9
 Brasil,1116023,Sal e condimentos,Caldo de tucupi,01.1.9
@@ -193,7 +193,7 @@ Brasil,2104015,Artigos de limpeza,Sabão em barra,05.6.1
 Brasil,2104016,Artigos de limpeza,Esponja de limpeza,05.6.1
 Brasil,2104019,Artigos de limpeza,Sabão líquido,05.6.1
 Brasil,2104020,Artigos de limpeza,Limpador multiuso,05.6.1
-Brasil,2104041,Artigos de limpeza,Papel toalha,05.6.1
+Brasil,2104041,Artigos de limpeza,Papel toalha,12.1.3
 Brasil,2104085,Artigos de limpeza,Amaciante e alvejante,05.6.1
 Brasil,2201003,Combustíveis (domésticos),Carvão vegetal,04.5.4
 Brasil,2201004,Combustíveis (domésticos),Gás de botijão,04.5.2
@@ -225,7 +225,7 @@ Brasil,3202003,"Tv, som e informática",Aparelho de som,09.1.1
 Brasil,3202008,"Tv, som e informática",Videogame (console),09.1.1
 Brasil,3202028,"Tv, som e informática",Computador pessoal,09.1.3
 Brasil,3301002,Consertos e manutenção,Conserto de refrigerador,05.3.3
-Brasil,3301006,Consertos e manutenção,Conserto de televisor,05.3.3
+Brasil,3301006,Consertos e manutenção,Conserto de televisor,09.1.5
 Brasil,3301015,Consertos e manutenção,Conserto de máquina de lavar roupa,05.3.3
 Brasil,3301022,Consertos e manutenção,Reforma de estofado,05.1.3
 Brasil,3301088,Consertos e manutenção,Conserto de aparelho celular,08.2.0
@@ -313,19 +313,19 @@ Brasil,6202003,Serviços laboratoriais e hospitalares,Exame de laboratório,06.3
 Brasil,6202004,Serviços laboratoriais e hospitalares,Hospitalização e cirurgia,06.3.0
 Brasil,6202006,Serviços laboratoriais e hospitalares,Exame de imagem,06.3.0
 Brasil,6203001,Plano de saúde,Plano de saúde,12.5.3
-Brasil,6301001,Higiene pessoal,Produto para cabelo,12.1.2
-Brasil,6301002,Higiene pessoal,Fralda descartável,12.1.2
-Brasil,6301004,Higiene pessoal,Produto para barba,12.1.2
-Brasil,6301006,Higiene pessoal,Produto para pele,12.1.2
-Brasil,6301007,Higiene pessoal,Produto para higiene bucal,12.1.2
-Brasil,6301010,Higiene pessoal,Produto para unha,12.1.2
-Brasil,6301011,Higiene pessoal,Perfume,12.1.2
-Brasil,6301014,Higiene pessoal,Desodorante,12.1.2
-Brasil,6301015,Higiene pessoal,Absorvente higiênico,12.1.2
-Brasil,6301016,Higiene pessoal,Sabonete,12.1.2
-Brasil,6301017,Higiene pessoal,Papel higiênico,12.1.2
-Brasil,6301020,Higiene pessoal,Artigos de maquiagem,12.1.2
-Brasil,7101001,Serviços pessoais,Costureira,12.1.1
+Brasil,6301001,Higiene pessoal,Produto para cabelo,12.1.3
+Brasil,6301002,Higiene pessoal,Fralda descartável,12.1.3
+Brasil,6301004,Higiene pessoal,Produto para barba,12.1.3
+Brasil,6301006,Higiene pessoal,Produto para pele,12.1.3
+Brasil,6301007,Higiene pessoal,Produto para higiene bucal,12.1.3
+Brasil,6301010,Higiene pessoal,Produto para unha,12.1.3
+Brasil,6301011,Higiene pessoal,Perfume,12.1.3
+Brasil,6301014,Higiene pessoal,Desodorante,12.1.3
+Brasil,6301015,Higiene pessoal,Absorvente higiênico,12.1.3
+Brasil,6301016,Higiene pessoal,Sabonete,12.1.3
+Brasil,6301017,Higiene pessoal,Papel higiênico,12.1.3
+Brasil,6301020,Higiene pessoal,Artigos de maquiagem,12.1.3
+Brasil,7101001,Serviços pessoais,Costureira,03.1.4
 Brasil,7101005,Serviços pessoais,Manicure,12.1.1
 Brasil,7101010,Serviços pessoais,Empregado doméstico,05.6.2
 Brasil,7101011,Serviços pessoais,Cabeleireiro e barbeiro,12.1.1
@@ -337,45 +337,45 @@ Brasil,7101090,Serviços pessoais,Conselho de classe,12.7.0
 Brasil,7101144,Serviços pessoais,Sobrancelha,12.1.1
 Brasil,7201006,Recreação,Clube,09.4.1
 Brasil,7201010,Recreação,Instrumento musical,09.2.1
-Brasil,7201015,Recreação,Tratamento de animais (clínica),09.3.4/5
-Brasil,7201019,Recreação,Bicicleta,07.1.2
-Brasil,7201020,Recreação,Alimento para animais,09.3.4/5
+Brasil,7201015,Recreação,Tratamento de animais (clínica),09.3.5
+Brasil,7201019,Recreação,Bicicleta,07.1.3
+Brasil,7201020,Recreação,Alimento para animais,09.3.4
 Brasil,7201023,Recreação,Brinquedo,09.3.1
 Brasil,7201054,Recreação,Casa noturna,09.4.2
-Brasil,7201063,Recreação,Jogos de azar,09.3.1
+Brasil,7201063,Recreação,Jogos de azar,09.4.3
 Brasil,7201067,Recreação,Material de caça e pesca,09.3.2
 Brasil,7201090,Recreação,Hospedagem,11.2.0
 Brasil,7201095,Recreação,Pacote turístico,09.6.0
-Brasil,7201256,Recreação,Serviço de higiene para animais,09.3.4/5
+Brasil,7201256,Recreação,Serviço de higiene para animais,09.3.5
 Brasil,7201266,Recreação,"Cinema, teatro e concertos",09.4.2
 Brasil,7202041,Fumo,Cigarro,02.2.0
 Brasil,8101001,Cursos regulares,Creche,12.4.0
 Brasil,8101002,Cursos regulares,Pré-escola,10.1.0
 Brasil,8101003,Cursos regulares,Ensino fundamental,10.1.0
-Brasil,8101004,Cursos regulares,Ensino médio,10.1.0
-Brasil,8101005,Cursos regulares,Ensino superior,10.1.0
-Brasil,8101006,Cursos regulares,Pós-graduação,10.1.0
-Brasil,8101008,Cursos regulares,Educação de jovens e adultos,10.1.0
-Brasil,8101045,Cursos regulares,Curso técnico,10.1.0
+Brasil,8101004,Cursos regulares,Ensino médio,10.2.0
+Brasil,8101005,Cursos regulares,Ensino superior,10.4.0
+Brasil,8101006,Cursos regulares,Pós-graduação,10.4.0
+Brasil,8101008,Cursos regulares,Educação de jovens e adultos,10.2.0
+Brasil,8101045,Cursos regulares,Curso técnico,10.5.0
 Brasil,8102001,Leitura,Jornal diário,09.5.2
 Brasil,8102004,Leitura,Revista,09.5.2
 Brasil,8102007,Leitura,Livro didático,09.5.1
 Brasil,8102008,Leitura,Livro não didático,09.5.1
 Brasil,8103001,Papelaria,Caderno,09.5.3
 Brasil,8103014,Papelaria,Artigos de papelaria,09.5.3
-Brasil,8104001,Cursos diversos,Curso preparatório,10.1.0
-Brasil,8104003,Cursos diversos,Curso de idioma,10.1.0
-Brasil,8104004,Cursos diversos,Curso de informática,10.1.0
+Brasil,8104001,Cursos diversos,Curso preparatório,10.5.0
+Brasil,8104003,Cursos diversos,Curso de idioma,10.5.0
+Brasil,8104004,Cursos diversos,Curso de informática,10.5.0
 Brasil,8104005,Cursos diversos,Autoescola,07.2.4
 Brasil,8104006,Cursos diversos,Atividades físicas,09.4.1
 Brasil,9101001,Comunicação,Correio,08.1.0
-Brasil,9101002,Comunicação,Plano de telefonia fixa,08.2.0
-Brasil,9101008,Comunicação,Plano de telefonia móvel,08.2.0
+Brasil,9101002,Comunicação,Plano de telefonia fixa,08.3.0
+Brasil,9101008,Comunicação,Plano de telefonia móvel,08.3.0
 Brasil,9101010,Comunicação,Tv por assinatura,09.4.2
-Brasil,9101018,Comunicação,Acesso à internet,08.2.0
+Brasil,9101018,Comunicação,Acesso à internet,08.3.0
 Brasil,9101019,Comunicação,Aparelho telefônico,08.2.0
 Brasil,9101115,Comunicação,Serviços de streaming,09.4.2
-Brasil,9101116,Comunicação,"Combo de telefonia, internet e tv por assinatura",08.2.0
+Brasil,9101116,Comunicação,"Combo de telefonia, internet e tv por assinatura",08.3.0
 Chile,11111,ARROZ,ARROZ,01.1.1
 Chile,11121,HARINA DE CEREALES,HARINA DE TRIGO,01.1.1
 Chile,11122,HARINA DE CEREALES,HARINA DE OTROS CEREALES,01.1.1
